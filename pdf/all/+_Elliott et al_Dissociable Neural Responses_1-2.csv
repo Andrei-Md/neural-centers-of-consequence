@@ -1,0 +1,10 @@
+importance,+
+author,Elliott et al
+title,Dissociable Neural Responses in Human Reward Systems
+table_name,Table 1 -2 - Maximally activated voxels in areas where significant evoked activity was related to reward level - Negative correlation with reward level(increase penalty)
+keywords,fMRI;reward magnitude;reward value;outcome phase;decision making;monetary reward;talairach;gambling;negative reward
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value
+Hippocampus,L,,-24,-18,-18,5.38,0.05
+Hippocampus,R,,33,-12,-15,4.11,0.001
+Parahippocampal gyrus,L,35,-15,-30,-12,4.73,0.05
+Parahippocampal gyrus,R,35,12,-33,-12,4.59,0.001

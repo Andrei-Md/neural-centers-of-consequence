@@ -1,0 +1,9 @@
+importance,+
+author,John O Doherty
+title,Dissociating Valence of Outcome from Behavioral Control in Human Orbital and Ventral Prefrontal Cortices
+table_name,Table 3-1-a - Comparison between choice and imperative tasks - Choice-imperative: effects of valence of outcome (reward>punishment)
+keywords,fMRI; reward value; outcome phase; decision making; performance-dependent; monetary reward; MNI; positive reward;
+Name,Left/Right,X(R),Y(A),Z(S),z-score
+Medial OFC,R,9,39,-18,3.56
+Lateral OFC,L,-42,42,-15,4.35
+Central OFC,R,18,39,-9,3.43

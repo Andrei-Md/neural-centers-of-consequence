@@ -1,0 +1,368 @@
+MNIX,MNIY,MNIZ,BA,TALX,TALY,TALZ
+18,-7,-28,Outside defined BAs,17,-9,-20
+-17,-3,-14,Outside defined BAs,-17,-5,-8
+-28,-24,-14,Left-Hippocampus,-26,-25,-8
+-21,21,-25,Left-ParsOrbitalis (47),-21,16,-20
+4,-56,35,Right-DorsalPCC (31),4,-53,33
+25,25,-21,Right-ParsOrbitalis (47),24,20,-16
+39,-21,14,Right-PrimAuditory (41),37,-21,16
+11,0,-14,Outside defined BAs,10,-2,-8
+14,11,-14,Outside defined BAs,13,7,-9
+53,-17,46,Right-PrimSensory (1),52,-14,43
+-31,-14,-21,Left-Hippocampus,-30,-16,-14
+-7,4,8,Outside defined BAs,-7,1,9
+56,-38,49,Right-SupramargGyr (40),56,-34,46
+-52,35,14,Left-dlPFC(lat) (46),-51,33,14
+-59,-52,21,Left-AngGyrus (39),-58,-51,22
+49,14,-7,Outside defined BAs,46,10,-1
+-45,-7,-10,Left-SupTempGyrus (22),-43,-9,-5
+60,-45,28,Right-AngGyrus (39),59,-43,28
+7,-10,11,Right-Thalamus,6,-11,12
+53,7,11,Right-Broca-Operc (44),50,5,14
+49,-49,-35,Outside defined BAs,48,-51,-26
+-56,7,-14,Left-Temporalpole (38),-54,3,-9
+-10,-10,14,Left-Thalamus,-9,-11,15
+25,49,-7,Right-AntPFC (10),24,44,-6
+-17,-21,21,Outside defined BAs,-16,-21,21
+-63,0,-7,Left-SupTempGyrus (22),-60,-3,-2
+21,39,-21,Right-OrbFrontal (11),20,33,-18
+-10,42,-24,Left-OrbFrontal (11),-10,36,-23
+27,-1,-21,Right-Amygdala,26,-4,-14
+-23,0,-16,Left-Amygdala,-23,-3,-10
+14,14,-10,Right-Caudate,13,10,-6
+-21,14,-10,Left-Putamen,-21,10,-5
+28,-35,-3,Right-Hippocampus,27,-35,1
+39,-21,-14,Right-Hippocampus,37,-23,-7
+-38,-24,-17,Outside defined BAs,-36,-25,-11
+7,-87,0,Right-PrimVisual (17),7,-84,4
+-28,-45,-28,Outside defined BAs,-26,-46,-20
+14,-45,-14,Outside defined BAs,14,-45,-7
+25,-10,67,Right-PreMot+SuppMot (6),26,-5,61
+10,6,2,Outside defined BAs,9,3,4
+-8,8,2,Left-Caudate,-8,5,4
+32,26,-8,Right-Insula (13),30,22,-3
+-40,20,-12,Left-ParsOrbitalis (47),-39,15,-7
+-30,54,-4,Left-AntPFC (10),-30,50,-3
+-10,26,32,Left-DorsalACC (32),-9,26,30
+10,28,34,Right-FrontEyeFields (8),9,28,31
+54,-38,-6,Right-MedTempGyrus (21),52,-39,0
+-58,-36,-16,Left-MedTempGyrus (21),-54,-37,-9
+44,18,24,Right-Broca-Operc (44),42,18,25
+40,36,16,Right-dlPFC(lat) (46),39,35,17
+-46,6,38,Left-PreMot+SuppMot (6),-45,6,36
+42,-90,-6,Right-SecVisual (18),43,-88,0
+-40,-90,-8,Left-SecVisual (18),-40,-88,-1
+-6,10,2,Left-Caudate,-6,7,4
+40,26,-14,Right-ParsOrbitalis (47),38,21,-8
+36,-96,-4,Right-SecVisual (18),37,-93,1
+-36,-92,-4,Left-SecVisual (18),-36,-89,1
+-52,10,22,Left-Broca-Operc (44),-50,8,22
+-54,-2,32,Left-PreMot+SuppMot (6),-52,-2,31
+-18,-12,-16,Left-Hippocampus,-17,-14,-10
+-12,6,0,Outside defined BAs,-12,3,3
+-30,-64,-10,Left-Fusiform (37),-29,-64,-4
+-24,-50,-12,Left-Fusiform (37),-23,-50,-6
+34,-60,-14,Right-Fusiform (37),34,-60,-7
+42,-90,-4,Right-SecVisual (18),43,-88,1
+-20,-98,-10,Left-SecVisual (18),-20,-95,-4
+2,50,-12,Right-AntPFC (10),1,44,-13
+-8,34,-22,Left-OrbFrontal (11),-8,29,-20
+-36,34,-18,Left-ParsOrbitalis (47),-35,29,-14
+-26,26,44,Left-FrontEyeFields (8),-25,27,40
+-22,-18,-22,Left-Parahipp (36),-21,-19,-15
+22,-16,-24,Right-Parahipp (36),21,-18,-16
+22,0,-20,Right-Amygdala,21,-3,-13
+-60,-30,8,Left-SupTempGyrus (22),-57,-30,11
+14,-54,12,Right-VentPostCing (23),14,-52,14
+34,-96,-4,Right-SecVisual (18),35,-93,1
+-34,-94,-4,Left-SecVisual (18),-34,-91,1
+-10,10,-6,Left-Caudate,-10,7,-2
+10,12,-2,Right-Caudate,9,9,1
+-8,36,-12,Left-OrbFrontal (11),-8,31,-11
+32,-96,-2,Right-SecVisual (18),33,-93,3
+-32,-98,-2,Left-SecVisual (18),-32,-95,3
+-51,-30,54,Left-PrimSensory (1),-51,-27,50
+48,-27,45,Right-PrimSensory (1),48,-24,42
+-27,-72,-21,Outside defined BAs,-26,-72,-13
+21,-54,-21,Outside defined BAs,21,-54,-13
+-6,-96,21,Left-SecVisual (18),-6,-91,21
+-57,12,-3,Outside defined BAs,-55,8,0
+18,6,72,Outside defined BAs,18,11,65
+3,33,30,Right-FrontEyeFields (8),2,32,27
+0,51,-6,Outside defined BAs,0,45,-7
+9,57,36,Right-dlPFC(dorsal) (9),8,56,32
+45,36,30,Right-dlPFC(dorsal) (9),44,37,29
+54,24,-9,Right-ParsOrbitalis (47),51,20,-3
+-45,51,-9,Left-AntPFC (10),-44,47,-6
+-57,18,-3,Outside defined BAs,-55,14,0
+27,0,-21,Right-Amygdala,26,-3,-14
+33,3,0,Right-Putamen,31,0,3
+3,-18,9,Right-Thalamus,3,-18,11
+30,-6,-21,Right-Hippocampus,29,-9,-14
+27,6,9,Right-Putamen,26,3,11
+24,-3,3,Right-Putamen,23,-5,6
+3,-15,-21,Outside defined BAs,2,-16,-14
+16,14,-8,Right-Putamen,15,10,-4
+-24,12,-12,Outside defined BAs,-24,8,-7
+-2,54,14,Left-AntPFC (10),-2,50,11
+14,-18,-16,Outside defined BAs,13,-19,-9
+10,18,8,Right-Caudate,9,16,9
+-22,26,8,Outside defined BAs,-21,23,9
+42,2,6,Right-Insula (13),40,0,9
+-30,-30,14,Outside defined BAs,-29,-30,15
+54,-24,6,Right-PrimAuditory (41),51,-24,9
+60,4,-12,Right-Temporalpole (38),56,0,-5
+-60,-6,-4,Left-SupTempGyrus (22),-57,-8,0
+56,-40,26,Right-SupramargGyr (40),55,-38,26
+-54,-40,20,Left-SupTempGyrus (22),-52,-39,21
+6,-32,60,Right-PrimMotor (4),6,-28,54
+62,-34,28,Right-SupramargGyr (40),60,-32,28
+34,-18,48,Right-PrimMotor (4),34,-15,45
+-6,-26,46,Left-DorsalPCC (31),-5,-23,42
+42,-72,-46,Outside defined BAs,43,-74,-36
+-38,-30,38,Left-PrimSensory (1),-37,-28,36
+-14,-28,12,Left-Thalamus,-13,-28,14
+39,16,33,Right-FrontEyeFields (8),38,17,32
+51,16,45,Outside defined BAs,50,18,43
+40,6,44,Right-FrontEyeFields (8),40,8,42
+41,19,9,Right-Broca-Operc (44),39,17,11
+-36,-57,50,Left-AngGyrus (39),-36,-54,46
+9,42,-12,Right-OrbFrontal (11),8,37,-12
+9,66,6,Right-AntPFC (10),8,61,3
+12,36,-18,Right-OrbFrontal (11),11,31,-16
+3,15,-12,Outside defined BAs,2,11,-8
+-39,42,-15,Left-ParsOrbitalis (47),-38,37,-11
+-9,-33,45,Left-DorsalPCC (31),-8,-30,42
+-9,-42,45,Left-DorsalPCC (31),-8,-39,42
+-27,18,-15,Left-Insula (13),-27,13,-10
+-6,18,-12,Left-Subgenual (25),-6,14,-8
+-27,-3,-27,Left-Amygdala,-27,-6,-20
+33,-6,-33,Right-Parahipp (36),32,-9,-25
+9,42,-12,Right-OrbFrontal (11),8,37,-12
+9,66,6,Right-AntPFC (10),8,61,3
+12,36,-18,Right-OrbFrontal (11),11,31,-16
+3,15,-12,Outside defined BAs,2,11,-8
+-39,42,-15,Left-ParsOrbitalis (47),-38,37,-11
+-9,-33,45,Left-DorsalPCC (31),-8,-30,42
+-9,-42,45,Left-DorsalPCC (31),-8,-39,42
+42,27,0,Right-ParsOrbitalis (47),40,24,3
+51,24,0,Right-Broca-Triang (45),48,21,4
+45,36,-9,Right-ParsOrbitalis (47),43,32,-4
+0,48,21,Right-dlPFC(dorsal) (9),0,45,18
+51,21,-3,Right-ParsOrbitalis (47),48,18,1
+0,42,-18,Right-OrbFrontal (11),0,36,-18
+-42,36,-18,Left-ParsOrbitalis (47),-41,31,-14
+-3,54,-9,Left-AntPFC (10),-3,48,-10
+-3,-54,15,Left-VentPostCing (23),-2,-52,17
+36,27,-9,Right-ParsOrbitalis (47),34,23,-4
+-3,21,42,Left-FrontEyeFields (8),-2,22,38
+3,33,36,Right-FrontEyeFields (8),2,33,33
+-6,12,51,Left-PreMot+SuppMot (6),-5,14,46
+9,39,-18,Right-OrbFrontal (11),8,34,-17
+-42,42,-15,Left-ParsOrbitalis (47),-41,37,-11
+18,39,-9,Outside defined BAs,17,34,-7
+3,27,-12,Right-OrbFrontal (11),2,23,-9
+24,36,-6,Outside defined BAs,23,32,-3
+-3,21,39,Left-FrontEyeFields (8),-2,22,36
+6,27,33,Right-FrontEyeFields (8),5,27,30
+9,21,39,Right-FrontEyeFields (8),9,22,36
+-6,3,0,Outside defined BAs,-6,0,3
+21,0,18,Outside defined BAs,20,-1,18
+15,18,3,Right-Caudate,14,15,5
+21,0,-3,Right-GlobPal,20,-2,1
+33,3,6,Outside defined BAs,31,0,8
+0,-15,48,Right-PreMot+SuppMot (6),0,-12,44
+-30,42,-9,Outside defined BAs,-29,37,-7
+-33,21,-18,Left-ParsOrbitalis (47),-33,16,-13
+39,24,-12,Right-ParsOrbitalis (47),37,20,-6
+-2,42,8,Left-DorsalACC (32),-2,38,7
+0,44,36,Right-dlPFC(dorsal) (9),0,43,32
+2,44,12,Outside defined BAs,1,40,10
+2,46,16,Right-AntPFC (10),1,43,14
+2,46,20,Right-dlPFC(dorsal) (9),1,43,18
+6,46,20,Right-dlPFC(dorsal) (9),5,43,18
+36,24,-12,Right-ParsOrbitalis (47),34,19,-6
+40,22,-12,Right-ParsOrbitalis (47),38,18,-6
+32,22,-14,Right-ParsOrbitalis (47),30,17,-8
+46,22,-6,Right-ParsOrbitalis (47),43,18,0
+50,22,-4,Right-ParsOrbitalis (47),47,19,0
+36,28,-2,Right-Insula (13),34,25,1
+-10,16,-18,Left-OrbFrontal (11),-10,12,-13
+-12,10,-16,Outside defined BAs,-12,6,-11
+-14,14,-16,Left-OrbFrontal (11),-14,10,-11
+20,12,-18,Outside defined BAs,19,8,-12
+22,20,-10,Outside defined BAs,21,16,-5
+12,20,-10,Outside defined BAs,11,16,-6
+-22,24,54,Outside defined BAs,-21,26,49
+-22,30,50,Left-FrontEyeFields (8),-21,32,45
+-18,26,50,Left-FrontEyeFields (8),-17,28,45
+-28,32,44,Left-dlPFC(dorsal) (9),-27,33,40
+-26,30,44,Left-FrontEyeFields (8),-25,31,40
+-26,26,38,Left-dlPFC(dorsal) (9),-25,26,35
+-30,51,0,Left-AntPFC (10),-30,47,0
+30,54,-3,Right-AntPFC (10),29,50,-2
+36,12,54,Right-FrontEyeFields (8),36,15,50
+-51,-48,57,Outside defined BAs,-51,-44,52
+45,-48,45,Right-SupramargGyr (40),46,-45,42
+3,-66,48,Right-VisMotor (7),3,-62,43
+-30,33,-15,Left-ParsOrbitalis (47),-30,28,-11
+30,33,-15,Right-ParsOrbitalis (47),29,28,-11
+-6,45,-15,Left-OrbFrontal (11),-6,39,-15
+-21,-6,-27,Left-Hippocampus,-21,-8,-20
+24,0,-27,Right-Amygdala,23,-3,-19
+-3,57,30,Left-dlPFC(dorsal) (9),-3,55,26
+54,36,9,Right-dlPFC(lat) (46),52,35,11
+-39,18,-24,Left-Temporalpole (38),-38,12,-18
+48,-6,54,Right-PreMot+SuppMot (6),48,-3,50
+-18,-51,-9,Left-VisualAssoc (19),-17,-51,-3
+21,-54,-6,Right-VisualAssoc (19),21,-53,0
+-48,-81,12,Left-VisualAssoc (19),-48,-79,15
+54,-66,6,Right-VisualAssoc (19),55,-65,10
+-42,-42,-24,Left-Fusiform (37),-39,-43,-17
+42,-45,-21,Right-Fusiform (37),40,-46,-13
+-12,-84,33,Left-VisualAssoc (19),-12,-79,31
+12,-84,24,Right-VisualAssoc (19),12,-80,24
+0,-84,12,Right-PrimVisual (17),0,-80,14
+-21,-72,-3,Left-SecVisual (18),-20,-70,2
+24,-60,12,Right-VentPostCing (23),24,-58,14
+-12,9,-9,Left-Putamen,-12,6,-5
+9,6,-9,Right-Caudate,8,3,-4
+-3,-24,-24,Outside defined BAs,-2,-25,-16
+6,-24,-9,Outside defined BAs,5,-25,-3
+-27,21,-6,Left-Insula (13),-26,17,-2
+33,24,3,Right-Insula (13),31,21,6
+-6,27,39,Left-FrontEyeFields (8),-5,27,36
+9,18,39,Right-FrontEyeFields (8),9,19,36
+3,6,27,Right-VentAntCing (24),2,5,26
+-3,-18,27,Outside defined BAs,-2,-17,26
+3,-3,30,Right-VentAntCing (24),3,-3,28
+-27,-6,48,Left-PreMot+SuppMot (6),-27,-4,44
+30,-6,54,Right-PreMot+SuppMot (6),30,-2,50
+-9,15,45,Left-FrontEyeFields (8),-8,16,41
+-27,-12,57,Left-PreMot+SuppMot (6),-27,-9,52
+-9,-18,9,Left-Thalamus,-8,-18,11
+-15,-66,54,Left-VisMotor (7),-15,-62,49
+39,-81,12,Right-VisualAssoc (19),40,-78,15
+-33,-54,-33,Outside defined BAs,-31,-56,-24
+33,-69,-27,Outside defined BAs,34,-69,-18
+4,-72,34,Right-VisMotor (7),4,-68,32
+40,-40,44,Right-SupramargGyr (40),40,-37,41
+32,4,64,Right-PreMot+SuppMot (6),33,8,59
+62,-46,-8,Right-Fusiform (37),60,-46,-1
+-24,6,62,Left-PreMot+SuppMot (6),-24,9,56
+-52,-56,-14,Left-Fusiform (37),-49,-57,-7
+48,-62,6,Right-VisualAssoc (19),48,-61,10
+-42,-78,0,Left-VisualAssoc (19),-42,-77,5
+6,40,-22,Right-OrbFrontal (11),5,34,-21
+12,58,2,Right-AntPFC (10),11,53,0
+-2,68,-2,Outside defined BAs,-2,62,-4
+10,64,0,Right-AntPFC (10),9,58,-1
+0,44,-10,Right-AntPFC (10),0,39,-10
+-2,62,-2,Left-AntPFC (10),-2,56,-4
+-18,32,34,Left-FrontEyeFields (8),-17,32,31
+-14,40,6,Outside defined BAs,-14,36,6
+-26,20,44,Left-FrontEyeFields (8),-25,21,40
+-24,24,52,Left-FrontEyeFields (8),-23,26,47
+-18,46,10,Outside defined BAs,-18,42,9
+0,68,-2,Outside defined BAs,0,62,-4
+12,60,0,Right-AntPFC (10),11,54,-1
+8,68,0,Right-AntPFC (10),7,62,-2
+-6,72,-4,Outside defined BAs,-6,66,-6
+4,52,-10,Right-AntPFC (10),3,46,-11
+0,48,-8,Right-AntPFC (10),0,42,-9
+-8,18,-6,Left-Caudate,-8,15,-3
+0,38,-12,Right-OrbFrontal (11),0,33,-11
+0,42,-6,Right-DorsalACC (32),0,37,-6
+-18,18,0,Outside defined BAs,-18,15,2
+50,-76,-2,Right-VisualAssoc (19),51,-75,3
+34,-92,-6,Right-SecVisual (18),35,-90,0
+40,-82,8,Right-VisualAssoc (19),41,-80,11
+54,-72,10,Right-VisualAssoc (19),55,-70,13
+48,-74,6,Right-VisualAssoc (19),49,-73,10
+40,-84,-2,Right-SecVisual (18),41,-82,3
+50,-76,-2,Right-VisualAssoc (19),51,-75,3
+36,-84,16,Right-VisualAssoc (19),37,-81,18
+40,-82,6,Right-VisualAssoc (19),41,-80,10
+4,-80,16,Right-SecVisual (18),4,-77,17
+12,-86,10,Right-PrimVisual (17),12,-83,12
+34,28,-6,Right-ParsOrbitalis (47),32,24,-1
+0,48,-8,Right-AntPFC (10),0,42,-9
+-8,16,-6,Left-Caudate,-8,13,-2
+14,-16,-2,Right-Thalamus,13,-17,2
+-16,16,2,Left-Caudate,-16,13,4
+-18,-62,48,Outside defined BAs,-18,-59,44
+-26,-50,48,Left-VisMotor (7),-26,-47,44
+-10,-64,60,Left-VisMotor (7),-10,-60,53
+-20,-54,34,Outside defined BAs,-19,-51,32
+-20,-90,24,Left-VisualAssoc (19),-20,-85,24
+-26,-82,36,Left-AngGyrus (39),-26,-78,34
+-26,-68,24,Outside defined BAs,-26,-65,24
+-28,-70,20,Outside defined BAs,-28,-67,21
+-34,-86,24,Left-VisualAssoc (19),-34,-82,24
+-60,-45,9,Left-SupTempGyrus (22),-57,-45,12
+-48,-42,3,Left-MedTempGyrus (21),-45,-42,7
+54,-48,27,Right-AngGyrus (39),54,-46,27
+51,-21,-6,Right-SupTempGyrus (22),48,-22,0
+-36,21,-24,Left-ParsOrbitalis (47),-36,15,-18
+-51,24,-6,Left-ParsOrbitalis (47),-49,20,-2
+0,51,18,Right-AntPFC (10),0,47,15
+-6,60,15,Left-AntPFC (10),-6,56,12
+3,54,30,Outside defined BAs,2,52,26
+-9,27,60,Left-FrontEyeFields (8),-8,30,54
+-18,54,39,Left-dlPFC(dorsal) (9),-18,54,35
+-18,45,42,Left-FrontEyeFields (8),-18,45,38
+3,36,9,Right-DorsalACC (32),2,33,9
+0,-18,39,Right-VentAntCing (24),0,-16,36
+54,0,-36,Right-InfTempGyrus (20),51,-5,-27
+4,48,26,Outside defined BAs,3,46,23
+2,52,30,Outside defined BAs,1,50,26
+4,50,12,Right-AntPFC (10),3,46,10
+-2,-2,4,Outside defined BAs,-2,-4,6
+54,-42,34,Right-SupramargGyr (40),54,-40,33
+54,-50,46,Right-AngGyrus (39),55,-46,43
+0,58,-6,Outside defined BAs,0,52,-8
+-34,56,-14,Left-AntPFC (10),-33,51,-12
+-2,42,8,Left-DorsalACC (32),-2,38,7
+0,-36,26,Outside defined BAs,0,-34,26
+-20,12,-12,Left-Putamen,-20,8,-7
+-16,6,-18,Outside defined BAs,-16,2,-12
+-52,-64,20,Left-AngGyrus (39),-51,-62,22
+-30,-78,44,Left-AngGyrus (39),-30,-74,41
+-26,32,48,Left-FrontEyeFields (8),-25,33,44
+-18,28,58,Left-PreMot+SuppMot (6),-17,31,52
+8,18,-4,Right-Caudate,7,15,-1
+6,40,38,Right-dlPFC(dorsal) (9),5,40,34
+4,52,28,Right-dlPFC(dorsal) (9),3,50,24
+6,50,48,Outside defined BAs,5,51,43
+-4,-2,2,Left-Thalamus,-4,-4,4
+2,-12,10,Right-Thalamus,2,-13,12
+4,-90,-4,Right-PrimVisual (17),4,-87,0
+-10,-84,-38,Outside defined BAs,-9,-83,-28
+-22,-78,-20,Outside defined BAs,-22,-77,-12
+66,-32,-4,Right-MedTempGyrus (21),62,-33,1
+-2,40,8,Left-VentAntCing (24),-2,36,7
+0,48,-14,Right-AntPFC (10),0,42,-15
+0,58,-4,Right-AntPFC (10),0,52,-6
+-52,42,-4,Left-ParsOrbitalis (47),-51,39,-1
+-22,32,44,Left-FrontEyeFields (8),-21,33,40
+-16,54,34,Left-dlPFC(dorsal) (9),-16,53,30
+-14,20,54,Left-PreMot+SuppMot (6),-13,23,49
+-20,12,-12,Left-Putamen,-20,8,-7
+-10,16,-6,Left-Caudate,-10,13,-2
+8,18,-4,Right-Caudate,7,15,-1
+20,12,-10,Right-Putamen,19,8,-5
+-44,-78,34,Left-AngGyrus (39),-44,-75,33
+-46,-66,24,Left-AngGyrus (39),-46,-64,25
+-18,-54,68,Left-VisMotor (7),-18,-50,61
+-46,-56,58,Left-AngGyrus (39),-46,-52,53
+-76,32,44,Outside defined BAs,-75,32,39
+32,-62,36,Right-AngGyrus (39),33,-59,34
+-6,-46,30,Left-VentPostCing (23),-5,-44,29
+6,-46,68,Right-SensoryAssoc (5),6,-42,61
+-14,50,-2,Left-AntPFC (10),-14,45,-2
+-46,-74,32,Left-AngGyrus (39),-46,-71,31
+-40,-60,40,Left-AngGyrus (39),-40,-57,38
+-44,-66,18,Left-AngGyrus (39),-44,-64,20
+26,28,38,Right-FrontEyeFields (8),26,29,36
+-56,-54,46,Outside defined BAs,-56,-51,43
+-50,-54,56,Outside defined BAs,-50,-50,52

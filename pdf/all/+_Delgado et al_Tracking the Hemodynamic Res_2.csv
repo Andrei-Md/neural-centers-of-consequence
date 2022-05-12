@@ -1,0 +1,13 @@
+importance,+
+author,Delgado et al
+title,Tracking the Hemodynamic Responses to Reward and Punishment in the Striatum
+table_name,Table 2- Interaction of condition by time
+keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling; time conditioning
+Name,Broadman Area,Left/Right,X(R),Y(A),Z(S),p value
+Dorsal striatum—caudate,,L,-12,15,7,0.0001
+Dorsal striatum—caudate,,R,11,16,7,0.0001
+Superior frontal gyrus,9,R,40,37,32,0.0001
+Ventral striatum,,L,-14,0,-8,0.001
+Medial temporal lobe,,L,-21,-14,-7,0.001
+Medial frontal gyrus,8/9,L,-33,16,35,0.001
+Inferior frontal gyrus,45,R,31,18,16,0.001

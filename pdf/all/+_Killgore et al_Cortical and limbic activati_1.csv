@@ -1,0 +1,18 @@
+importance,+
+author,Killgore et al
+title,Cortical and limbic activation during viewing of high- versus low-calorie foods
+table_name,Table 1 - Foci of maximally activated brain regions surviving low-calorie and high-calorie conjunction analysis
+keywords,fMRI; outcome phase; viewing; food ; high vs low calorie food; talairach; passive
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,p value
+L.,Insula,,-38,1,-10,3.17,0.005
+L.,Amygdala/hippocampus,,-22,-12,-15,4.14,0.005
+L.,Post-central gyrus,40,-63,-23,16,4.80,0.05
+L.,Cerebellum,,-34,-36,-22,3.50,0.005
+L.,Fusiform gyrus,,-44,-47,-16,3.26,0.005
+L.,Inferior occipital gyrus,18,-26,-86,-14,3.78,0.005
+R.,Medial frontal gyrus,10,4,54,-8,3.37,0.005
+R.,Amygdala,,22,-5,-17,3.42,0.005
+R.,Transverse temporal gyrus,42,61,-17,12,3.00,0.005
+R.,Superior temporal gyrus,21,61,-48,10,4.02,0.005
+R.,Precuneus,7,4,-51,36,2.83,0.005
+R.,Posterior cingulate,23,2,-60,14,3.63,0.005

@@ -1,0 +1,16 @@
+importance,+
+author,Smith et al
+title,Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex
+table_name,Table S4 - Regions exhibiting sensitivity to monetary value defined as increased activation to large gains (+$5 & +$2) compared to large losses (-$5 & -$2).
+keywords,fMRI;reward magnitude; reward value; decision making; outcome phase; monetary reward; high gain vs high loss; MNI;
+X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size
+12,58,2,Medial Frontal Gyrus,10,3.43,713
+-2,68,-2,Medial Frontal Gyrus,10,3.41,713
+10,64,0,Medial Frontal Gyrus,10,3.27,713
+0,44,-10,Medial Frontal Gyrus,11,3.22,713
+-2,62,-2,Medial Frontal Gyrus,10,3.08,713
+-18,32,34,Medial Frontal Gyrus,9,3.79,591
+-14,40,6,Anterior Cingulate,32,3.21,591
+-26,20,44,Middle Frontal Gyrus,8,3.12,591
+-24,24,52,Superior Frontal Gyrus,8,3.00,591
+-18,46,10,Anterior Cingulate,32,2.97,591
