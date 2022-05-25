@@ -1,0 +1,17 @@
+importance,++
+author,Rosell-Negre et al
+title,Monetary reward magnitude effects on behavior and brain function during goal-directed behavior
+table_name,Table S1 - Counting-Stroop related functional activations across monetary conditions.
+keywords,fMRI; reward magnitude; anticipation phase; decision making; monetary reward; MNI; performance-dependent; Stroop task
+Left/Right,Name,X(R),Y(A),Z(S),cluster size,z-score,subjects
+Left,insula,-2,2,-2,3375,4.64,37
+Right,precentral gyrus,36,-7,64,3375,5.29,37
+Right,superior frontal lobule,33,-4,61,3375,5.26,37
+Left,superior frontal lobule,-7,-7,61,3375,4.97,37
+Right,superior parietal lobule,24,-52,70,3618,4.59,37
+Left,superior parietal lobule,-27,-55,67,3618,5.52,37
+Left,postcentral gyrus,-63,-19,25,3618,5.57,37
+Left,inferior parietal lobule,-45,-34,40,3618,5.46,37
+Left,Supramarginal gyrus,-60,-28,34,3618,5.37,37
+Left,Supplementary Motor Area,-12,-7,70,3618,5.14,37
+Right,caudate,18,-19,19,3618,5.37,37

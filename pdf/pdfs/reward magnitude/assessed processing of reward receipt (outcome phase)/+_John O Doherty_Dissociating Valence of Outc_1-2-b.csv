@@ -1,0 +1,8 @@
+importance,+
+author,John O Doherty
+title,Dissociating Valence of Outcome from Behavioral Control in Human Orbital and Ventral Prefrontal Cortices
+table_name,Table 1-2-b - Effects of valence of outcome - Imperative task - punishment > reward
+keywords,fMRI; reward value; outcome phase; monetary reward; MNI; negative reward; viewing; passive
+Name,Left/Right,X(R),Y(A),Z(S),z-score
+Lateral OFC,R,45,36,-9,3.21
+Dorsal medial PFC,,0,48,21,3.65

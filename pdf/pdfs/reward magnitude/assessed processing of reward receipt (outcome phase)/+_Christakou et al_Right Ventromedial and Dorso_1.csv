@@ -1,0 +1,11 @@
+importance,+
+author,Christakou et al,
+title,Right Ventromedial and Dorsolateral Prefrontal Cortices Mediate Adaptive Decisions under Ambiguity by Integrating Choice Utility and Outcome Evaluation
+table_name,Table 1 - Conjunction of whole-brain correlations of choice and EV-modulated outcome contrasts with net score
+keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling; negative expectancy
+Name,Broadman Area,X(R),Y(A),Z(S),Left/Right,p value,subjects
+vmPFC,10/11/47,21,35,-7,R,0.001,19
+dlPFC,9,40,24,31,R,0.001,19
+Anterior cingulate,32,7,37,19,R,0.001,19
+Medial frontal gyrus / caudal pre-SMA,6,-4,1,53,L/R,0.001,19
+Precentral (frontal) gyrus / SMA,6,30,-8,53,R,0.001,19

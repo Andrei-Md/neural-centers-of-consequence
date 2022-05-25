@@ -1,0 +1,13 @@
+importance,+
+author,John O Doherty
+title,Dissociating Valence of Outcome from Behavioral Control in Human Orbital and Ventral Prefrontal Cortices
+table_name,Table 3-1-c - Comparison between choice and imperative tasks - Choice-imperative: effects of response switching
+keywords,fMRI; reward value; outcome phase; decision making; performance-dependent; monetary reward; MNI; response switching
+Name,Left/Right,X(R),Y(A),Z(S),z-score
+Dorsal anterior cingulate cortex,L,-3,21,39,3.67
+Dorsal anterior cingulate cortex,R,6,27,33,3.76
+Dorsal anterior cingulate cortex,R,9,21,39,3.58
+Caudate nucleus,L,-6,3,0,3.78
+Caudate nucleus,R,21,0,18,3.67
+Caudate nucleus,R,15,18,3,3.92
+Putamen,R,21,0,-3,3.39

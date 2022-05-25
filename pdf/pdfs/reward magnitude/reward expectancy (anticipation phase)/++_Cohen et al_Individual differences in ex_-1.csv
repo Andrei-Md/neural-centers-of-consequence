@@ -1,0 +1,18 @@
+importance,++
+author,Cohen et al
+title,Individual differences in extraversion and dopamine genetics predict neural reward responses
+table_name,Table 1 Study 2 reward - no reward
+keywords,fMRI; MNI; extraversion; dopamine; money reward; decision making; performance-dependent; reward magnitude
+Left/Right,Name,Broadman Area,t,X(R),Y(A),Z(S)
+R.,amygdala,,6.58,18,-7,-28
+L.,amygdala,,6.47,-17,-3,-14
+L.,hippocampus,,5.40,-28,-24,-14
+L.,orbitofrontal cortex,11,5.31,-21,21,-25
+R.,precuneus,23,5.21,4,-56,35
+R.,orbitofrontal cortex,11,5.11,25,25,-21
+R.,posterior insula,,4.79,39,-21,14
+R.,nucleus accumbens,,4.60,11,0,-14
+R.,nucleus accumbens,,4.52,14,11,-14
+R.,postcentral gyrus,4,4.44,53,-17,46
+L.,hippocampus,,4.23,-31,-14,-21
+L.,nucleus accumbens,,4.30,-7,4,8

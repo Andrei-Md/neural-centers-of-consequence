@@ -1,0 +1,9 @@
+importance,+
+author,Elliott et al
+title,Dissociable Neural Responses in Human Reward Systems
+table_name,Table 22 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Penalty during run of failure
+keywords,fMRI;reward magnitude;reward value;outcome phase;decision making;monetary reward;talairach;gambling;negative reward; context-dependent reward
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value
+Hippocampus,L,,-30,-12,-15,3.38,0.001
+Hippocampus,R,,33,-21,-15,3.73,0.001
+

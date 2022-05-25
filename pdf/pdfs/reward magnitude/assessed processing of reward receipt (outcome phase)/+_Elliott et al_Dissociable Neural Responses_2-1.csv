@@ -1,0 +1,12 @@
+importance,+
+author,Elliott et al
+title,Dissociable Neural Responses in Human Reward Systems
+table_name,Table 21 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success
+keywords,fMRI;reward magnitude;reward value;outcome phase;decision making;monetary reward;talairach;gambling;positive reward; context-dependent reward
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value
+Anterior medial thalamus,R,,6,-12,0,4.95,0.05
+Pallidum,R,,15,-3,6,4.40,0.01
+Pallidum,L,,-15,-3,6,4.31,0.01
+Subgenual cingulate,L,24,-9,36,-3,4.56,0.01
+Subgenual cingulate,R,,9,36,3,4.16,0.01
+

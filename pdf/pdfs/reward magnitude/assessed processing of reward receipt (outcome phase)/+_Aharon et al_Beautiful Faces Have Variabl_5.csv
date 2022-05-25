@@ -1,0 +1,18 @@
+importance,+
+author,Aharon et al
+title,Beautiful Faces Have Variable Reward Value - fMRI and Behavioral Evidence
+table_name,Table 2 E - Post-Hoc Fixed Effects Analysis - Contrast - Beautiful Female vs Beautiful Male
+keywords,fMRI; outcome phase; viewing; social reward; talairach; passive
+Name,X(R),Y(A),Z(S),p value,subjects
+NAc and other VS,7,9,-2,1.4E-4,6
+NAc and other VS,-9,9,5,6.6E-7,6
+NAc and other VS,-12,3,-2,3.8E-5,6
+VT,13,-15,-5,4.9E-6,6
+VT,19,-21,-2,4.8E-5,6
+SLEA,19,9,-15,5.9E-6,6
+SLEA,-18,9,-15,1.4E-5,6
+SLEA,-30,-3,-8,-2.2E-5,6
+GOb,28,45,-5,-1.4E-7,6
+GOb,-21,18,-8,9.5E-8,6
+GOb,-18,45,-5,-7.8E-9,6
+Amyg,0,3,-15,-1.9E-4,6

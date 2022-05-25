@@ -1,0 +1,33 @@
+importance,+
+author,Cruz et al
+title,Alterations in the functional neural circuitry supporting flexible choice behavior in autism spectrum disorders
+table_name,Table 3 - Summary of regions in the four-choice reversal learning task showing significant activation at reversal compared to expected positive reinforcement for ASD and controls
+keywords,fMRI; working memory; decision making; MNI; four choice
+Name,Left/Right,t,X(R),Y(A),Z(S),subjects
+Ventral striatum,R,5.14,16,14,-6,23
+Ventral striatum,L,3.84,-14,14,-6,23
+Thalamus,R,5.60,10,-18,4,23
+Thalamus,L,5.18,-10,-20,4,23
+Dorsal caudate,L,3.76,-10,8,6,23
+Orbitofrontal cortex,L,3.88,-28,58,-12,23
+Insula,R,6.70,34,26,-6,23
+Insula,L,7.86,-30,22,-6,23
+Anterior cingulate cortex/motor division,R,8.81,2,16,40,23
+Anterior cingulate cortex/motor division,L,8.87,-2,16,42,23
+Anterior cingulate cortex/cognitive division,L,3.76,-8,22,24,23
+Anterior cingulate cortex/affective division,R,4.92,10,38,20,23
+Anterior cingulate cortex/affective division,L,3.66,-8,32,20,23
+Dorsolateral prefrontal cortex,R,4.04,40,26,26,23
+Dorsolateral prefrontal cortex,L,5.47,-46,30,30,23
+Premotor cortex,R,7.41,52,8,26,23
+Premotor cortex,L,7.38,-56,2,30,23
+Pre-supplementary motor area,R,4.19,8,0,56,23
+Pre-supplementary motor area,L,5.56,-10,2,54,23
+Posterior parietal cortex,R,7.07,46,-30,42,23
+Posterior parietal cortex,L,8.93,-46,-36,46,23
+Primary visual cortex,R,5.15,18,-74,8,23
+Primary visual cortex,L,5.22,-10,-90,0,23
+Lateral extrastriate cortex,R,6.38,28,-66,44,23
+Lateral extrastriate cortex,L,6.61,-16,68,54,23
+Precuneus,R,6.61,10,-70,46,23
+Precuneus,L,5.72,-10,-68,52,23
