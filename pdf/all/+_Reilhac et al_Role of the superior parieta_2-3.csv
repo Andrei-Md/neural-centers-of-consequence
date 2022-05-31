@@ -1,0 +1,21 @@
+importance,+
+author,Reilhac et al
+title,Role of the superior parietal lobules in letter-identity processing within strings FMRI evidmarginalence from skilled and dyslexicreaders
+table_name,Table 2-1 Cerebral regions activated during the letter string comparis on task for the substitution condition relative to baseline - Frame Dif - frames with strings from different families
+contrast,Sub-Dif > Frame-Dif
+keywords,fMRI; working memory; decision making; talairach; reading; visual word recognition;Sub-Dif
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
+Right,superior  parietal  lobule/precuneus,7,24,-71,48,137,0.001,12
+Right,superior  parietal  lobule/precuneus,7,32,-60,49,29,0.001,12
+Right,inferior parietal lobule,40,63,-32,20,22,0.001,12
+Left,superior parietal lobule/precuneus,7,-20,-64,49,56,0.001,12
+Left,inferior parietal lobule,40,-30,-47,32,18,0.001,12
+Left,supra marginal gyrus,40,-40,-55,34,31,0.001,12
+Left,angular gyrus,39,-22,-62,34,71,0.001,12
+Left,fusiform gyrus,21,-36,-11,-21,18,0.001,12
+Left,inferior/middle frontal gyrus,46/10,-38,32,11,158,0.001,12
+Left,inferior/middle frontal gyrus,46/10,-36,47,-2,31,0.001,12
+Right,middle frontal gyrus,47/10/9,22,35,0,74,0.001,12
+Right,middle frontal gyrus,47/10/9,48,47,7,69,0.001,12
+Right,middle frontal gyrus,47/10/9,53,19,38,15,0.001,12
+,Cerebellum,,-26,-38,-32,18,0.001,12

@@ -1,0 +1,16 @@
+importance,+
+author,Nobre et al
+title,Orienting Attention to Locations in Perceptual Versus Mental Representations
+table_name,Table 2-2 Differential Brain Activations to Precues and Retrocues
+contrast,retrocue > precue
+keywords,fMRI; working memory; decision making; talairach; visual spatial;retrocue
+Left/Right,Name,X(R),Y(A),Z(S),z-score,cluster size,subjects
+,Med SPL (precuneus),03,-69,51,4.89,21,10
+R,IPS,36,-57,42,3.29,25,10
+R,IPS,33,-57,57,4.19,25,10
+L,IPS,-36,-63,51,4.20,16,10
+,Med PMC/PFC (pre-SMA/superior frontal gyrus),-3,24,39,4.47,30,10
+R,ventral PFC/insula (inferior frontal gyrus/anterior insula),36,24,-12,4.37,11,10
+R,dorsolateral PFC (middle frontal gyrus),51,39,21,4.23,6,10
+R,dorsolateral PFC (middle frontal gyrus),48,45,21,3.68,6,10
+L,dorsolateral PFC (posterior inferior frontal sulcus),-54,21,33,3.85,11,10
