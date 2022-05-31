@@ -2,7 +2,7 @@ importance,+
 author,Akitsuki et al
 title,Context-dependent cortical activation in response to financial reward and penalty  an event-related fMRI study
 table_name,Table 2 - Brain activities for Win 1 versus Lose 1
-contrast,W! > L1
+contrast,W1 > L1
 keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling;positive reward
 Left/Right,Name,NV,X(R),Y(A),Z(S),t,subjects
 R,Ventral striatum,400,24,0,-8,8.67,36

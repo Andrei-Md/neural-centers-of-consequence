@@ -5,22 +5,22 @@ table_name,Table 2 - 2-back minus 0-back activation one sample t-test (FDR corre
 contrast,2-back > 0-back
 keywords,fMRI; working memory; MNI; n-back task; two-back task;visual letters
 Name,Left/Right,cluster size,X(R),Y(A),Z(S),t,subjects
-Dorsolateral prefrontal cortex,L,1535,242,9,30,16.13,22
+Dorsolateral prefrontal cortex,L,1535,-42,9,30,16.13,22
 Dorsolateral prefrontal cortex,R,1549,30,9,57,15.10,22
-Ventrolateral prefrontal cortex,L,272,233,24,26,9.91,22
-Ventrolateral prefrontal cortex,R,123,33,26,26,9.20,22
-Dorsal medial prefrontal cortex,L,150,26,24,45,10.91,22
+Ventrolateral prefrontal cortex,L,272,-33,24,-6,9.91,22
+Ventrolateral prefrontal cortex,R,123,33,26,-6,9.20,22
+Dorsal medial prefrontal cortex,L,150,-6,24,45,10.91,22
 Dorsal medial prefrontal cortex,R,114,9,27,45,11.82,22
-Supplementary motor areas,L,332,23,15,54,12.56,22
+Supplementary motor areas,L,332,-3,15,54,12.56,22
 Supplementary motor areas,R,258,6,18,54,8.70,22
-pallidum,L,77,215,3,0,12.18,22
+pallidum,L,77,-15,3,0,12.18,22
 pallidum,R,54,15,3,0,9.10,22
-caudate,L,81,212,9,0,7.27,22
+caudate,L,81,-12,9,0,7.27,22
 caudate,R,154,15,9,6,7.42,22
-Inferior temporal cortex,L,92,254,251,215,4.98,22
-Superior parietal cortex,L,362,227,266,45,9.77,22
-Superior parietal cortex,R,229,39,266,51,7.48,22
-Inferior parietal cortex,L,610,239,260,48,10.66,22
-Inferior parietal cortex,R,465,42,245,42,9.68,22
-Cerebellum,L,842,29,278,234,6.39,22
-Cerebellum,R,1177,35,263,239,11.07,22
+Inferior temporal cortex,L,92,-54,-51,-15,4.98,22
+Superior parietal cortex,L,362,-27,-66,45,9.77,22
+Superior parietal cortex,R,229,39,-66,51,7.48,22
+Inferior parietal cortex,L,610,-39,-60,48,10.66,22
+Inferior parietal cortex,R,465,42,-45,42,9.68,22
+Cerebellum,L,842,-9,-78,-34,6.39,22
+Cerebellum,R,1177,35,-63,-39,11.07,22

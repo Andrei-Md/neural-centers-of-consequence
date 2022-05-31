@@ -10,19 +10,14 @@ from pdf import Util, Csv
 def main():
     logging.basicConfig()
     logging.getLogger().setLevel(logging.DEBUG)
-    # logging.basicConfig(filename='main.log', level=logging.DEBUG)
-
-    # pdf_folder_path = Path(
-    #     os.path.abspath("reward magnitude/assessed processing of reward receipt (outcome phase)/in-work"))
-    # pdf_folder_path = Path(
-    #     os.path.abspath("reward magnitude/assessed processing of reward receipt (outcome phase)"))
-    # pdf_folder_path = Path(
-    #     os.path.abspath("reward magnitude/reward expectancy (anticipation phase)"))
+    # logging.basicConfig(filename="main.log",
+    #                     format='%(asctime)s %(message)s',
+    #                     filemode='w')
 
     # all
     # pdf_folder_path = Path(os.path.abspath("all"))
-    pdf_folder_path = Path(os.path.abspath("pdfs/todo"))
-    # pdf_folder_path = Path(os.path.abspath("pdfs"))
+    # pdf_folder_path = Path(os.path.abspath("pdfs/todo"))
+    pdf_folder_path = Path(os.path.abspath("pdfs"))
 
     docs = FileProcess(path=pdf_folder_path, method="fitz", recursively=True)
 
@@ -35,11 +30,11 @@ def main():
     # # # docs.create_xml("content.xml")
     df = docs.process_csv(n_lines=6, ignore_files=["gen_"], ignore_folders=["~"])
 
-    # # ## process data
+    # # ## process data_db
     # df = Util.process_coordinates(df, conversion_type='tal2mni', columns_name=['X(R)', 'Y(A)', 'Z(S)'])
     df = Util.process_coordinates(df, conversion_type='none', columns_name=['X(R)', 'Y(A)', 'Z(S)'])
     # # # save df to csv
-    csv_path = Path(join(os.path.abspath("pdfs"), "final_coordinates-no_conversion.csv"))
+    csv_path = Path(join(os.path.abspath("../repr/data_db"), "final_coordinates-no_conversion.csv"))
     csv = Csv.Csv(csv_path, create=True)
     csv.create_csv_from_pd(df, header=True, index=False)
 

@@ -1,7 +1,7 @@
 importance,+
 author,Xue et al
-title,Table S4 - Functional Dissociations of Risk and Reward Processing in the Medial Prefrontal Cortex
-table_name,Foci of activation for Win minus Loss domains across both Risky and Safe choices
+title,Functional Dissociations of Risk and Reward Processing in the Medial Prefrontal Cortex
+table_name,Table S4 - Foci of activation for Win minus Loss domains across both Risky and Safe choices
 contrast,win > lose
 keywords,fMRI; outcome phase; decision making; monetary reward; MNI; gambling; cups task; positive reward
 Left/Right,Name,NV,z-score,X(R),Y(A),Z(S),p value,subjects

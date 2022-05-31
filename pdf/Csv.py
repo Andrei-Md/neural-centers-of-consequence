@@ -1,7 +1,7 @@
 import csv
-
 import pandas as pd
-
+import logging
+import os
 from pdf.Util import check_path
 
 
@@ -42,6 +42,10 @@ class Csv:
 
     def create_csv_from_pd(self, df, **kwargs):
         df.to_csv(self.path, **kwargs)
+
+        logging.info('\nSaved csv: "{file_name}"  in folder: "{folder_path}"'.format(
+            file_name=os.path.basename(self.path),
+            folder_path=os.path.dirname(self.path)))
 
         # writer = csv.writer(self.file_handle)
         # for key, value in csv_dict.items():

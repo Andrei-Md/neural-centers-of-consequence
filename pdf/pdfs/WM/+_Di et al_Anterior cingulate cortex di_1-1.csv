@@ -5,12 +5,12 @@ table_name,Table 1-1 Clusters that showed  increased or decreased activations in
 contrast,2-back > 1-back
 keywords,fMRI; working memory; MNI; n-back task; two-back task;visual letters
 p value,NV,X(R),Y(A),Z(S),t,Left/Right,Name,subjects
-0.001,2.108,24,11,56,11.65,Right,middle frontal gyrus,49
-0.001,2.108,-24,8,50,10.72,Left,middle frontal gyrus,49
-0.001,2.108,-48,5,32,9.810,Left,precentral gyrus,49
-0.001,2.897,-6,-61,44,10.73,,Precuneus,49
-0.001,2.897,-18,-70,50,10.68,Left,superior parietal lobule,49
-0.001,2.897,21,-67,53,10.44,Right,superior parietal lobule,49
+0.001,2108,24,11,56,11.65,Right,middle frontal gyrus,49
+0.001,2108,-24,8,50,10.72,Left,middle frontal gyrus,49
+0.001,2108,-48,5,32,9.810,Left,precentral gyrus,49
+0.001,2897,-6,-61,44,10.73,,Precuneus,49
+0.001,2897,-18,-70,50,10.68,Left,superior parietal lobule,49
+0.001,2897,21,-67,53,10.44,Right,superior parietal lobule,49
 0.004,120,48,5,23,7.00,Right,precentral gyrus,49
 0.003,149,27,-61,-37,6.92,Right,cerebellum,49
 0.003,149,9,-73,-31,4.78,Right,cerebellum,49

@@ -2,7 +2,7 @@ importance,+
 author,Sescousse et al
 title,The Architecture of Reward Value Coding in the Human Orbitofrontal Cortex
 table_name,Table S3 - Brain regions activated by both monetary and erotic reward outcomes
-contrast,monetary reward and erotic reward
+contrast,reward > no reward
 keywords,fMRI; reward value; outcome phase; decision making; MNI; performance-dependent; monetary and erotic reward
 Name,Left/Right,X(R),Y(A),Z(S),t,p value,subjects
 Ventral striatum,Left,-12,9,-9,6.38,0.05,18

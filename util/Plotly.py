@@ -11,8 +11,8 @@ def plot_coordinates_plotly(data,
                             browser=True):
     '''
     function to plot the coordinates
-    :param data: the list of data dictionary
-    :param data_source_name: data source name
+    :param data: the list of data_db dictionary
+    :param data_source_name: data_db source name
     :param title: the plot title
     :param browser: True - render the plot in the browser
                     False - render the plot in the IDE
@@ -122,8 +122,8 @@ def get_key_value(data_dict, key):
 def create_data(df, cols, grouping_col=None, labels_col_list=None,
                 colors=None, check_nan=False, color_nan='#ebeded', nan_val='nan', **kwargs):
     '''
-    function used to create data
-    :param df: data frame
+    function used to create data_db
+    :param df: data_db frame
     :param grouping_col: grouping column for colors
     :param cols: dict containing the df column for X,Y and Z position
     :param labels_col_list: list of column used for labels
@@ -131,8 +131,8 @@ def create_data(df, cols, grouping_col=None, labels_col_list=None,
     :param check_nan: check nan values: True - check nan value and assign them color_nan
                                         False - otherwise
     :param color_nan: color to assign to nan values
-    :param kwargs: keyword args to add to data dict
-    :return: the created data dict containing coordinates Xn, Yz, Zn, colors and labels
+    :param kwargs: keyword args to add to data_db dict
+    :return: the created data_db dict containing coordinates Xn, Yz, Zn, colors and labels
     '''
 
     if labels_col_list is None:
@@ -173,7 +173,7 @@ def create_data(df, cols, grouping_col=None, labels_col_list=None,
             label_str += str(labels_col_list[cnt]) + ": " + str(val[cnt]) + "; "
         labels.append(label_str[:-2])
 
-    # data dict to return
+    # data_db dict to return
     data_dict = dict(Xn=Xn, Yn=Yn, Zn=Zn,
                      colors=dict(color_group=color_group),
                      labels=labels)
@@ -184,7 +184,7 @@ def create_data(df, cols, grouping_col=None, labels_col_list=None,
 def create_group_idx(df, grouping_col):
     '''
     create a dictionary of unique elements from the grouping column and their unique index
-    :param df: data frame
+    :param df: data_db frame
     :param grouping_col: the grouping column
     :return: the dictionary of unique elements from the grouping column and their unique index
     '''

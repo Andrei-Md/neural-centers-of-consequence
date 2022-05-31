@@ -4,7 +4,7 @@ title,Are Attractive People Rewarding - Sex Differences in the Neural Substrates
 table_name,Table 1 - Identification of Blood Oxygenation Level-Dependent Signal that Increased Parametrically with Increases or Decreases in Attractiveness Judgments
 contrast,high reward > low reward
 keywords,fMRI; outcome phase; reward value; social reward; face stimuli; talairach; passive
-Broadman Area,Name,Left/Right,X(R),Y(A),Z(S),t,subjects
+Broadman Area,Left/Right,Name,t,X(R),Y(A),Z(S),subjects
 4,R,Precentral gyrus,13.04,39,-21,48,48
 ,L,Cerebellum,7.53,-24,-53,-20,48
 6,R,Callosomarginal sulcus,7.11,9,-7,45,48
