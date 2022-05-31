@@ -1,0 +1,16 @@
+importance,+
+author,Spreckelmeyer et al
+title,Anticipation of monetary and social reward differently activates mesolimbic brain structures in men and women
+table_name,Table 4-1 Brain regions activated during the anticipation of monetary or social rewards
+contrast,reward > no reward
+keywords,fMRI; reward value; anticipation phase; monetary reward; MID; talairach
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size,subjects
+L,putamen,,-21,8,-8,5.88,48,32
+L,NAcc,,-9,12,-1,5.01,,32
+R,NAcc,,12,15,-1,5.70,39,32
+R,cuneus,18,12,-72,15,5.26,28,32
+R,inferior middle occipital lobe,18/19,33,-87,10,5.36,22,32
+,thalamus,,0,-32,2,5.03,9,32
+L,inferior middle occipital lobe,18/19,-21,-87,10,5.28,8,32
+R,anterior cingulum,,18,35,-2,5.37,7,32
+

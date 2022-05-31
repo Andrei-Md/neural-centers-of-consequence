@@ -1,0 +1,14 @@
+importance,++
+author,Taylor et al
+title,A functional neuroimaging study of motivation and executive function
+table_name,Table 4-1 - Activation foci for the PROBE(decision phase) event - memory load
+contrast,-
+keywords,fMRI; working memory; decision phase; monetary reward; MNI; n-back task; visual shape
+Left/Right,Name,Broadman Area,cluster size,X(R),Y(A),Z(S),z-score,subjects
+R,middle frontal g,44,71,48,26,32,4.33,12
+L,middle frontal g,10,62,-40,50,-6,3.83,12
+R,inferior frontal g,45,96,42,28,-2,4.06,12
+L,inferior frontal g,47,47,-40,18,-4,3.82,12
+R,orbital g,11,32,24,40,-20,4.03,12
+,Anterior cingulate cortex,32,52,4,36,36,3.76,12
+L,inferior parietal lobule,39,38,-36,-60,40,4.67,12

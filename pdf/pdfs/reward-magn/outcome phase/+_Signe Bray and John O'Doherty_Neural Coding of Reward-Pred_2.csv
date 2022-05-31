@@ -1,0 +1,12 @@
+importance,+
+author,Signe Bray and John O'Doherty
+title,Neural Coding of Reward-Prediction Error Signals During Classical Conditioning With Attractive Faces
+table_name,TABLE 2 - Main effect of attractiveness: z scores and MNI coordinates of peak activation foci
+contrast,high reward > low reward
+keywords,fMRI; outcome phase; social reward; face stimuli; MNI; passive
+Name,Left/Right,NV,z-score,X(R),Y(A),Z(S),subjects
+Right,inferior frontal gyrus,7,3.70,39,24,18,23
+Left,inferior frontal gyrus,57,4.7,-39,36,15,23
+Left,nucleus accumbens,8,4.28,-9,15,-6,23
+,Medial anterior cingulate,32,3.76,0,36,12,23
+,Medial posterior cingulate,49,4.51,-3,-30,30,23

@@ -2,25 +2,26 @@ importance,+
 author,Sescousse et al
 title,The Architecture of Reward Value Coding in the Human Orbitofrontal Cortex
 table_name,Table S3 - Brain regions activated by both monetary and erotic reward outcomes
-keywords,fMRI; reward value; outcome phase; decision making; MNI; performance-dependent; monetary and erotic stimuli
-Name,Left/Right,X(R),Y(A),Z(S),t,p value
-Ventral striatum,Left,-12,9,-9,6.38,0.05
-Ventral striatum,Right,9,6,-9,6.2,0.05
-Midbrain,Left,-3,-24,-24,7.3,0.05
-Midbrain,Right,6,-24,-9,6.23,0.05
-Anterior insula,Left,-27,21,-6,7.48,0.05
-Anterior insula,Right,33,24,3,8.14,0.05
-Anterior cingulate,Left,-6,27,39,8.15,0.05
-Anterior cingulate,Right,9,18,39,8.42,0.05
-Anterior cingulate,Right,3,6,27,7.37,0.05
-Posterior cingulate,Left,-3,-18,27,6.1,0.05
-Posterior cingulate,Right,3,-3,30,8.58,0.05
-Middle frontal gyrus,Left,-27,-6,48,7.71,0.05
-Middle frontal gyrus,Right,30,-6,54,7.00,0.05
-Superior frontal gyrus,Left,-9,15,45,10.82,0.05
-Superior frontal / precentral gyrus,Left,-27,-12,57,10.08,0.05
-Thalamus,Left,-9,-18,9,6.76,0.05
-Superior parietal lobule,Left,-15,-66,54,9.42,0.05
-Middle occipital gyrus,Right,39,-81,12,8.14,0.05
-Cerebellum,Left,-33,-54,-33,8.03,0.05
-Cerebellum,Right,33,-69,-27,6.96,0.05
+contrast,monetary reward and erotic reward
+keywords,fMRI; reward value; outcome phase; decision making; MNI; performance-dependent; monetary and erotic reward
+Name,Left/Right,X(R),Y(A),Z(S),t,p value,subjects
+Ventral striatum,Left,-12,9,-9,6.38,0.05,18
+Ventral striatum,Right,9,6,-9,6.2,0.05,18
+Midbrain,Left,-3,-24,-24,7.3,0.05,18
+Midbrain,Right,6,-24,-9,6.23,0.05,18
+Anterior insula,Left,-27,21,-6,7.48,0.05,18
+Anterior insula,Right,33,24,3,8.14,0.05,18
+Anterior cingulate,Left,-6,27,39,8.15,0.05,18
+Anterior cingulate,Right,9,18,39,8.42,0.05,18
+Anterior cingulate,Right,3,6,27,7.37,0.05,18
+Posterior cingulate,Left,-3,-18,27,6.1,0.05,18
+Posterior cingulate,Right,3,-3,30,8.58,0.05,18
+Middle frontal gyrus,Left,-27,-6,48,7.71,0.05,18
+Middle frontal gyrus,Right,30,-6,54,7.00,0.05,18
+Superior frontal gyrus,Left,-9,15,45,10.82,0.05,18
+Superior frontal / precentral gyrus,Left,-27,-12,57,10.08,0.05,18
+Thalamus,Left,-9,-18,9,6.76,0.05,18
+Superior parietal lobule,Left,-15,-66,54,9.42,0.05,18
+Middle occipital gyrus,Right,39,-81,12,8.14,0.05,18
+Cerebellum,Left,-33,-54,-33,8.03,0.05,18
+Cerebellum,Right,33,-69,-27,6.96,0.05,18

@@ -2,10 +2,11 @@ importance,+
 author,Akitsuki et al
 title,Context-dependent cortical activation in response to financial reward and penalty  an event-related fMRI study
 table_name,Table 1 - Brain activities for four losses in a row
+contrast,L4 > L1
 keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling; negative reward; context-dependent reward
-Left/Right,Name,NV,X(R),Y(A),Z(S),t
-R,Medial aspect of superior frontal gyrus,1229,8,56,22,8.78
-R,Medial aspect of superior frontal gyrus,32,10,18,60,7.7
-L,Medial aspect of superior frontal gyrus,111,-8,22,58,6.55
-L,Medial aspect of superior frontal gyrus,,-4,50,20,8.35
-R,Middle temporal gyrus,22,60,-12,-12,5.29
+Left/Right,Name,NV,X(R),Y(A),Z(S),t,subjects
+R,Medial aspect of superior frontal gyrus,1229,8,56,22,8.78,36
+R,Medial aspect of superior frontal gyrus,32,10,18,60,7.7,36
+L,Medial aspect of superior frontal gyrus,111,-8,22,58,6.55,36
+L,Medial aspect of superior frontal gyrus,,-4,50,20,8.35,36
+R,Middle temporal gyrus,22,60,-12,-12,5.29,36

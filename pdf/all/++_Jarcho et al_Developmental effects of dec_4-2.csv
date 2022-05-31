@@ -1,0 +1,10 @@
+importance,++
+author,Jarcho et al
+title,Developmental effects of decision-making on sensitivity to reward - An fMRI study
+table_name,Table 4-2 Anticipation for Adults during Choice trials compared with Baseline
+contrast,Large Incentives > Baseline
+keywords,fMRI; anticipation phase; decision making; monetary reward; high incentive; adult; visual cue
+Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
+Fusiform Gyrus,37,33,-47,-14,7804,0.005,26
+Cerebellum,,17,-59,-50,28,0.005,26
+Cerebellum,,-19,-47,-39,13,0.005,26

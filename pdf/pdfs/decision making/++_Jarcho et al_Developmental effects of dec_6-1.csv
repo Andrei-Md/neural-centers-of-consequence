@@ -1,0 +1,12 @@
+importance,++
+author,Jarcho et al
+title,Developmental effects of decision-making on sensitivity to reward - An fMRI study
+table_name,Table 6-1 Receipt for Adolescents during Choice trials compared with Baseline
+contrast,Small Incentives > Baseline
+keywords,fMRI; outcome phase; decision making; monetary reward; small incentive; young; visual cue
+Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
+Superior Parietal Lobule,7,-31,69,50,129,0.005,26
+Middle Frontal Gyrus,46,-51,-35,30,64,0.005,26
+Middle Occipital Gyrus,18,-27,90,-6,22,0.005,26
+Middle Occipital Gyrus,18,33,93,2,22,0.005,26
+Precuneus,7,29,74,42,16,0.005,26

@@ -2,25 +2,26 @@ importance,+
 author,Greck et al
 title,Is our self based on reward - Self-relatedness recruits neural activity in the reward system
 table_name,Table 1 - Activations for the contrast [reward win] vs [reward lose] - in fMRI the contrast was bigger for the won trials than those lost
-keywords,fMRI; reward value; outcome phase; decision making; MNI; gambling;positive reward
-Left/Right,Name,X(R),Y(A),Z(S),z-score,p value
-Right,nucleus accumbens,16,14,-8,4.00,0.029
-Left,nucleus accumbens,-24,12,-12,3.67,0.032
-Left,ventromedial prefrontal cortex,-2,54,14,3.61,0.034
-Right,ventral tegmental area,14,-18,-16,3.74,0.032
-Right,nucleus caudatus,10,18,8,4.01,0.029
-Left,nucleus caudatus,-22,26,8,3.93,0.030
-Right,insula,42,2,6,3.48,0.036
-Left,insula,-30,-30,14,3.55,0.035
-Right,superior temporal gyrus,54,-24,6,3.76,0.032
-Right,middle temporal gyrus,60,4,-12,3.63,0.033
-Left,superior temporal gyrus,-60,-6,-4,3.99,0.029
-Right,temporoparietal junction,56,-40,26,3.52,0.035
-Left,temporoparietal junction,-54,-40,20,3.90,0.030
-Right,medial parietal cortex,6,-32,60,5.08,0.027
-Right,lateral parietal cortex,62,-34,28,3.39,0.039
-Right,precentral gyrus,34,-18,48,4.67,0.027
-Left,posterior cingulate cortex,-6,-26,46,4.66,0.027
-Right,cerebellum,42,-72,-46,4.36,0.027
-Left,postcentral gyrus,-38,-30,38,3.98,0.029
-Left,thalamus,-14,-28,12,3.48,0.036
+contrast,win > lose
+keywords,fMRI; reward value; outcome phase; decision making; MNI; gambling;positive reward;feedback reward
+Left/Right,Name,X(R),Y(A),Z(S),z-score,p value,subjects
+Right,nucleus accumbens,16,14,-8,4.00,0.029,15
+Left,nucleus accumbens,-24,12,-12,3.67,0.032,15
+Left,ventromedial prefrontal cortex,-2,54,14,3.61,0.034,15
+Right,ventral tegmental area,14,-18,-16,3.74,0.032,15
+Right,nucleus caudatus,10,18,8,4.01,0.029,15
+Left,nucleus caudatus,-22,26,8,3.93,0.030,15
+Right,insula,42,2,6,3.48,0.036,15
+Left,insula,-30,-30,14,3.55,0.035,15
+Right,superior temporal gyrus,54,-24,6,3.76,0.032,15
+Right,middle temporal gyrus,60,4,-12,3.63,0.033,15
+Left,superior temporal gyrus,-60,-6,-4,3.99,0.029,15
+Right,temporoparietal junction,56,-40,26,3.52,0.035,15
+Left,temporoparietal junction,-54,-40,20,3.90,0.030,15
+Right,medial parietal cortex,6,-32,60,5.08,0.027,15
+Right,lateral parietal cortex,62,-34,28,3.39,0.039,15
+Right,precentral gyrus,34,-18,48,4.67,0.027,15
+Left,posterior cingulate cortex,-6,-26,46,4.66,0.027,15
+Right,cerebellum,42,-72,-46,4.36,0.027,15
+Left,postcentral gyrus,-38,-30,38,3.98,0.029,15
+Left,thalamus,-14,-28,12,3.48,0.036,15

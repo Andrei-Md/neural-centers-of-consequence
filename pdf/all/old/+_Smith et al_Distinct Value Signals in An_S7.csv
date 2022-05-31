@@ -1,0 +1,25 @@
+importance,+
+author,Smith et al
+title,Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex
+table_name,Table S7 - Regions whose activation increases with increasing social reward size
+keywords,fMRI;reward magnitude; outcome phase; decision making; monetary reward; social reward; MNI;
+X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size
+50,-76,-2,Middle Occipital Gyrus,19,3.98,2856
+36,-84,16,Middle Occipital Gyrus,19,3.60,2856
+40,-82,6,Middle Occipital Gyrus,19,3.58,2856
+4,-80,16,Cuneus,18,3.56,2856
+12,-86,10,Cuneus,18,3.53,2856
+34,28,-6,Inferior Frontal Gyrus,47,3.60,1971
+0,48,-8,Medial Frontal Gyrus,10,3.36,1971
+-8,16,-6,Caudate,,3.20,1971
+14,-16,-2,Thalamus,,3.19,1971
+-16,16,2,Caudate,,3.16,1971
+-18,-62,48,Precuneus,7,3.57,640
+-26,-50,48,Precuneus,7,3.42,640
+-10,-64,60,Precuneus,7,3.24,640
+-20,-54,34,Precuneus,31,3.10,640
+-20,-90,24,Cuneus,18,3.68,620
+-26,-82,36,Precuneus,19,3.39,620
+-26,-68,24,Precuneus,7,3.16,620
+-28,-70,20,Posterior Cingulate,31,3.08,620
+-34,-86,24,Superior Occipital Gyrus,19,2.87,620

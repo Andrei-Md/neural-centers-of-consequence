@@ -1,0 +1,12 @@
+importance,+
+author,Rademacher et al
+title,Dissociation of neural networks for anticipation and consumption of monetary and social rewards
+table_name,Table 2-1 - Brain regions activation during reward consumption in comparison to the "no outcome" condition inclusively masked with the (consumption_(hit outcome) > anticipation_(hit outcome)) contrast (uncorrected p = 0.001) - MID
+keywords,outcome phase; monetary reward; MID; fMRI; reward magnitude; talairach; performance-dependent
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size
+L/R,Middle occipital gyrus,18,30,-85,-3,6.81,1010
+L,Parahippocampal gyrus,27,-24,-27,-6,5.56,41
+L/R,Thalamusa,,3,-35,5,5.31,187
+R,Parahippocampal gyrus,,24,-24,-9,3.91,24
+L,Hippocampus,,-33,-12,-15,3.84,7
+,Anterior cingulate,24,0,38,9,3.81,8

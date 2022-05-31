@@ -2,10 +2,11 @@ importance,+
 author,Abler et al
 title,From uncertainty to reward - BOLD characteristics differentiate signaling pathways
 table_name,Table 1-4: fMRI Results: ANOVA 1 - modeling effects over the whole trial - increasing reward uncertainty
+contrast,risk > safe
 keywords,fMRI; MNI; reward magnitude; reward value; money reward; anticipation phase; outcome phase; anova; decision making; performance-dependent; increasing reward uncertainty
-Name,Left/Right,Broadman Area,NV,t,X(R),Y(A),Z(S)
-lateral occipital cortex,R,,612,9.17,36,-96,-4
-lateral occipital cortex,L,,201,5.82,-36,-92,-4
-DLPFC,L,,49,4.57,-52,10,22
-DLPFC,L,,33,4.56,-54,-2,32
-hippocampal area,L,,41,4.28,-18,-12,-16
+Name,Left/Right,Broadman Area,NV,t,X(R),Y(A),Z(S),subjects
+lateral occipital cortex,R,,612,9.17,36,-96,-4,15
+lateral occipital cortex,L,,201,5.82,-36,-92,-4,15
+DLPFC,L,,49,4.57,-52,10,22,15
+DLPFC,L,,33,4.56,-54,-2,32,15
+hippocampal area,L,,41,4.28,-18,-12,-16,15

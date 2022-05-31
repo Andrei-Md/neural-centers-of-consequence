@@ -1,0 +1,25 @@
+importance,+++
+author,Rodger et al
+title,Inhibit  switch  and update - A within-subject fMRI investigation of executive control
+table_name,Table 4 - Brain Regions associated with Task Switching
+contrast, task switching > control task
+keywords,fMRI; MNI; task switching;visual shape color
+Left/Right,Name,X(R),Y(A),Z(S),NV,t,subjects
+Right,Middle Frontal Gyrus,36,51,0,86,7.22,22
+Left,Cingulate Gyrus,-3,-33,45,5574,9.98,22
+Left,Cingulate Gyrus,-3,-33,45,498,9.98,22
+Right,Medial Frontal Gyrus,3,18,48,117,9.03,22
+Left,Middle Frontal Gyrus,-33,0,45,57,9.45,22
+Left,Middle Frontal Gyrus,-42,30,33,49,8.98,22
+Left,Superior Frontal Gyrus,-30,0,60,45,9.73,22
+Left,Middle Frontal Gyrus,-41,44,17,35,8.5,22
+Right,Middle Frontal Gyrus,28,9,51,43,7.68,22
+Left,Insula,-48,15,0,20,4.89,22
+Right,Precuneus,9,-66,45,3063,13.66,22
+Right,Precuneus,9,-66,45,367,8.47,22
+Right,Precuneus,36,-69,45,306,10.98,22
+Left,Inferior Parietal Lobule,-45,-42,48,367,10.57,22
+Right,Thalamus,9,-12,15,499,8.47,22
+Left,Middle Temporal Gyrus,-51,-39,-9,1834,10.01,22
+Left,Middle Temporal Gyrus,-51,-39,-9,196,10.01,22
+Right,Middle Temporal Gyrus,63,-42,-3,156,8.37,22

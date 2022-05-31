@@ -2,12 +2,13 @@ importance,+
 author,Rademacher et al
 title,Dissociation of neural networks for anticipation and consumption of monetary and social rewards
 table_name,Table 1-1 - Brain regions activated for anticipated reward in comparison to the "no outcome" condition inclusively masked with the (anticipation_(hit outcome) > consumption_(hit outcome)) contrast (uncorrected p = 0.001) - SID
+contrast,expected reward > received reward
 keywords,anticipation phase; social reward; SID; fMRI; reward magnitude; talairach; performance-dependent
-Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size
-R,Inferior frontal gyrus,47,33,32,1,4.40,6
-L,Cerebellum/culmen,,0,-50,-13,4.11,27
-R,Putamen,,21,9,11,4.03,17
-R,Insula,,30,-34,21,3.96,9
-L,Putamen/NAcc,,-18,9,-3,3.77,9
-R,Precuneus,7,18,-62,34,3.67,5
-R,Anterior cingulate,32,12,25,26,3.32,6
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size,subjects
+R,Inferior frontal gyrus,47,33,32,1,4.40,6,28
+L,Cerebellum/culmen,,0,-50,-13,4.11,27,28
+R,Putamen,,21,9,11,4.03,17,28
+R,Insula,,30,-34,21,3.96,9,28
+L,Putamen/NAcc,,-18,9,-3,3.77,9,28
+R,Precuneus,7,18,-62,34,3.67,5,28
+R,Anterior cingulate,32,12,25,26,3.32,6,28

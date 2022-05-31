@@ -2,6 +2,7 @@ importance,+
 author,Delgado et al
 title,Tracking the Hemodynamic Responses to Reward and Punishment in the Striatum
 table_name,Table 2- Interaction of condition by time
+contrast,-
 keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling; time conditioning
 Name,Broadman Area,Left/Right,X(R),Y(A),Z(S),p value,subjects
 Dorsal striatum—caudate,,L,-12,15,7,0.0001,9

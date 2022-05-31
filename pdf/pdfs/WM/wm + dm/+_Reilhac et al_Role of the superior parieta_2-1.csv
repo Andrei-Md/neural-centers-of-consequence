@@ -1,0 +1,11 @@
+importance,+
+author,Reilhac et al
+title,Role of the superior parietal lobules in letter-identity processing within strings FMRI evidence from skilled and dyslexicreaders
+table_name,Table 2-1 Cerebral regions activated during the letter string comparis on task for the substitution condition relative to baseline - Sub Id - identical strings
+contrast,Sub-Id > baseline
+keywords,fMRI; working memory; decision making; talairach; reading; visual word recognition;Sub-Id
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
+Left,inferiorparietallobule,40,-44,-41,30,66,0.005,12
+Left,superiorparietallobule,7,-40,-50,54,,0.005,12
+Right,superiorparietallobule,7,32,-65,51,,0.001,12
+Left,inferiorfrontalgyrus,44,-48,25,1,15,0.001,12

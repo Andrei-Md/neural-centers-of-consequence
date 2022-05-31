@@ -1,0 +1,11 @@
+importance,++
+author,Glascher et al
+title,Determining a Role for Ventromedial Prefrontal Cortex in Encoding Action-Based Value Signals During Reward-Related Decision Making
+table_name,Table 1-2 Coordinates and significance levels for contrasts - Conjunction of AR Switch > Stay and SR Switch > Stay  (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+contrast, AR Switch > Stay and SR Switch > Stay
+keywords,fMRI; decision making; outcome phase; monetary reward; MNI; reinforcement learning; reversal learning; task switching
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,subjects
+Ant. insula,R,47,27,27,-3,4.11,20
+Lat. OFC,R,11,24,48,-6,3.63,20
+dlPFC,L,46,-33,48,21,3.38,20
+dlPFC,R,46,36,45,30,4.22,20

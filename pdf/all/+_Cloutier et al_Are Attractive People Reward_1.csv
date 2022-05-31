@@ -1,0 +1,26 @@
+importance,+
+author,Cloutier et al
+title,Are Attractive People Rewarding - Sex Differences in the Neural Substrates of Facial Attractiveness
+table_name,Table 1 - Identification of Blood Oxygenation Level-Dependent Signal that Increased Parametrically with Increases or Decreases in Attractiveness Judgments
+contrast,high reward > low reward
+keywords,fMRI; outcome phase; reward value; social reward; face stimuli; talairach; passive
+Broadman Area,Name,Left/Right,X(R),Y(A),Z(S),t,subjects
+4,R,Precentral gyrus,13.04,39,-21,48,48
+,L,Cerebellum,7.53,-24,-53,-20,48
+6,R,Callosomarginal sulcus,7.11,9,-7,45,48
+,L,Cerebellum,6.99,-18,-63,-40,48
+41,R,Lateral sulcus,6.69,42,-20,15,48
+24,R,Cingulate gyrus,5.88,3,33,9,48
+11,L,OFC,5.02,-9,40,-15,48
+,R,Thalamus,4.80,15,-23,4,48
+,L,Nucleus accumbens,3.88,-9,8,-8,48
+,R,Nucleus accumbens,3.68,9,14,-6,48
+32,L,Cingulate gyrus,3.54,-6,33,23,48
+10,R,Frontal pole,3.51,18,55,-5,48
+37,L,Fusiform gyrus,3.54,-50,-38,-11,48
+10,L,Frontal pole,3.50,-18,50,0,48
+18,L,Lingual gyrus,3.36,-15,-87,15,48
+10,L,Middle frontal gyrus,3.35,-30,55,0,48
+,L,Pulvinar,3.26,-6,-24,12,48
+10,L,Medial frontal gyrus,3.01,-12,58,0,48
+32,R,Ventral medial frontal gyrus,2.97,9,46,-12,48

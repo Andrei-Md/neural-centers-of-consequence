@@ -2,20 +2,21 @@ importance,+
 author,Winston et al
 title,Brain systems for assessing facial attractiveness
 table_name,Table 1 - Brain regions showing significant differences in BOLD activation in a task-dependent manner (attractiveness judgment > age judgment;
+contrast,high reward > low reward
 keywords,fMRI; reward value; outcome phase; decision making; social reward; MNI; passive
-Name,Left/Right,X(R),Y(A),Z(S),z-score,cluster size,p value
-superior temporal sulcus,Left,-60,-45,9,5.94,39,0.05
-superior temporal sulcus,Left,-48,-42,3,4.95,,0.05
-superior temporal sulcus,Right,54,-48,27,5.20,7,0.05
-superior temporal sulcus,Right,51,-21,-6,5.48,6,0.05
-Posterior OFC (inferior frontal gyrus),Left,-36,21,-24,5.66,34,0.05
-Posterior OFC (inferior frontal gyrus),Left,-51,24,-6,5.09,,0.05
-Paracingulate cortex/medial prefrontal cortex,,0,51,18,5.65,155,0.05
-Paracingulate cortex/medial prefrontal cortex,,-6,60,15,5.49,,0.05
-Paracingulate cortex/medial prefrontal cortex,,3,54,30,5.18,,0.05
-Superior frontal gyrus,Left,-9,27,60,5.59,9,0.05
-Superior frontal gyrus,Left,-18,54,39,5.15,9,0.05
-Superior frontal gyrus,Left,-18,45,42,5.09,,0.05
-Anterior cingulate,,3,36,9,5.45,9,0.05
-Posterior cingulate,,0,-18,39,5.15,10,0.05
-Inferior temporal cortex,Right,54,0,-36,5.04,6,0.05
+Name,Left/Right,X(R),Y(A),Z(S),z-score,cluster size,p value,subjects
+superior temporal sulcus,Left,-60,-45,9,5.94,39,0.05,26
+superior temporal sulcus,Left,-48,-42,3,4.95,,0.05,26
+superior temporal sulcus,Right,54,-48,27,5.20,7,0.05,26
+superior temporal sulcus,Right,51,-21,-6,5.48,6,0.05,26
+Posterior OFC (inferior frontal gyrus),Left,-36,21,-24,5.66,34,0.05,26
+Posterior OFC (inferior frontal gyrus),Left,-51,24,-6,5.09,,0.05,26
+Paracingulate cortex/medial prefrontal cortex,,0,51,18,5.65,155,0.05,26
+Paracingulate cortex/medial prefrontal cortex,,-6,60,15,5.49,,0.05,26
+Paracingulate cortex/medial prefrontal cortex,,3,54,30,5.18,,0.05,26
+Superior frontal gyrus,Left,-9,27,60,5.59,9,0.05,26
+Superior frontal gyrus,Left,-18,54,39,5.15,9,0.05,26
+Superior frontal gyrus,Left,-18,45,42,5.09,,0.05,26
+Anterior cingulate,,3,36,9,5.45,9,0.05,26
+Posterior cingulate,,0,-18,39,5.15,10,0.05,26
+Inferior temporal cortex,Right,54,0,-36,5.04,6,0.05,26

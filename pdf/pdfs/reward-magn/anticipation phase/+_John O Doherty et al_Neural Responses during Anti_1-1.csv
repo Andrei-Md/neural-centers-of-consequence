@@ -1,0 +1,12 @@
+importance,+
+author,John O Doherty et al
+title,Neural Responses during Anticipation of a Primary Taste Reward
+table_name,Table 1-1 Regions Responding during Anticipation of Glucose and Salt Tastes
+contrast,reward > no reward
+keywords,fMRI; reward value; taste reward; anticipation phase
+Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
+Dopaminergic midbrain,Left,-12,-20,-22,3.45,8
+Orbitofrontal cortexa,Right,32,46,-6,3.77,8
+Orbitofrontal cortex/lateral PFCb,Left,-38,46,-4,2.49,8
+Visual cortical areas,Right,22,-80,-2,5.43,8
+Visual cortical areas,Left,-10,-90,0,6.54,8

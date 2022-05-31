@@ -2,16 +2,17 @@ importance,+
 author,Xue et al
 title,Functional Dissociations of Risk and Reward Processing in the Medial Prefrontal Cortex
 table_name,Table S2 - Foci of regions modulated by the experienced reward in the parametric analysis
+contrast,-
 keywords,fMRI; outcome phase; decision making; monetary reward; MNI; gambling; cups task
-Left/Right,Name,NV,z-score,X(R),Y(A),Z(S),p value
-,ACC/VMPFC/left LOFC,1401,3.74,0,58,-6,0.05
-,ACC/VMPFC/left LOFC,1401,3.65,-34,56,-14,0.05
-,ACC/VMPFC/left LOFC,1401,3.2,-2,42,8,0.05
-,Posterior Cingulate Cortex,1072,3.66,0,-36,26,0.05
-Left,Nucleus Accumbens (NAcc),729,3.65,-20,12,-12,0.05
-Left,Nucleus Accumbens (NAcc),729,3.31,-16,6,-18,0.05
-Left,Posterior middle temporal gyrus/angular gyrus/superior occipital gyrus,431,3.15,-52,-64,20,0.05
-Left,Posterior middle temporal gyrus/angular gyrus/superior occipital gyrus,431,3.12,-30,-78,44,0.05
-Left,Superior/Middle Frontal Gyrus,290,3.23,-26,32,48,0.05
-Left,Superior/Middle Frontal Gyrus,290,3.14,-18,28,58,0.05
-Right,Nucleus Accumbens (NAcc),284,3.32,8,18,-4,0.05
+Left/Right,Name,NV,z-score,X(R),Y(A),Z(S),p value,subjects
+,ACC/VMPFC/left LOFC,1401,3.74,0,58,-6,0.05,13
+,ACC/VMPFC/left LOFC,1401,3.65,-34,56,-14,0.05,13
+,ACC/VMPFC/left LOFC,1401,3.2,-2,42,8,0.05,13
+,Posterior Cingulate Cortex,1072,3.66,0,-36,26,0.05,13
+Left,Nucleus Accumbens (NAcc),729,3.65,-20,12,-12,0.05,13
+Left,Nucleus Accumbens (NAcc),729,3.31,-16,6,-18,0.05,13
+Left,Posterior middle temporal gyrus/angular gyrus/superior occipital gyrus,431,3.15,-52,-64,20,0.05,13
+Left,Posterior middle temporal gyrus/angular gyrus/superior occipital gyrus,431,3.12,-30,-78,44,0.05,13
+Left,Superior/Middle Frontal Gyrus,290,3.23,-26,32,48,0.05,13
+Left,Superior/Middle Frontal Gyrus,290,3.14,-18,28,58,0.05,13
+Right,Nucleus Accumbens (NAcc),284,3.32,8,18,-4,0.05,13

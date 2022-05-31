@@ -2,6 +2,7 @@ importance,+
 author,Akitsuki et al
 title,Context-dependent cortical activation in response to financial reward and penalty  an event-related fMRI study
 table_name,Table 4 - modulation by the subjects arousal in the events of loss
+contrast,Lose modulation
 keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling; negative reward
 Left/Right,Name,NV,X(R),Y(A),Z(S),t,subjects
 R,Medial aspect of superior frontal gyrus,2528,4,52,24,9.76,36

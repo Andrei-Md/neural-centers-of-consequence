@@ -147,6 +147,7 @@ class Pdfc():
                                 "author": metadata["author"],
                                 "title": metadata["title"],
                                 "table_name": "",
+                                "contrast": "",
                                 "keywords": metadata["keywords"]})
         df_csv = pd.DataFrame.from_dict(data=csv_dict, orient='index')
 
@@ -176,15 +177,15 @@ class Pdfc():
         with open(Path(join(self.path, save_path_file, )), 'w') as f:
             f.write(xml)
 
-    def process_csv(self, ignore_files=""):
+    def process_csv(self, n_lines,ignore_files=""):
         files = self._get_files(self.path, 'csv', start=ignore_files)
         list = []
         for file_name in files:
             file_path = Path(join(self.path, file_name))
             try:
                 csv = Csv.Csv(file_path)
-                dict = csv.process_first_n_lines(n=5)
-                df = csv.create_pd_from_csv(skiprows=5, converters={'Broadman Area': str})
+                dict = csv.process_first_n_lines(n=n_lines)
+                df = csv.create_pd_from_csv(skiprows=n_lines, converters={'Broadman Area': str})
                 df = pd.concat([pd.DataFrame(dict, index=df.index), df], axis=1)
                 list.append(df)
             except pd.errors.EmptyDataError as e:

@@ -2,7 +2,8 @@ importance,+
 author,John O Doherty
 title,Dissociating Valence of Outcome from Behavioral Control in Human Orbital and Ventral Prefrontal Cortices
 table_name,Table 3-1-e - Comparison between choice and imperative tasks - Conjunction of choice and imperative tasks: response switching
+contrast,response switch > response maintenance
 keywords,fMRI; reward value; outcome phase; monetary reward; MNI; response switching
-Name,Left/Right,X(R),Y(A),Z(S),z-score
-Anterior insula-caudolateral OFC,L,-33,21,-18,3.69
-Anterior insula-caudolateral OFC,R,39,24,-12,4.08
+Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
+Anterior insula-caudolateral OFC,L,-33,21,-18,3.69,15
+Anterior insula-caudolateral OFC,R,39,24,-12,4.08,15

@@ -1,0 +1,23 @@
+importance,+
+author,Knutson et al
+title,Distributed Neural Representation of Expected Value
+table_name,Table 1-2 Regressor of interest Z scores and Talairach coordinates for peak activation foci
+contrast,high reward > low reward
+keywords,talairach; reward magnitude; reward value; monetary reward; MID; fMRI
+Left/Right,Name,z-score,X(R),Y(A),Z(S),subjects
+Left,orbital frontal cortex,5.94,-22,41,-11,14
+Right,orbital frontal cortex,5.75,22,41,-10,14
+Left,dorsolateral PFC,10.22,-38,52,8,14
+Right,dorsolateral PFC,10.75,37,53,10,14
+Left,mesial PFC,-3.75,-1,46,-11,14
+Right,mesial PFC,-3.31,4,53,-10,14
+Left,anterior cingulate,14.66,0,22,34,14
+,Supplementary motor area,18.94,0,0,46,14
+Left,insula,10.65,-30,19,1,14
+Right,insula,12.00,30,19,8,14
+Left,NAcc,21.46,-11,8,0,14
+Right,NAcc,21.62,11,11,0,14
+Left,caudate,21.30,-7,7,4,14
+Right,caudate,24.45,7,7,4,14
+,Thalamus,22.91,0,-14,16,14
+,Midbrain,13.79,0,-18,-10,14

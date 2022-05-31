@@ -1,0 +1,8 @@
+importance,+
+author,Nieuwenhuis et al
+title,Activity in human reward-sensitive brain areas is strongly context dependent
+table_name,Table 1-1 -List of reward-sensitive brain areas revealed by contrasting the highest outcome and lowest outcome - Context dependent and independent
+keywords,fMRI; reward magnitude; reward value; outcome phase; decision making; monetary reward; high gain vs high loss; talairach; gambling;positive reward
+Name,Left/Right,X(R),Y(A),Z(S),t,cluster size,p value
+Putamen,R,19,7,1,8.92,1481,0.0005
+Globus pallidus,L,-14,1,-6,7.16,443,0.0005

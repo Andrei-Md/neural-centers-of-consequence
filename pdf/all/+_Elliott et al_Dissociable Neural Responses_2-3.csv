@@ -1,12 +1,13 @@
 importance,+
 author,Elliott et al
 title,Dissociable Neural Responses in Human Reward Systems
-table_name,Table 21 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success and penalty during run of failure
+table_name,Table 23 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success and penalty during run of failure
+contrast, Reward during run of success and Penalty during run of failure
 keywords,fMRI;reward magnitude;reward value;outcome phase;decision making;monetary reward;talairach;gambling;negative reward;positive reward; context-dependent reward
-Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value
-Lateral orbitofrontal cortex,L,47,-33,15,-12,5.20,0.05
-Lateral orbitofrontal cortex,R,47,51,15,-12,4.16,0.001
-Insula cortex,L,,-36,-6,6,5.94,0.05
-Insula cortex,R,,42,9,-6,4.84,0.05
-Head of caudate,R,,21,24,0,4.96,0.05
-Head of caudate,L,,-9,12,12,4.24,0.001
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value,subjects
+Lateral orbitofrontal cortex,L,47,-33,15,-12,5.20,0.05,9
+Lateral orbitofrontal cortex,R,47,51,15,-12,4.16,0.001,9
+Insula cortex,L,,-36,-6,6,5.94,0.05,9
+Insula cortex,R,,42,9,-6,4.84,0.05,9
+Head of caudate,R,,21,24,0,4.96,0.05,9
+Head of caudate,L,,-9,12,12,4.24,0.001,9

@@ -1,0 +1,26 @@
+importance,++
+author,Pierce et al
+title,Past experience shapes ongoing neural patterns for language
+table_name,Table 1 - Coordinates of maximum peaks within significant clusters for 3-3 ANOVA main effects of group (French monolingual; Chinese-French bilingual; international adoptee) and condition (0-back; 1-back; 2-back); controlling for age and duration of exposure to French
+contrast, 2-back; 1-back > 0-back
+keywords,fMRI; working memory; MNI; n-back task;verbal pseudo-words
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),t,subjects
+Left,Superior frontal gyrus,8,-4,16,50,5.27,42
+Left,Inferior frontal gyrus,45,-38,28,6,7.01,42
+Left,Anterior insula,13,-30,22,-10,5.39,42
+Left,Superior temporal gyrus,38,-54,8,-14,5.50,42
+Left,Superior temporal gyrus,39,-44,-50,26,6.03,42
+Left,Inferior temporal gyrus,20,-60,-18,-16,5.63,42
+Left,Inferior parietal lobule,40,-40,-44,52,5.83,42
+Left,Inferior parietal lobule,40,-38,-46,46,5.42,42
+Left,Posterior cingulate,31,-18,-54,26,6.19,42
+Left,Posterior cingulate,31,-8,-54,22,5.63,42
+Left,Posterior cingulate,23,-6,-54,16,5.19,42
+Right,Frontal operculum/anterior insula,13,34,20,0,5.52,42
+Right,Anterior cingulate,25,4,18,-8,5.82,42
+Right,Middle frontal gyrus,6,28,4,56,6.44,42
+Right,Precentral gyrus,6,40,-8,48,5.89,42
+Right,Superior temporal gyrus,22,56,6,-2,6.35,42
+Right,Middle temporal gyrus,21,52,-36,-2,6.50,42
+Right,Superior parietal lobule,7,34,-46,48,5.39,42
+Right,Precuneus,7,12,-66,36,5.56,42

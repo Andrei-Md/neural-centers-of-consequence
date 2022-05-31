@@ -1,0 +1,17 @@
+importance,+
+author,Knutson et al
+title,Distributed Neural Representation of Expected Value
+table_name,Table 1-4 Regressor of interest Z scores and Talairach coordinates for peak activation foci
+contrast,high probability > low probability
+keywords,talairach;reward value; probability; monetary reward; MID; fMRI
+Left/Right,Name,z-score,X(R),Y(A),Z(S),subjects
+Left,mesial PFC,4.49,-4,52,-6,14
+Right,mesial PFC,5.08,4,52,-10,14
+Left,anterior cingulate,-4.17,0,22,42,14
+,Supplementary motor area,-4.64,-2,-12,50,14
+Left,insula,-3.90,-30,18,4,14
+Left,caudate,-5.02,-11,8,5,14
+Right,caudate,-6.14,15,12,5,14
+Right,putamen,-5.16,19,8,-4,14
+,Parahippocampal gyrus,4.16,-22,-12,-10,14
+,Posterior cingulate,4.49,1,-48,24,14

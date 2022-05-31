@@ -1,0 +1,35 @@
+importance,+
+author,Koeneke et al
+title,Individual preferences modulate incentive values  Evidence from functional MRI
+table_name,Table 3 - Clusters showing preference-dependent activation during the outcome phase
+contrast,reward > no reward
+keywords,chocolate bars; fMRI; reward magnitude; outcome phase; decision making; taste reward; MNI
+Name,Left/Right,NV,X(R),Y(A),Z(S),t,subjects
+Caudate nucleus,R,51,18,8,18,5.19,19
+Caudate nucleus,R,,16,2,26,4.92,19
+Ventral pallidum,R,82,24,2,-8,4.28,19
+Precuneus,R,200,6,-46,6,5.88,19
+Posterior cingulum,L,,-2,-42,8,5.21,19
+Vermis,L/R,,0,-54,-4,4.24,19
+Precuneus,R,24,16,-60,40,5.25,19
+Lingual gyrus,L,187,-20,-72,-4,5.29,19
+Lingual gyrus,L,,-14,-82,-12,4.89,19
+Lingual gyrus,L,,-12,-80,-2,4.68,19
+Superior occipital,L,16,-14,-96,20,4.47,19
+Lingual gyrus,L,16,-14,-56,0,3.90,19
+Lingual gyrus,L,29,-6,-66,4,4.03,19
+Lingual gyrus,R,74,22,-90,-16,4.82,19
+Inferior occipital gyrus,R,,34,-22,-16,3.74,19
+Lingual gyrus,R,35,22,-52,-2,4.40,19
+Lingual gyrus,R,,14,-50,-4,4.26,19
+Cerebellum crus I,R,140,16,-82,-28,4.62,19
+Cerebellum crus I,R,,6,-20,-22,4.34,19
+Cerebellum crus I,L,20,-22,-66,-34,4.22,19
+Superior temporal gyrus,R,19,52,-26,16,4.90,19
+Supramarginal gyrus,R,62,42,-42,22,5.57,19
+Supramarginal gyrus,R,13,46,-28,28,4.49,19
+Middle temporal gyrus,L,13,-38,-56,16,4.55,19
+Angluar gyrus,L,,-42,-52,22,3.98,19
+Postcentral gyrus,R,13,38,-30,54,4.86,19
+Frontal inferior gyrus/triangular part,R,14,28,16,20,4.16,19
+Superior frontal gyrus,R,12,18,28,40,4.15,19

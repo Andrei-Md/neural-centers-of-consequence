@@ -1,0 +1,25 @@
+importance,+
+author,Carrion et al
+title,Frontal Hypoactivation on Functional Magnetic Resonance Imaging in Working Memory after Severe Diffuse Traumatic Brain Injury
+table_name,TABLE 4 - LOCAL MAXIMA OF DIFFERENCES BETWEEN 3-BACK AND 0-BACK BY SUBTRACTION ANALYSES FOR THE TBI AND CONTROL GROUP
+contrast,3-back > 0-back
+keywords,fMRI; working memory; MNI; n-back task; three-back task;visual numbers
+Left/Right,Name,cluster size,p value,t,X(R),Y(A),Z(S),subjects
+L,inferior frontal gyrus,2083,0.001,12.62,-52,10,24,13
+L,middle frontal gyrus,2083,0.001,7.78,-30,-2,46,13
+L,middle frontal gyrus,2083,0.001,7.65,-32,-2,56,13
+R,middle frontal gyrus,1974,0.001,12.31,24,2,62,13
+R,middle frontal gyrus,1974,0.001,8.16,4,20,44,13
+L,inferior frontal gyrus,283,0.001,10.79,-34,26,6,13
+R,middle frontal gyrus,1861,0.001,10.68,42,32,34,13
+R,middle frontal gyrus,1861,0.001,8.63,40,46,20,13
+R,middle frontal gyrus,1861,0.001,7.85,52,10,30,13
+L,middle frontal gyrus,1861,0.001,7.20,-42,50,10,13
+L,middle frontal gyrus,342,0.001,6.62,-34,42,20,13
+,Insula,300,0.001,8.94,34,22,4,13
+L,precuneus,1738,0.001,9.68,-20,-68,40,13
+L,inferior parietal lobule,1738,0.001,8.02,-38,-48,44,13
+R,inferior parietal lobule,1388,0.001,8.08,44,-46,46,13
+R,precuneus,1388,0.001,,34,-74,36,13
+R,cerebellum,116,0.001,7.55,14,-82,-26,13
+R,cerebellum,127,0.001,6.55,38,-66,-32,13

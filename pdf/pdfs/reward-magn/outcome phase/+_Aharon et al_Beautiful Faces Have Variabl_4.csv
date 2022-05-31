@@ -2,6 +2,7 @@ importance,+
 author,Aharon et al
 title,Beautiful Faces Have Variable Reward Value - fMRI and Behavioral Evidence
 table_name,Table 2 D - Post-Hoc Fixed Effects Analysis - Contrast - General Gender - all female faces versus all male faces
+contrast, all female faces > all male faces
 keywords,fMRI; outcome phase; viewing; social reward; talairach; passive
 Name,X(R),Y(A),Z(S),p value,subjects
 VT,-6,-18,-8,3.4E-4,6

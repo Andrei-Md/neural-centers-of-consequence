@@ -1,0 +1,20 @@
+importance,++
+author,Duggirala et al
+title,Stimulus-dependent modulation of working memory for identity monitoring - A functional MRI study
+table_name,Table 2-2 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+contrast,2-back > 0-back
+keywords,fMRI; working memory; MNI; n-back task; two-back task; visual object
+Name,Left/Right,X(R),Y(A),Z(S),t,cluster size,subjects
+Insula,Right,32,24,0,6.34,299,50
+Inferior frontal oper,Right,46,16,4,5.72,299,50
+Cerebellum (Lobule VI),Left,-30,-56,-34,5.33,839,50
+Cerebellum (Crus1),Left,-42,-50,-26,4.79,839,50
+Cerebellum (Crus1),Left,-34,-72,-26,4.71,839,50
+Inferior parietal,Left,-34,-50,42,5.11,794,50
+Inferior parietal,Left,-44,-48,46,4.94,794,50
+Middle occipital,Left,-30,-72,24,4.82,794,50
+Insula,Left,-32,20,4,5.04,149,50
+Cerebellum (Crus 1),Left,-12,-74,-32,4.57,50,50
+Precentral,Left,-42,2,30,4.48,103,50
+Inferior frontal tri,Left,-46,20,30,4.18,75,50
+Middle frontal,Left,-44,30,36,4.05,75,50

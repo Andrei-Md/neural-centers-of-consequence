@@ -1,0 +1,16 @@
+importance,++
+author,Jarcho et al
+title,Developmental effects of decision-making on sensitivity to reward - An fMRI study
+table_name,Table 2-2 Anticipation for Adolescents during Choice trials compared with Baseline
+contrast,Large Incentives > Baseline
+keywords,fMRI; anticipation phase; decision making; monetary reward; high incentive; young; visual cue
+Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
+Cerebellum,,37,-67,-18,1789,0.005,26
+Medial Frontal Gyrus,6,-3,5,53,362,0.005,26
+Inferior Parietal Lobule,40,33,-59,46,199,0.005,26
+Posterior Cingulate,,-3,-31,30,194,0.005,26
+Middle Frontal Gyrus,9,-51,26,37,128,0.005,26
+Insula,,-35,17,5,123,0.005,26
+Middle Frontal Gyrus,9,49,33,37,80,0.005,26
+Insula,,45,17,5,53,0.005,26
+Putamen,,-19,11,4,16,0.005,26

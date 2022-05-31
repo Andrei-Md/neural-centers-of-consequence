@@ -2,24 +2,25 @@ importance,+
 author,Rademacher et al
 title,Dissociation of neural networks for anticipation and consumption of monetary and social rewards
 table_name,Table 1-1 - Brain regions activated for anticipated reward in comparison to the "no outcome" condition inclusively masked with the (anticipation_(hit outcome) > consumption_(hit outcome)) contrast (uncorrected p = 0.001) - MID
+contrast,expected reward > received reward
 keywords,anticipation phase; monetary reward; MID; fMRI; reward magnitude; talairach; performance-dependent
-Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size
-R,Caudate/NAcc,,12,12,-1,6.24,218
-L,Putamen/NAcc,,-18,12,-1,5.36,104
-L,Precuneus,7,-12,-65,34,5.12,160
-R,Precuneus,19,30,-68,31,4.97,118
-,Culmen/substantia nigra,,0,-29,-1,4.97,191
-L,Inferior frontal gyrus,9,-59,10,24,4.47,80
-R,Inferior frontal gyrus,9,53,5,33,4.28,14
-L,Inferior frontal gyrus,46,-33,30,12,4.24,65
-L,Cingulate gyrus,32,-6,25,29,4.15,33
-R,Precentral gyrus,44,59,6,8,4.07,9
-R,Inferior parietal lobule,40,39,-36,43,4.05,10
-L,Superior frontal gyrus,9,-36,36,26,4.04,26
-R,Middle frontal gyrus,10,33,39,17,3.95,7
-L,Precentral gyrus,6,-50,2,30,3.92,14
-L,Postcentral gyrus,2,-36,-24,40,3.86,7
-L,Inferior parietal lobule,40,-50,-34,24,3.81,12
-L,Insula,13,-50,-19,20,3.77,17
-R,Caudate,,24,-37,21,3.60,5
-L,Insula,,-45,9,0,3.53,5
+Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size,subjects
+R,Caudate/NAcc,,12,12,-1,6.24,218,28
+L,Putamen/NAcc,,-18,12,-1,5.36,104,28
+L,Precuneus,7,-12,-65,34,5.12,160,28
+R,Precuneus,19,30,-68,31,4.97,118,28
+,Culmen/substantia nigra,,0,-29,-1,4.97,191,28
+L,Inferior frontal gyrus,9,-59,10,24,4.47,80,28
+R,Inferior frontal gyrus,9,53,5,33,4.28,14,28
+L,Inferior frontal gyrus,46,-33,30,12,4.24,65,28
+L,Cingulate gyrus,32,-6,25,29,4.15,33,28
+R,Precentral gyrus,44,59,6,8,4.07,9,28
+R,Inferior parietal lobule,40,39,-36,43,4.05,10,28
+L,Superior frontal gyrus,9,-36,36,26,4.04,26,28
+R,Middle frontal gyrus,10,33,39,17,3.95,7,28
+L,Precentral gyrus,6,-50,2,30,3.92,14,28
+L,Postcentral gyrus,2,-36,-24,40,3.86,7,28
+L,Inferior parietal lobule,40,-50,-34,24,3.81,12,28
+L,Insula,13,-50,-19,20,3.77,17,28
+R,Caudate,,24,-37,21,3.60,5,28
+L,Insula,,-45,9,0,3.53,5,28

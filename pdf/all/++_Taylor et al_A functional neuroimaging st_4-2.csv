@@ -1,0 +1,10 @@
+importance,++
+author,Taylor et al
+title,A functional neuroimaging study of motivation and executive function
+table_name,Table 4-2 - Activation foci for the PROBE(decision phase) event - reward
+contrast,-
+keywords,fMRI; reward value; decision phase; monetary reward; MNI; n-back task; visual shape
+Left/Right,Name,Broadman Area,cluster size,X(R),Y(A),Z(S),z-score,subjects
+R,inferior frontal/orbitofrontal g,11/47,57,32,20,-12,3.94,12
+L,inferior frontal/orbitofrontal g,11/47,104,-28,24,-10,3.84,12
+L,inferior frontal/orbitofrontal g,11/47,104,-30,24,-2,3.71,12

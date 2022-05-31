@@ -2,13 +2,14 @@ importance,+
 author,Nieuwenhuis et al
 title,Activity in human reward-sensitive brain areas is strongly context dependent
 table_name,Table 1-2 -List of reward-sensitive brain areas revealed by contrasting the highest outcome and lowest outcome - Context dependent
+contrast,high reward > low reward
 keywords,fMRI; reward magnitude; reward value; outcome phase; decision making; monetary reward; high gain vs high loss; talairach; gambling; context-dependent reward;positive reward
-Name,Left/Right,X(R),Y(A),Z(S),t,cluster size,p value
-Caudate nucleus,L,-8,4,3,5.97,150,0.0005
-Inferior parietal lobule,L,-48,-52,45,6.68,283,0.0005
-Posterior cingulate gyrus,L,-2,-35,29,7.64,290,0.0005
-Posterior cingulate sulcus,L,-1,-31,47,5.35,63,0.0005
-Medial frontal gyrus,L,-6,7,53,6.23,105,0.0005
-Middle frontal gyrus,L,-19,4,59,5.13,60,0.0005
-Cerebellum,R,10,-57,-10,6.62,296,0.0005
-Cerebellum,L,-38,-51,-36,6.98,92,0.0005
+Name,Left/Right,X(R),Y(A),Z(S),t,cluster size,p value,subjects
+Caudate nucleus,L,-8,4,3,5.97,150,0.0005,14
+Inferior parietal lobule,L,-48,-52,45,6.68,283,0.0005,14
+Posterior cingulate gyrus,L,-2,-35,29,7.64,290,0.0005,14
+Posterior cingulate sulcus,L,-1,-31,47,5.35,63,0.0005,14
+Medial frontal gyrus,L,-6,7,53,6.23,105,0.0005,14
+Middle frontal gyrus,L,-19,4,59,5.13,60,0.0005,14
+Cerebellum,R,10,-57,-10,6.62,296,0.0005,14
+Cerebellum,L,-38,-51,-36,6.98,92,0.0005,14

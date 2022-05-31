@@ -2,15 +2,16 @@ importance,+
 author,Elliott et al
 title,Instrumental responding for rewards is associated with enhanced neuronal response in subcortical reward systems
 table_name,Table 2 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of reward
+contrast,reward > no reward
 keywords,fMRI; reward value; decision making; monetary reward; MNI; performance-dependent; effect of reward
-Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value
-Anterior cingulate,R,32,3,33,30,5.01,0.05
-Medial orbitofrontal,L/R,10,0,51,-6,5.08,0.05
-Cortex Frontal pole,R,9,9,57,36,5.29,0.05
-Dorsolateral prefrontal cortex,R,9,45,36,30,5.28,0.05
-Lateral orbitofrontal cortex,R,47,54,24,-9,4.10,0.001
-Lateral orbitofrontal cortex,L,47/10,-45,51,-9,3.93,0.001
-Lateral orbitofrontal cortex,L,47,-57,18,-3,3.85,0.001
-Amygdala,R,,27,0,-21,3.68,0.05
-Putamen,R,,33,3,0,5.02,0.05
-Thalamus,R,,3,-18,9,3.54,0.001
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value,subjects
+Anterior cingulate,R,32,3,33,30,5.01,0.05,12
+Medial orbitofrontal,L/R,10,0,51,-6,5.08,0.05,12
+Cortex Frontal pole,R,9,9,57,36,5.29,0.05,12
+Dorsolateral prefrontal cortex,R,9,45,36,30,5.28,0.05,12
+Lateral orbitofrontal cortex,R,47,54,24,-9,4.10,0.001,12
+Lateral orbitofrontal cortex,L,47/10,-45,51,-9,3.93,0.001,12
+Lateral orbitofrontal cortex,L,47,-57,18,-3,3.85,0.001,12
+Amygdala,R,,27,0,-21,3.68,0.05,12
+Putamen,R,,33,3,0,5.02,0.05,12
+Thalamus,R,,3,-18,9,3.54,0.001,12

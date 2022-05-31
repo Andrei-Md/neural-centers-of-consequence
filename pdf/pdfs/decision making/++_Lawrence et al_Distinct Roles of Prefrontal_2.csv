@@ -1,0 +1,27 @@
+importance,++
+author,Lawrence et al
+title,Distinct Roles of Prefrontal Cortical Subregions in the Iowa Gambling Task
+table_name,Table 2 - Brain regions showing significant activation during choices from risky (A/B) versus safe (C/D) decks and showing a correlation with task performance
+contrast, risk > safe
+keywords,fMRI;outcome phase; decision making; monetary reward; MNI; gambling; risk choice; visual cards
+Name,Left/Right,Broadman Area,cluster size,X(R),Y(A),Z(S),z-score,subjects
+Middle/superior occipital cortex,L,19,176,-30,-93,12,4.53,15
+Anterior cingulate gyrus/,L/R,32,142,-3,42,12,4.19,15
+Anterior cingulate gyrus/,L/R,32,142,-3,51,3,4.02,15
+Superior medial frontal cortex,,10/9,,-9,48,18,3.70,15
+Inferior OFC,L,47,39,-48,21,-9,3.98,15
+Inferior OFC,L,47,41,-27,21,-18,3.87,15
+Insula,L,,,-36,6,-6,3.80,15
+Insula,L,,,-30,12,-12,3.48,15
+Inferior frontal operculum,R,47,40,51,18,3,3.83,15
+Insula,R,,,36,27,3,3.42,15
+Superior medial frontal gyrus,L/R,10,96,-3,66,15,4.60,15
+Superior medial frontal gyrus,L/R,10,96,6,66,9,4.17,15
+Medial OFC,,,,0,60,-6,4.08,15
+Pre-SMA,L,6/8,74,-3,21,51,4.14,15
+Pre-SMA,L,6/8,74,-6,9,60,3.89,15
+Pre-SMA,L,6/8,74,-6,18,66,3.82,15
+Lateral sulcus (SII),L,,31,-54,-9,9,3.89,15
+Lateral sulcus (SII),L,47,32,-42,21,-9,3.75,15
+Inferior OFC/insula,,,,-36,15,-6,3.67,15
+

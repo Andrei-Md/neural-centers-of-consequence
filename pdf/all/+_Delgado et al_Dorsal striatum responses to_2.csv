@@ -1,0 +1,19 @@
+importance,+
+author,Delgado et al
+title,Dorsal striatum responses to reward and punishment - Effects of valence and magnitude manipulations
+table_name,Table 2 - Interactions of Magnitude and Time
+contrast,high reward > low reward
+keywords,fMRI; reward magnitude; outcome phase; monetary reward; talairach; gambling
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),p value,subjects
+Right,middle frontal gyrus,8,35,35,45,5.33,18
+Right,precuneus,7,10,-67,38,5.79,18
+Right,posterior cingulate gyrus,31,7,-44,38,5.68,18
+Right,inferior parietal gyrus,40,42,-37,37,5.45,18
+Right,middle frontal gyrus,9,26,19,36,5.50,18
+Left,cuneus,18,-2,-76,16,6.47,18
+Right,occipital gyrus,19,29,-85,15,5.97,18
+Right,putamen/globus pallidus,,27,-7,7,5.16,18
+Left,putamen/globus pallidus,,-23,1,2,5.29,18
+Left,parahippocampal gyrus,30,-11,-40,-2,6.54,18
+Right,parahippocampal gyrus,30/19,16,-41,-4,6.76,18
+Right,lingual gyrus,19,-16,-52,-4,6.53,18

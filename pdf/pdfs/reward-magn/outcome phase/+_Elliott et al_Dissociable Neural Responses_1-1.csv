@@ -2,8 +2,9 @@ importance,+
 author,Elliott et al
 title,Dissociable Neural Responses in Human Reward Systems
 table_name,Table 1-1 - Maximally activated voxels in areas where significant evoked activity was related to reward level - Positive correlation with reward level(increase reward)
+contrast,high reward > low reward
 keywords,fMRI;reward magnitude;reward value;outcome phase;decision making;monetary reward;talairach;gambling;positive reward
-Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value
-Midbrain,R,,9,-12,23,4.65,0.05
-Ventral striatum,R,,18,9,26,3.50,0.001
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value,subjects
+Midbrain,R,,9,-12,23,4.65,0.05,9
+Ventral striatum,R,,18,9,26,3.50,0.001,9
 

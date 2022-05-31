@@ -1,0 +1,18 @@
+importance,++
+author,Schonberg et al
+title,Decreasing ventromedial prefrontal cortex activity during sequential risk-taking  an fMRI investigation of the balloon analog risk task
+table_name,Table 2-3 Peaks of significant clusters of activation
+contrast,explosion > control
+keywords,fMRI; decision making; MNI; monetary reward;negative reward; Balloon Analog Risk Task; visual object
+Left/Right,Name,X(R),Y(A),Z(S),z-score,cluster size,subjects
+,Anterior cingulate gyrus,0,24,28,4.01,1993,16
+,Lingual gyrus,4,-80,-12,5.12,17434,16
+,Cingulate gyrus,0,-14,34,3.74,1266,16
+R,insula,36,10,0,3.28,799,16
+L,cerebellum,-12,-64,-42,3.92,540,16
+R,Superior parietal lobule,24,-56,50,3.04,285,16
+L,occipital fusiform gyrus,-26,-86,-12,6.61,32785,16
+R,Pre-central gyrus,48,6,24,4.77,8465,16
+L,Pre-central gyrus,-48,0,38,4.41,1721,16
+L,insula,-30,16,-8,4.48,1642,16
+,vmPFC,-6,38,-12,3.61,504,16

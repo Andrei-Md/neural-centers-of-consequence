@@ -1,0 +1,31 @@
+importance,+
+author,Beneventi et al
+title,An fMRI study of working memory for schematic facial expressions
+table_name,Table 1 - Stereotactic locations of areas of significantly greater activation for the n-back main effect (p = 0.05 corrected) and the facial expressions - scrambled drawings interaction effect (p < 0.001 uncorrected; 5 voxel extent threshold)
+contrast,2-back; 1-back > 0-back
+keywords,fMRI; working memory; MNI; n-back task; facial expression; scrambled drawings
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),NV,z-score,p value,subjects
+Left,fusiform gyrus,37,-44,-55,-11,47,7.03,0.001,12
+Right,precuneus,7,24,-52,43,188,6.90,0.001,12
+Left,medial frontal gyrus,8,0,21,43,76,6.53,0.001,12
+Left,superior parietal lobule,7,-28,-56,51,164,6.49,0.001,12
+Right,middle frontal gyrus,10/46,40,40,20,34,6.30,0.001,12
+Right,claustrum,,28,24,0,28,6.10,0.001,12
+Right,middle/superior frontal gyrus,6,28,7,55,109,6.08,0.001,12
+Left,cerebellum/posterior lobe,,-8,-79,-20,6,5.77,0.001,12
+Left,middle frontal gyrus,6,-44,6,44,18,5.73,0.001,12
+Left,insula,,-32,23,-1,17,5.72,0.001,12
+Right,cerebellum/posterior lobe,,40,-67,-17,7,5.44,0.001,12
+Left,middle frontal gyrus,46,-40,36,17,3,5.44,0.001,12
+Left,inferior frontal gyrus,9,-44,9,25,15,5.32,0.001,12
+Right,superior frontal gyrus,6,4,11,62,3,5.27,0.001,12
+Right,middle occipital gyrus,19,48,-59,-7,3,5.02,0.005,12
+Left,medial frontal gyrus,6,-8,3,62,2,4.88,0.011,12
+Left,inferior occipital gyrus,18,-32,-83,-16,2,4.80,0.016,12
+Right,cerebellum/posterior lobe,,4,-79,-16,1,4.77,0.018,12
+Left,fusiform gyrus,19,-36,-75,-16,1,4.76,0.019,12
+Right,fusiform gyrus,37,44,-55,-14,1,4.76,0.020,12
+Left,middle frontal gyrus,10,-40,39,9,1,4.72,0.024,12
+Left,fusiform gyrus,18,-20,-86,-13,2,4.63,0.037,12
+Right,middle occipital gyrus,18,28,-92,4,1,4.61,0.039,12
+Left,middle frontal gyrus,6,-28,6,44,1,4.58,0.047,12

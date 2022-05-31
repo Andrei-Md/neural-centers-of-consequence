@@ -2,10 +2,11 @@ importance,+
 author,Aharon et al
 title,Beautiful Faces Have Variable Reward Value - fMRI and Behavioral Evidence
 table_name,Table 2 C- Post-Hoc Fixed Effects Analysis - Contrast - Beautiful male versus Average male
-keywords,fMRI; outcome phase; decision making; social reward; talairach; passive
-Name,X(R),Y(A),Z(S),p value
-NAc and other VS,7,12,2,-6.4E-6
-NAc and other VS,-12,9,2,-3.3E-7
-VT,-3,-18,-11,3.0E-6
-SLEA,-18,9,-15,-1.5E-10
-SLEA,-12,0,-8,-2.0E-6
+contrast,Beautiful male > Average male
+keywords,fMRI; outcome phase; viewing; social reward; talairach; passive
+Name,X(R),Y(A),Z(S),p value,subjects
+NAc and other VS,7,12,2,-6.4E-6,6
+NAc and other VS,-12,9,2,-3.3E-7,6
+VT,-3,-18,-11,3.0E-6,6
+SLEA,-18,9,-15,-1.5E-10,6
+SLEA,-12,0,-8,-2.0E-6,6

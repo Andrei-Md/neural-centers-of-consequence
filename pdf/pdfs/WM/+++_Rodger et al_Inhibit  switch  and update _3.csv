@@ -1,0 +1,17 @@
+importance,+++
+author,Rodger et al
+title,Inhibit  switch  and update - A within-subject fMRI investigation of executive control
+table_name,Table 3 - Brain Regions associated with Inhibition
+contrast,inhibiton task > control task
+keywords,fMRI; MNI; inhibition;visual shape color
+Left/Right,Name,X(R),Y(A),Z(S),NV,t,subjects
+Right,Inferior Frontal Gyrus,51,12,24,59,6.12,22
+Right,Middle Frontal Gyrus,33,0,42,25,4.82,22
+Right,Medial Frontal Gyrus,9,24,45,21,5.75,22
+Left,Inferior Parietal Lobule,-24,-63,48,59,5.65,22
+Right,Inferior Parietal Lobule,57,-42,27,27,6.25,22
+Right,Middle Temporal Gyrus,30,-57,33,249,6.02,22
+Right,Inferior Temporal Gyrus,45,-54,-9,88,8.12,22
+Left,Inferior Occipital Gyrus,-42,-69,-12,49,6.44,22
+Right,Cuneus,9,-87,3,75,5.88,22
+Right,Lingual Gyrus,21,-75,-6,34,6.49,22

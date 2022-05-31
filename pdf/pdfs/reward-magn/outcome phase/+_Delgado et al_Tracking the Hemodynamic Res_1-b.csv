@@ -2,6 +2,7 @@ importance,+
 author,Delgado et al
 title,Tracking the Hemodynamic Responses to Reward and Punishment in the Striatum
 table_name,Table 1 - Main effect of time - Decreasing activation
+contrast,-
 keywords,fMRI; outcome phase; decision making; monetary reward; talairach; gambling; time effect; decreasing activation
 Name,Broadman Area,Left/Right,X(R),Y(A),Z(S),p value,subjects
 Superior frontal gyrus,9,R,10,47,36,0.0001,9

@@ -1,0 +1,15 @@
+importance,+
+author,John O Doherty et al
+title,Neural Responses during Anticipation of a Primary Taste Reward
+table_name,Table 1-2 Regions Responding during Anticipation of Glucose and Salt Tastes
+contrast,expected reward > received reward
+keywords,fMRI; reward value; taste reward; anticipation phase
+Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
+Dopaminergic midbrain,Left,-2,-22,-10,3.95,8
+Hypothalamus,Right,8,-6,-6,4.49,8
+Striatum: nucleus accumbens,Right,12,2,-2,3.8,8
+Amygdala,Right,28,-8,-14,3.94,8
+Hippocampus,Right,22,-14,-18,3.73,8
+Hippocampus,Left,-28,-24,-16,4.78,8
+Orbitofrontal cortex,Right,24,18,-16,3.5,8
+Orbitofrontal cortex,Right,10,44,-22,3.58,8

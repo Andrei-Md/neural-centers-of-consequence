@@ -1,0 +1,12 @@
+importance,+
+author,Tobler et al
+title,Reward Value Coding Distinct From Risk Attitude-Related Uncertainty Coding in Human Reward Systems
+table_name,Table 2-3 - Areas more strongly activated by stimuli associated with larger expected value
+contrast,expected reward > received reward
+keywords,fMRI; decision making; reward value; anticipation phase; monetary reward; MNI
+Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
+Striatum (caudate),Left,-8,12,6,3.9,16
+Striatum (posterior putamen),Right,16,-6,4,3.8,16
+Orbitofrontal/inferior frontal cortex,Left,-30,34,0,3.4,16
+Medial prefrontal cortex,Right,14,46,18,3.3,16
+Lateral prefrontal cortex,Right,52,28,8,3.9,16

@@ -2,6 +2,7 @@ importance,+
 author,Cox et al
 title,Learning to Like  A Role for Human Orbitofrontal Cortex in Conditioned Reward
 table_name,Table 1 - activated regions during the presentation of reward versus negative feedback in the conditioning task
+contrast,reward > negative feedback
 keywords,fMRI;outcome phase;decision making;monetary reward;talairach;gambling;conditioning task
 Name,Left/Right,X(R),Y(A),Z(S),t,subjects
 Medial OFC,,0,44,-8,4.84,22

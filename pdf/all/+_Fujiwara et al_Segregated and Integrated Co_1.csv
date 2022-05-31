@@ -1,0 +1,25 @@
+importance,+
+author,Fujiwara et al
+title,Segregated and Integrated Coding of Reward and Punishment in the Cingulate Cortex
+table_name,TABLE 1 - Gain-specific regions in the cingulate + TABLE 2 - Gain-specific regions outside the cingulate
+contrast,win > lose
+keywords,fMRI; outcome phase; reward value; monetary reward; MNI; performance-dependent; visual cards;positive reward
+Name,Left/Right,X(R),Y(A),Z(S),z-score,NV,subjects
+Anterior cingulate cortex,L,-10,42,6,3.64,57,17
+Anterior cingulate cortex,R,14,52,18,3.50,72,17
+Anterior cingulate cortex,R,4,32,6,3.45,52,17
+Posterior cingulate cortex,L,-6,-12,30,3.99,876,17
+Posterior cingulate cortex,L,-10,-30,32,4.40,876,17
+Posterior cingulate cortex,L/R,0,-48,26,3.79,876,17
+Superior frontal gyrus,L,-14,14,52,4.22,36,17
+Superior frontal gyrus,L,-14,48,36,3.79,61,17
+Superior frontal gyrus,R,14,48,40,3.34,32,17
+Inferior operculum,L,-48,20,4,3.38,11,17
+Insula,R,46,32,-4,3.43,23,17
+Midbrain,L/R,0,-18,-14,3.61,34,17
+Inferior temporal gyrus,R,50,-26,-22,3.59,19,17
+Inferior temporal gyrus,R,58,-36,-10,3.80,104,17
+Inferior parietal lobule,R,38,-58,40,3.95,302,17
+Inferior parietal lobule,R,60,-54,20,3.42,302,17
+Inferior parietal lobule,R,64,-44,30,3.56,302,17
+Cerebellum,L,-20,-72,-36,3.67,30,17

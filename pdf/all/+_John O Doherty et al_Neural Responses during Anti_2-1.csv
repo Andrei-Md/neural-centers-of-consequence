@@ -1,0 +1,11 @@
+importance,+
+author,John O Doherty et al
+title,Neural Responses during Anticipation of a Primary Taste Reward
+table_name,Table 2-1 Regions Responding following Receipt of Glucose and Salt Tastes
+contrast,reward > no reward
+keywords,fMRI; reward value; taste reward; outcome phase
+Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
+Frontal operculum,Right,54,0,18,3.2,8
+Orbitofrontal cortexa,Right,42,46,-16,3.95,8
+Frontal operculum,Right,56,8,20,4.23,8
+Orbitofrontal cortex,Right,28,60,-12,3.45,8

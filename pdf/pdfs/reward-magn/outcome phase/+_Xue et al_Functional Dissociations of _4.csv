@@ -2,24 +2,25 @@ importance,+
 author,Xue et al
 title,Table S4 - Functional Dissociations of Risk and Reward Processing in the Medial Prefrontal Cortex
 table_name,Foci of activation for Win minus Loss domains across both Risky and Safe choices
+contrast,win > lose
 keywords,fMRI; outcome phase; decision making; monetary reward; MNI; gambling; cups task; positive reward
-Left/Right,Name,NV,z-score,X(R),Y(A),Z(S),p value
-,ACC/VMPFC,815,3.56,-2,40,8,0.05
-,ACC/VMPFC,815,3.46,0,48,-14,0.05
-,ACC/VMPFC,815,3.42,0,58,-4,0.05
-Left,lateral Orbital Frontal Gyrus,793,3.74,-52,42,-4,0.05
-Left,Superior/Middle Frontal Gyrus,676,3.52,-22,32,44,0.05
-Left,Superior/Middle Frontal Gyrus,676,3.13,-16,54,34,0.05
-Left,Superior/Middle Frontal Gyrus,676,3.06,-14,20,54,0.05
-Left,Nucleus Accumbens (NAcc),1040,3.86,-20,12,-12,0.05
-Left,Nucleus Accumbens (NAcc),1040,3.75,-10,16,-6,0.05
-Right,Nucleus Accumbens (NAcc),575,3.6,8,18,-4,0.05
-Right,Nucleus Accumbens (NAcc),575,3.35,20,12,-10,0.05
-Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.62,-44,-78,34,0.05
-Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.41,-46,-66,24,0.05
-Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.36,-18,-54,68,0.05
-Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.31,-46,-56,58,0.05
-Right,Angular Gyrus /middle occipital gyrus,764,4.4,-76,32,44,0.05
-Right,Angular Gyrus /middle occipital gyrus,764,3.25,32,-62,36,0.05
-,Posterior Cingulate Cortex,3527,4.07,-6,-46,30,0.05
-Right,Precuneus,378,3.46,6,-46,68,0.05
+Left/Right,Name,NV,z-score,X(R),Y(A),Z(S),p value,subjects
+,ACC/VMPFC,815,3.56,-2,40,8,0.05,13
+,ACC/VMPFC,815,3.46,0,48,-14,0.05,13
+,ACC/VMPFC,815,3.42,0,58,-4,0.05,13
+Left,lateral Orbital Frontal Gyrus,793,3.74,-52,42,-4,0.05,13
+Left,Superior/Middle Frontal Gyrus,676,3.52,-22,32,44,0.05,13
+Left,Superior/Middle Frontal Gyrus,676,3.13,-16,54,34,0.05,13
+Left,Superior/Middle Frontal Gyrus,676,3.06,-14,20,54,0.05,13
+Left,Nucleus Accumbens (NAcc),1040,3.86,-20,12,-12,0.05,13
+Left,Nucleus Accumbens (NAcc),1040,3.75,-10,16,-6,0.05,13
+Right,Nucleus Accumbens (NAcc),575,3.6,8,18,-4,0.05,13
+Right,Nucleus Accumbens (NAcc),575,3.35,20,12,-10,0.05,13
+Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.62,-44,-78,34,0.05,13
+Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.41,-46,-66,24,0.05,13
+Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.36,-18,-54,68,0.05,13
+Left,angular gyrus/middle occipital gyrus/superior occipital gyrus,1259,3.31,-46,-56,58,0.05,13
+Right,Angular Gyrus /middle occipital gyrus,764,4.4,-76,32,44,0.05,13
+Right,Angular Gyrus /middle occipital gyrus,764,3.25,32,-62,36,0.05,13
+,Posterior Cingulate Cortex,3527,4.07,-6,-46,30,0.05,13
+Right,Precuneus,378,3.46,6,-46,68,0.05,13

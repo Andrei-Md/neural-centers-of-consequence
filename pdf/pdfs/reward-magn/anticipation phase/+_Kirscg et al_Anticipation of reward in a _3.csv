@@ -1,0 +1,25 @@
+importance,+
+author,Kirscg et al
+title,Anticipation of reward in a nonaversive differential conditioning paradigm and the brain reward system
+table_name,Table 3 - Locations and T values for the significant activations for the contrast verbal reward > visual cue
+contrast,social reward > no reward
+keywords,fMRI; talairach; monetary reward; anticipation phase; reward magnitude; verbal reward
+Left/Right,Name,Broadman Area,t,X(R),Y(A),Z(S),subjects
+Left,thalamus,,7.90,-9,-12,-2,27
+Right,thalamus,,7.02,6,-3,0,27
+Left,putamen,,10.82,-24,6,-3,27
+Right,putamen,,8.30,21,6,0,27
+Right,globus pallidus,,6.65,15,5,0,27
+Left,orbitofrontal cortex,47,7.10,-42,17,-8,27
+Right,orbitofrontal cortex,47,8.26,36,20,-1,27
+Right,anterior cingulate,32,7.40,9,25,26,27
+Left,insula,13,8.10,-42,12,-1,27
+Left,cuneus,17,8.33,0,-84,10,27
+Right,cuneus,18,7.25,6,-83,24,27
+Right,inferior occipital gyrus,18,10.04,39,-85,-6,27
+Left,middle occipital gyrus,18,9.25,-36,-87,-1,27
+Right,middle occipital gyrus,18,8.72,45,-76,-9,27
+Right,lingual gyrus,18,7.72,18,-68,12,27
+Left,inferior occipital gyrus,18,9.55,-36,-32,-6,27
+Right,inferior occipital gyrus,18,8.45,30,-90,-3,27
+Right,fusiform gyrus,19,6.53,24,-62,-10,27

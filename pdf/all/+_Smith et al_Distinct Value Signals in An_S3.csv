@@ -2,8 +2,9 @@ importance,+
 author,Smith et al
 title,Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex
 table_name,Table S3 - Regions exhibiting increased activation to photographs of their faces; regardless of their attractiveness; compared to monetary rewards.
+contrast,social reward > monetary reward
 keywords,fMRI; reward value;decision making; outcome phase; social reward; MNI;
-X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size
-48,-62,6,Middle Temporal Gyrus,39,6.40,6255
--42,-78,0,Middle Occipital Gyrus,19,5.14,3640
-6,40,-22,Rectal Gyrus,11,4.33,1397
+X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size,subjects
+48,-62,6,Middle Temporal Gyrus,39,6.40,6255,23
+-42,-78,0,Middle Occipital Gyrus,19,5.14,3640,23
+6,40,-22,Rectal Gyrus,11,4.33,1397,23

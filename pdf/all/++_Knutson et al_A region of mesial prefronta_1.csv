@@ -2,15 +2,16 @@ importance,++
 author,Knutson et al
 title,A region of mesial prefrontal cortex tracks monetarily rewarding outcomes - characterization with rapid event-related fMRI
 table_name,Table 1-1 - reward versus nonreward outcomes on MPFC - Anticipation: Potential gain vs no outcome
+contrast,reward > no reward
 keywords,fMRI; reward value; anticipation phase; monetary reward; MID; talairach; performance-dependent; potential gain; no outcome
-Left/Right,Name,Broadman Area,z-score,X(R),Y(A),Z(S)
-R.,Ant. insula,13,4.3,36,14,1
-R.,NAcc,,4.89,11,12,0
-L.,NAcc,,5.11,-9,10,0
-R.,Caudate,,5.76,10,9,4
-L.,Caudate,,6.42,-8,1,7
-,Thalamus,,4.86,-3,-13,13
-,Mes. prefrontal ctx,32,4.51,3,27,35
-,Sup. motor area,6,3.96,0,-4,49
-L.,motor ctx.,4,4.94,-28,-55,42
-,Cerebellar vermis,,4.67,0,-70,-26
+Left/Right,Name,Broadman Area,z-score,X(R),Y(A),Z(S),subjects
+R.,Ant. insula,13,4.3,36,14,1,12
+R.,NAcc,,4.89,11,12,0,12
+L.,NAcc,,5.11,-9,10,0,12
+R.,Caudate,,5.76,10,9,4,12
+L.,Caudate,,6.42,-8,1,7,12
+,Thalamus,,4.86,-3,-13,13,12
+,Mes. prefrontal ctx,32,4.51,3,27,35,12
+,Sup. motor area,6,3.96,0,-4,49,12
+L.,motor ctx.,4,4.94,-28,-55,42,12
+,Cerebellar vermis,,4.67,0,-70,-26,12

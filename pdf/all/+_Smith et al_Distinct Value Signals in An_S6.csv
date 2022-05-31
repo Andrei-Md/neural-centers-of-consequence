@@ -2,16 +2,17 @@ importance,+
 author,Smith et al
 title,Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex
 table_name,Table S6 - Regions exhibiting sensitivity to social value - defined as increased activation to attractive faces (those from the 4-star category) compared to unattractive faces (those from the 1-star category).
+contrast,social reward > no reward
 keywords,fMRI; reward value; outcome phase; decision making; social reward; MNI;
-X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size
-0,48,-8,Medial Frontal Gyrus,10,3.31,1046
--8,18,-6,Caudate,,3.23,1046
-0,38,-12,Medial Frontal Gyrus,11,3.19,1046
-0,42,-6,Anterior Cingulate,32,3.04,1046
--18,18,0,Caudate,,3.02,1046
-50,-76,-2,Middle Occipital Gyrus,19,3.41,600
-34,-92,-6,Middle Occipital Gyrus,18,3.35,600
-40,-82,8,Middle Occipital Gyrus,19,3.32,600
-54,-72,10,Middle Temporal Gyrus,39,3.25,600
-48,-74,6,Middle Occipital Gyrus,19,3.23,600
-40,-84,-2,Inferior Occipital Gyrus,18,3.21,600
+X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size,subjects
+0,48,-8,Medial Frontal Gyrus,10,3.31,1046,23
+-8,18,-6,Caudate,,3.23,1046,23
+0,38,-12,Medial Frontal Gyrus,11,3.19,1046,23
+0,42,-6,Anterior Cingulate,32,3.04,1046,23
+-18,18,0,Caudate,,3.02,1046,23
+50,-76,-2,Middle Occipital Gyrus,19,3.41,600,23
+34,-92,-6,Middle Occipital Gyrus,18,3.35,600,23
+40,-82,8,Middle Occipital Gyrus,19,3.32,600,23
+54,-72,10,Middle Temporal Gyrus,39,3.25,600,23
+48,-74,6,Middle Occipital Gyrus,19,3.23,600,23
+40,-84,-2,Inferior Occipital Gyrus,18,3.21,600,23

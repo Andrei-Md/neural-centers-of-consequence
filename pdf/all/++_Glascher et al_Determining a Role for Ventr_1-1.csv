@@ -1,0 +1,23 @@
+importance,++
+author,Glascher et al
+title,Determining a Role for Ventromedial Prefrontal Cortex in Encoding Action-Based Value Signals During Reward-Related Decision Making
+table_name,Table 1-1 Coordinates and significance levels for contrasts - Conjunction of Vchosen for AR and SR (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+contrast, AR; SR > neutral activity
+keywords,fMRI; decision making; outcome phase; monetary reward; MNI; reinforcement learning; reversal learning; fractal image
+Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,subjects
+mOFC,L,11,-6,24,-21,4.06,20
+vmPFC,R,11,6,30,-9,3.89,20
+vmPFC,R,11,9,27,-12,3.30,20
+vmPFC,R,10,3,54,-3,3.67,20
+Amyg-hippo Junction,L,20,-27,-18,-18,4.21,20
+Amyg-hippo Junction,R,20,24,-9,-18,4.66,20
+Post. cing. cortex,R,,9,-30,51,4.52,20
+SMA,L,6,-3,-9,51,4.24,20
+SMA,R,6,3,-6,51,4.19,20
+Mid. occip. gyrus,L,39,-36,-60,24,5.43,20
+Cerebellum,L,19,-21,-63,-18,4.05,20
+Cerebellum,R,19,21,-66,-18,4.47,20
+Sens.-mot. cortex,L,4,-51,-18,54,4.58,20
+Sens.-mot. cortex,R,4,51,-15,54,4.89,20
+Mid. temp. sulcus,L,21,-57,-3,-15,4.35,20
+Mid. temp. sulcus,R,21,63,-15,3,4.23,20

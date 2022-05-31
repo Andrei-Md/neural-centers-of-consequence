@@ -1,0 +1,10 @@
+importance,+
+author,John O Doherty
+title,Dissociating Valence of Outcome from Behavioral Control in Human Orbital and Ventral Prefrontal Cortices
+table_name,Table 2-1 - Effects of response selection - response maintenance
+keywords,fMRI; reward value; outcome phase; monetary reward; MNI; response maintenance
+Name,Left/Right,X(R),Y(A),Z(S),z-score
+Medial OFC,,0,42,-18,3.37
+Lateral OFC,L,-42,36,-18,3.53
+Medial PFC,L,-3,54,-9,3.23
+Posterior cingulate cortex,L,-3,-54,15,3.86
