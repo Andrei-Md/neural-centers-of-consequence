@@ -3,7 +3,7 @@ author,John O Doherty et al
 title,Neural Responses during Anticipation of a Primary Taste Reward
 table_name,Table 1-2 Regions Responding during Anticipation of Glucose and Salt Tastes
 contrast,expected reward > received reward
-keywords,fMRI; reward value; taste reward; anticipation phase
+keywords,fMRI; reward value;MNI; taste reward; anticipation phase
 Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
 Dopaminergic midbrain,Left,-2,-22,-10,3.95,8
 Hypothalamus,Right,8,-6,-6,4.49,8

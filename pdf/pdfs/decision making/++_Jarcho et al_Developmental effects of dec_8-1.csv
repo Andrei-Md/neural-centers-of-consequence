@@ -3,7 +3,7 @@ author,Jarcho et al
 title,Developmental effects of decision-making on sensitivity to reward - An fMRI study
 table_name,Table 8-1 Receipt for Adults during Choice trials compared with Baseline
 contrast,Small Incentives > Baseline
-keywords,fMRI; outcome phase; decision making; monetary reward; small incentive;adult; visual cue
+keywords,fMRI; outcome phase; decision making;MNI; monetary reward; small incentive;adult; visual cue
 Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
 Inferior Occipital Gyrus,19,42,-79,-6,411,0.005,26
 Inferior Occipital Gyrus,18,-35,-88,-2,213,0.005,26

@@ -30,9 +30,6 @@ def main():
     # # # docs.create_xml("content.xml")
     df = docs.process_csv(n_lines=6, ignore_files=["gen_"], ignore_folders=["~"])
 
-    # # ## process data_db
-    # df = Util.process_coordinates(df, conversion_type='tal2mni', columns_name=['X(R)', 'Y(A)', 'Z(S)'])
-    df = Util.process_coordinates(df, conversion_type='none', columns_name=['X(R)', 'Y(A)', 'Z(S)'])
     # # # save df to csv
     csv_path = Path(join(os.path.abspath("../repr/data_db"), "final_coordinates-no_conversion.csv"))
     csv = Csv.Csv(csv_path, create=True)

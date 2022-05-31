@@ -3,7 +3,7 @@ author,Jarcho et al
 title,Developmental effects of decision-making on sensitivity to reward - An fMRI study
 table_name,Table 6-2 Receipt for Adolescents during Choice trials compared with Baseline
 contrast,Large Incentives > Baseline
-keywords,fMRI; outcome phase; decision making; monetary reward; high incentive; young; visual cue
+keywords,fMRI; outcome phase; decision making;MNI; monetary reward; high incentive; young; visual cue
 Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
 Precuneus,7,33,-63,42,428,0.005,26
 Insula,,33,25,2,370,0.005,26

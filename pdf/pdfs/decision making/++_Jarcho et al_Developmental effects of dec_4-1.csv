@@ -3,6 +3,6 @@ author,Jarcho et al
 title,Developmental effects of decision-making on sensitivity to reward - An fMRI study
 table_name,Table 4-1 Anticipation for Adults during Choice trials compared with Baseline
 contrast,Small Incentives > Baseline
-keywords,fMRI; anticipation phase; decision making; monetary reward; small incentive; adult; visual cue
+keywords,fMRI; anticipation phase; decision making;MNI; monetary reward; small incentive; adult; visual cue
 Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
 Inferior Parietal Lobule,40,-51,-31,50,7434,0.005,26
