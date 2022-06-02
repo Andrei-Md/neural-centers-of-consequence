@@ -3,7 +3,7 @@ author,Elliott et al
 title,Instrumental responding for rewards is associated with enhanced neuronal response in subcortical reward systems
 table_name,Table 2 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of reward
 contrast,reward > no reward
-keywords,fMRI; reward value; decision making; monetary reward; MNI; performance-dependent; effect of reward
+keywords,fMRI; reward value; decision making; monetary reward; MNI; performance-dependent; effect of reward; outcome phase
 Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),z-score,p value,subjects
 Anterior cingulate,R,32,3,33,30,5.01,0.05,12
 Medial orbitofrontal,L/R,10,0,51,-6,5.08,0.05,12

@@ -3,7 +3,7 @@ author,Koeneke et al
 title,Individual preferences modulate incentive values  Evidence from functional MRI
 table_name,Table 2 - Clusters showing preference-dependent activation during the anticipation phase.
 contrast,reward > no reward
-keywords,chocolate bars; fMRI; reward magnitude; anticipation phase; decision making; taste reward; MNI
+keywords,chocolate bars; fMRI; reward magnitude; anticipation phase; decision making; taste reward; MNI;gambling
 Name,Left/Right,NV,X(R),Y(A),Z(S),t,subjects
 Caudal premotor area,L,99,-16,-8,62,5.89,19
 Rostral premotor area,R,13,16,4,68,3.86,19

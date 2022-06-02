@@ -1,48 +1,42 @@
 \begin{tabular}{lrr}
 \toprule
-              author &  \#Foci &  \#Subjects \\
+                       Author &  \#Foci &  \#Subjects \\
 \midrule
-         Abler et al &     43 &         15 \\
-        Aharon et al &     51 &          6 \\
-      Akitsuki et al &     35 &         36 \\
-     Beneventi et al &     24 &         12 \\
-       Carrion et al &     34 &         13 \\
-    Christakou et al &     13 &         19 \\
-      Cloutier et al &     19 &         48 \\
-         Cohen et al &     39 &         16 \\
-           Cox et al &     28 &         22 \\
-       Croxson et al &      9 &         19 \\
-          Cruz et al &     27 &         23 \\
-       Delgado et al &     12 &         18 \\
-       Delgado et al &     32 &          9 \\
-            Di et al &     26 &         49 \\
-  Drobyshevsky et al &     13 &         31 \\
-     Duggirala et al &     62 &         50 \\
-       Elliott et al &     21 &         12 \\
-       Elliott et al &     16 &         12 \\
-       Elliott et al &     19 &          9 \\
-      Fujiwara et al &     23 &         17 \\
-      Glascher et al &     20 &         20 \\
-         Greck et al &     20 &         15 \\
-        Hauser et al &     12 &         20 \\
-        Jarcho et al &     63 &         26 \\
-      John O Doherty &     48 &         15 \\
-John O Doherty et al &     18 &          8 \\
-      Killgore et al &     30 &         13 \\
-        Kirscg et al &     56 &         27 \\
-       Knutson et al &     23 &          9 \\
-       Knutson et al &     24 &          8 \\
-       Knutson et al &     26 &         14 \\
-       Knutson et al &     21 &         12 \\
-       Koeneke et al &     33 &         19 \\
-         Kohno et al &     14 &         27 \\
-Koppelstaetter et al &     16 &         15 \\
-\bottomrule
-\end{tabular}
-\begin{tabular}{lrr}
-\toprule
-                       author &  \#Foci &  \#Subjects \\
-\midrule
+                  Abler et al &     43 &         15 \\
+                 Aharon et al &     51 &          6 \\
+               Akitsuki et al &     35 &         36 \\
+              Beneventi et al &     24 &         12 \\
+                Carrion et al &     34 &         13 \\
+             Christakou et al &     13 &         19 \\
+               Cloutier et al &     19 &         48 \\
+                  Cohen et al &     39 &         16 \\
+                    Cox et al &     28 &         22 \\
+                Croxson et al &      9 &         19 \\
+                   Cruz et al &     27 &         23 \\
+                Delgado et al &     12 &         18 \\
+                Delgado et al &     32 &          9 \\
+                     Di et al &     26 &         49 \\
+           Drobyshevsky et al &     13 &         31 \\
+              Duggirala et al &     62 &         50 \\
+                Elliott et al &     21 &         12 \\
+                Elliott et al &     16 &         12 \\
+                Elliott et al &     19 &          9 \\
+               Fujiwara et al &     23 &         17 \\
+               Glascher et al &     20 &         20 \\
+                  Greck et al &     20 &         15 \\
+                 Hauser et al &     12 &         20 \\
+                 Jarcho et al &     63 &         26 \\
+               John O Doherty &     48 &         15 \\
+         John O Doherty et al &     18 &          8 \\
+               Killgore et al &     30 &         13 \\
+                 Kirscg et al &     56 &         27 \\
+                Knutson et al &     23 &          9 \\
+                Knutson et al &     24 &          8 \\
+                Knutson et al &     26 &         14 \\
+                Knutson et al &     21 &         12 \\
+                Koeneke et al &     33 &         19 \\
+                  Kohno et al &     14 &         27 \\
+         Koppelstaetter et al &     16 &         15 \\
                Lawrence et al &     37 &         15 \\
                     Lee et al &     58 &         14 \\
             Nieuwenhuis et al &     10 &         14 \\

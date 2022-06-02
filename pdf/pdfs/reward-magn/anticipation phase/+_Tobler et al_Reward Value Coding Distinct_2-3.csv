@@ -3,7 +3,7 @@ author,Tobler et al
 title,Reward Value Coding Distinct From Risk Attitude-Related Uncertainty Coding in Human Reward Systems
 table_name,Table 2-3 - Areas more strongly activated by stimuli associated with larger expected value
 contrast,expected reward > received reward
-keywords,fMRI; decision making; reward value; anticipation phase; monetary reward; MNI
+keywords,fMRI; decision making; reward value; anticipation phase; monetary reward; MNI; performance-dependent
 Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
 Striatum (caudate),Left,-8,12,6,3.9,16
 Striatum (posterior putamen),Right,16,-6,4,3.8,16

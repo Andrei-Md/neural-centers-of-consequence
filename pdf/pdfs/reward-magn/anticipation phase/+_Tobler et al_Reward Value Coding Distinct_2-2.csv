@@ -3,7 +3,7 @@ author,Tobler et al
 title,Reward Value Coding Distinct From Risk Attitude-Related Uncertainty Coding in Human Reward Systems
 table_name,Table 2-2 - Areas more strongly activated by stimuli associated with larger probability
 contrast,high probability > low probability
-keywords,fMRI; decision making;safe choice; anticipation phase; monetary reward; MNI
+keywords,fMRI; decision making;safe choice; anticipation phase; monetary reward; MNI; performance-dependent
 Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
 Striatum (ventral putamen),Left,-10,4,-4,4.0,16
 Midbrain,Right,18,-18,-12,3.6,16

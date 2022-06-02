@@ -3,7 +3,7 @@ author,Knutson et al
 title,Distributed Neural Representation of Expected Value
 table_name,Table 1-4 Regressor of interest Z scores and Talairach coordinates for peak activation foci
 contrast,high probability > low probability
-keywords,talairach;reward value; probability; monetary reward; MID; fMRI
+keywords,talairach;reward value; probability; monetary reward; MID; fMRI; performance-dependent; anticipation phase
 Left/Right,Name,z-score,X(R),Y(A),Z(S),subjects
 Left,mesial PFC,4.49,-4,52,-6,14
 Right,mesial PFC,5.08,4,52,-10,14

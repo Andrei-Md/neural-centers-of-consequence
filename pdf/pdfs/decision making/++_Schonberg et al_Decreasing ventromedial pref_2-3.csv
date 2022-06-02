@@ -1,9 +1,9 @@
 importance,++
 author,Schonberg et al
 title,Decreasing ventromedial prefrontal cortex activity during sequential risk-taking  an fMRI investigation of the balloon analog risk task
-table_name,Table 2-3 Peaks of significant clusters of activation
-contrast,explosion > control
-keywords,fMRI; decision making; MNI; monetary reward;negative reward; Balloon Analog Risk Task; visual object
+table_name,Table 2-3 Peaks of significant clusters of activation - explosion > control
+contrast,lose > win
+keywords,fMRI; decision making; MNI; monetary reward;negative reward; Balloon Analog Risk Task; visual object; gambling; outcome phase
 Left/Right,Name,X(R),Y(A),Z(S),z-score,cluster size,subjects
 ,Anterior cingulate gyrus,0,24,28,4.01,1993,16
 ,Lingual gyrus,4,-80,-12,5.12,17434,16

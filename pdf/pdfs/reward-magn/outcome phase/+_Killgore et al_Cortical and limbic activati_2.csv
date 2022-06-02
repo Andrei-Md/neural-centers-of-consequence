@@ -3,7 +3,7 @@ author,Killgore et al
 title,Cortical and limbic activation during viewing of high- versus low-calorie foods
 table_name,Table 2 - Foci of maximally activated brain regions in response to high-calorie foods
 contrast,high-calorie > low-calorie
-keywords,fMRI; outcome phase; viewing; food ; high vs low calorie food; talairach; passive; high calorie
+keywords,fMRI; outcome phase; viewing; food ; high vs low calorie food; talairach; passive; high calorie; food photo reward
 Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,p value,subjects
 L.,Superior frontal gyrus,8,-24,41,40,5.61,0.05,13
 L.,Amygdala,,-20,-1,-20,3.81,0.0005,13

@@ -3,7 +3,7 @@ author,Kohno et al
 title,Risky Decision Making - Prefrontal Cortex and Mesocorticolimbic Functional Connectivity in Methamphetamine Dependence
 table_name,Table 3 - Brain Regions in Which the Relationship Between RSFC of the Right DLPFC and Modulation of Activation in the Right DLPFC by Pump Number Varied by Group - With Positive Relationships in Controls
 contrast,-
-keywords,fMRI; decision making; monetary reward; MNI; risk choice; Balloon Analog Risk Task;visual object
+keywords,fMRI; decision making; monetary reward; MNI; risk choice; Balloon Analog Risk Task;visual object; gambling
 Name,Left/Right,cluster size,X(R),Y(A),Z(S),z-score,subjects
 Amygdala,R,2549,16,-8,-12,4.63,27
 Hippocampus,L/R,2549,16,-8,-20,4.38,27

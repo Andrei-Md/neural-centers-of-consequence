@@ -3,7 +3,7 @@ author,John O Doherty
 title,Dissociating Valence of Outcome from Behavioral Control in Human Orbital and Ventral Prefrontal Cortices
 table_name,Table 2-2 - Effects of response selection - response switch > response maintenance
 contrast,response switch > response maintenance
-keywords,fMRI; reward value; outcome phase; monetary reward; MNI; response switching
+keywords,fMRI; reward value; outcome phase; monetary reward; MNI; response switching; performance-dependent
 Name,Left/Right,X(R),Y(A),Z(S),z-score,subjects
 Anterior insula-caudolateral OFC,R,36,27,-9,3.78,15
 Dorsal anterior cingulate cortex,L,-3,21,42,4.58,15

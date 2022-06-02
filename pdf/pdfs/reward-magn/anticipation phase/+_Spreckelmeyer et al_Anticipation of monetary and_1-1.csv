@@ -3,7 +3,7 @@ author,Spreckelmeyer et al
 title,Anticipation of monetary and social reward differently activates mesolimbic brain structures in men and women
 table_name,Table 1-1 Brain regions showing proportional activation to increasing anticipated reward
 contrast,high reward > low reward
-keywords,fMRI; reward value; anticipation phase; monetary reward; MID; talairach
+keywords,fMRI; reward value; anticipation phase; monetary reward; MID; talairach; performance-dependent
 Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),z-score,cluster size,subjects
 R,NAcc,,9,15,-1,7.01,451,32
 R,thalamus,,3,-17,12,6.92,,32

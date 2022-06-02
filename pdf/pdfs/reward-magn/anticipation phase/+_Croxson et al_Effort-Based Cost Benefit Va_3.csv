@@ -3,7 +3,7 @@ author,Croxson et al
 title,Effort-Based Cost Benefit Valuation and the Human Brain
 table_name,Table 3 - Regions activated by the reward contrast (increased signal to anticipation of higher reward)
 contrast,high reward > low reward
-keywords,fMRI; reward magnitude; monetary reward; anticipation phase; MNI
+keywords,fMRI; reward magnitude; monetary reward; anticipation phase; MNI; monetary reward
 Name,z-score,X(R),Y(A),Z(S),subjects
 Visual cortex,4.42,-26,-92,-18,19
 Cerebellum,3.83,26,-52,-40,19

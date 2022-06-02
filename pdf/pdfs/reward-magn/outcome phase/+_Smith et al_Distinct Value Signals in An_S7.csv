@@ -3,7 +3,7 @@ author,Smith et al
 title,Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex
 table_name,Table S7 - Regions whose activation increases with increasing social reward size
 contrast,social reward magnitude
-keywords,fMRI;reward magnitude; outcome phase; decision making; monetary reward; social reward; MNI
+keywords,fMRI;reward magnitude; outcome phase; decision making; monetary reward; social reward; MNI; passive
 X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size,subjects
 50,-76,-2,Middle Occipital Gyrus,19,3.98,2856,23
 36,-84,16,Middle Occipital Gyrus,19,3.60,2856,23
