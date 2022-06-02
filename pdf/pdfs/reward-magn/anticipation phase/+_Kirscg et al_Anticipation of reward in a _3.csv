@@ -2,7 +2,7 @@ importance,+
 author,Kirscg et al
 title,Anticipation of reward in a nonaversive differential conditioning paradigm and the brain reward system
 table_name,Table 3 - Locations and T values for the significant activations for the contrast verbal reward > visual cue
-contrast,social reward > no reward
+contrast,reward > no reward
 keywords,fMRI; talairach; monetary reward; anticipation phase; reward magnitude; verbal reward
 Left/Right,Name,Broadman Area,t,X(R),Y(A),Z(S),subjects
 Left,thalamus,,7.90,-9,-12,-2,27

@@ -3,7 +3,7 @@ author,Winston et al
 title,Brain systems for assessing facial attractiveness
 table_name,Table 1 - Brain regions showing significant differences in BOLD activation in a task-dependent manner (attractiveness judgment > age judgment;
 contrast,high reward > low reward
-keywords,fMRI; reward value; outcome phase; decision making; social reward; MNI; passive
+keywords,fMRI; reward value; outcome phase; decision making; social reward; MNI; passive; viewing
 Name,Left/Right,X(R),Y(A),Z(S),z-score,cluster size,p value,subjects
 superior temporal sulcus,Left,-60,-45,9,5.94,39,0.05,26
 superior temporal sulcus,Left,-48,-42,3,4.95,,0.05,26

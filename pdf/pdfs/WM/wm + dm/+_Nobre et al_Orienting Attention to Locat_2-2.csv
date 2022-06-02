@@ -3,7 +3,7 @@ author,Nobre et al
 title,Orienting Attention to Locations in Perceptual Versus Mental Representations
 table_name,Table 2-2 Differential Brain Activations to Precues and Retrocues
 contrast,retrocue > precue
-keywords,fMRI; working memory; decision making; talairach; visual spatial;retrocue
+keywords,fMRI; working memory; decision making; talairach; visual spatial cue;retrocue;experimental task
 Left/Right,Name,X(R),Y(A),Z(S),z-score,cluster size,subjects
 ,Med SPL (precuneus),03,-69,51,4.89,21,10
 R,IPS,36,-57,42,3.29,25,10

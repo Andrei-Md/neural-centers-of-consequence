@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import scipy.stats
 
+
 def import_data(csv_filename):
     data_df = pd.read_csv(csv_filename)
 
@@ -157,6 +158,7 @@ def process_coordinates(data: pd.DataFrame, conversion_type, no_decimals=4) -> p
         return pd.DataFrame(data=mni2tal(data, no_decimals=no_decimals), index=data.index)
     return data
 
+
 # significance
 def significance(row, df=10):
     if not (pd.isna(row['p value'])):
@@ -164,5 +166,5 @@ def significance(row, df=10):
     elif not (pd.isna(row['z-score'])):
         return scipy.stats.norm.sf(row['z-score'])
     elif not (pd.isna(row['t'])):
-        return scipy.stats.t.sf(row['t'], df)
+        return scipy.stats.t.sf(row['t'], df)  # TODO df = no_subjects-2
     return 0

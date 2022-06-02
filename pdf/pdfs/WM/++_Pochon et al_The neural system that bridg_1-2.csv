@@ -2,7 +2,7 @@ importance,++
 author,Pochon et al
 title,The neural system that bridges reward and cognition in humans  An fMRI study
 table_name,Table 1-1 Activation and deactivation associated with reward - negative reward
-contrast, 1-back > 0-back; 2-back > 1-back; 3-back > 2-back
+contrast,3-back > 2-back > 1-back > 0-back
 keywords,fMRI; working memory; reward value; monetary reward; talairach; negative reward; n-back task; visual letters
 Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),t,p value,subjects
 Cerebellum,R,,3,-75,18,6.02,0.001,6

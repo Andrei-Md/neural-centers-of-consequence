@@ -3,7 +3,7 @@ author,Reilhac et al
 title,Role of the superior parietal lobules in letter-identity processing within strings FMRI evidence from skilled and dyslexicreaders
 table_name,Table 2-1 Cerebral regions activated during the letter string comparis on task for the substitution condition relative to baseline - Frame Dif - frames with strings from different families
 contrast,Sub-Dif > Frame-Dif
-keywords,fMRI; working memory; decision making; talairach; reading; visual word recognition;Sub-Dif
+keywords,fMRI; working memory; decision making; talairach; reading; visual word recognition;Sub-Dif; perceptual matching task
 Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
 Right,superior  parietal  lobule/precuneus,7,24,-71,48,137,0.001,12
 Right,superior  parietal  lobule/precuneus,7,32,-60,49,29,0.001,12

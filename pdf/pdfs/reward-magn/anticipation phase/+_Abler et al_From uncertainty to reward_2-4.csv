@@ -3,7 +3,7 @@ author,Abler et al
 title,From uncertainty to reward - BOLD characteristics differentiate signaling pathways
 table_name,Table 2-4: fMRI results: ANOVA 2 - modeling effects over expectation phase - increasing reward uncertainty
 contrast,risk > safe
-keywords,fMRI; MNI; reward magnitude; reward value; money reward; anticipation phase; anova; decision making; performance-dependent; increasing reward uncertainty
+keywords,fMRI; MNI; reward magnitude; reward value; monetary reward; anticipation phase; anova; decision making; performance-dependent; increasing reward uncertainty
 Name,Left/Right,Broadman Area,NV,t,X(R),Y(A),Z(S),subjects
 MPFC,,,1184,5.53,2,50,-12,15
 MPFC,,,,5.48,-8,34,-22,15

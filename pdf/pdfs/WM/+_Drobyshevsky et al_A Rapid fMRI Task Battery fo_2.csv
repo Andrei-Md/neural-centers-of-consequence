@@ -3,7 +3,7 @@ author,Drobyshevsky et al
 title,"A Rapid fMRI Task Battery for Mapping of Visual, Motor, Cognitive and Emotional Function"
 table_name,Table 2 - Sensitivity of tasks and Talairach coordinates of activated regions
 contrast,2-back > 0-back
-keywords,fMRI; working memory; talairach; n-back task; two-back task
+keywords,fMRI; working memory; talairach; n-back task; two-back task; visual letters
 Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),p value,subjects
 DLPFC,left,9/8/46,-40,21,31,0.05,31
 DLPFC,right,9/8/46,42,28,35,0.05,31

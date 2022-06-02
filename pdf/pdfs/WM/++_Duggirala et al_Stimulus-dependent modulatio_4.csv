@@ -2,7 +2,7 @@ importance,++
 author,Duggirala et al
 title,Stimulus-dependent modulation of working memory for identity monitoring - A functional MRI study
 table_name,Table 4 - Common and stimulus-specific activations during two-back WM with words and faces as stimuli
-contrast, 2-back > 0-back
+contrast,2-back > 0-back
 keywords,fMRI; working memory; MNI; n-back task; two-back task; visual faces; visual word recognition
 Name,Left/Right,X(R),Y(A),Z(S),t,cluster size,subjects
 Cerebellum,Left,-26,-64,-32,5.27,117,50

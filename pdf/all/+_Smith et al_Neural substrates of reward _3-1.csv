@@ -1,9 +1,0 @@
-importance,+
-author,Smith et al
-title,"Neural substrates of reward magnitude, probability, and risk during a wheel of fortune decision-making task"
-table_name,Table 3-1 - Regions showing greater BOLD for low vs. high-probability selections
-contrast,low probability > high probability
-keywords,fMRI; reward magnitude; anticipation phase; decision making; monetary reward; talairach; gambling
-Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
-Cingulate gyrus,R,32,1,21,45,3918,0.005,25
-Middle frontal gyrus,L,8/9,-34,29,42,569,0.005,25

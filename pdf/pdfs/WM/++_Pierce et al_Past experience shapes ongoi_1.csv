@@ -2,7 +2,7 @@ importance,++
 author,Pierce et al
 title,Past experience shapes ongoing neural patterns for language
 table_name,Table 1 - Coordinates of maximum peaks within significant clusters for 3-3 ANOVA main effects of group (French monolingual; Chinese-French bilingual; international adoptee) and condition (0-back; 1-back; 2-back); controlling for age and duration of exposure to French
-contrast, 2-back; 1-back > 0-back
+contrast, 2-back > 1-back > 0-back
 keywords,fMRI; working memory; MNI; n-back task;verbal pseudo-words
 Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),t,subjects
 Left,Superior frontal gyrus,8,-4,16,50,5.27,42

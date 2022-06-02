@@ -3,7 +3,7 @@ author,Knutson et al
 title,Anticipation of Increasing Monetary Reward Selectively Recruits Nucleus Accumbens
 table_name,Table 1-2 Regressor of interest Z scores and Talairach coordinates of peak activation foci right/anterior/superior (RAS)
 contrast,reward > no reward
-keywords,FMRI; reward magnitude; monetary reward; MID; anticipation phase; talairach
+keywords,fMRI; reward magnitude; monetary reward; MID; anticipation phase; talairach
 Left/Right,Name,z-score,X(R),Y(A),Z(S),subjects
 Right,NAcc,2.20,12,19,-1,8
 Left,caudate,2.41,-6,6,7,8

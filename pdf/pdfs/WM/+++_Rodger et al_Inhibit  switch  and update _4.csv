@@ -2,8 +2,8 @@ importance,+++
 author,Rodger et al
 title,Inhibit  switch  and update - A within-subject fMRI investigation of executive control
 table_name,Table 4 - Brain Regions associated with Task Switching
-contrast, task switching > control task
-keywords,fMRI; MNI; task switching;visual shape color
+contrast,task switching > control task
+keywords,fMRI; MNI; task switching;visual shape color;n-back task
 Left/Right,Name,X(R),Y(A),Z(S),NV,t,subjects
 Right,Middle Frontal Gyrus,36,51,0,86,7.22,22
 Left,Cingulate Gyrus,-3,-33,45,5574,9.98,22

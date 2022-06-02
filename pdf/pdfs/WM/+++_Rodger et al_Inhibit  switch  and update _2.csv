@@ -2,8 +2,8 @@ importance,+++
 author,Rodger et al
 title,Inhibit  switch  and update - A within-subject fMRI investigation of executive control
 table_name,Table 2 - Brain regions associated with working memory
-contrast, n-back > control task
-keywords,fMRI; working memory; MNI;visual shape color
+contrast,n-back > control task
+keywords,fMRI; working memory; MNI;visual shape color;n-back task
 Left/Right,Name,X(R),Y(A),Z(S),NV,t,subjects
 Right,Middle Frontal Gyrus,33,3,54,3966,11.62,22
 Right,Middle Frontal Gyrus,33,3,54,292,11.62,22

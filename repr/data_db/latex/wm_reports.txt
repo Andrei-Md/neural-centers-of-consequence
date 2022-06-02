@@ -1,0 +1,30 @@
+\begin{tabular}{llrrll}
+\toprule
+              author &                          contrast &  \#Foci &  \#Subjects &            Task Modality &                                        Task Stimulus \\
+\midrule
+     Beneventi et al &          2-back > 1-back > 0-back &     24 &         12 &              n-back task &                scrambled drawings, facial expression \\
+       Carrion et al &                   2-back > 0-back &     16 &         13 &              n-back task &                                       visual numbers \\
+       Carrion et al &                   3-back > 0-back &     18 &         13 &              n-back task &                                       visual numbers \\
+          Cruz et al &                                 - &     27 &         23 &   reversal learning task &                              visual identical shapes \\
+            Di et al &                   1-back > 2-back &     13 &         49 &              n-back task &                                       visual letters \\
+            Di et al &                   2-back > 1-back &     13 &         49 &              n-back task &                                       visual letters \\
+  Drobyshevsky et al &                   2-back > 0-back &     13 &         31 &              n-back task &                                       visual letters \\
+     Duggirala et al &                   2-back > 0-back &     62 &         50 &              n-back task & visual faces, visual object, visual word recognition \\
+Koppelstaetter et al &                   2-back > 0-back &     16 &         15 &              n-back task &                                               verbal \\
+           Lee et al &                     1-back > rest &     58 &         14 &              n-back task &                                       visual numbers \\
+         Nobre et al &               retrocue and precue &     30 &         10 &        experimental task &                                   visual spatial cue \\
+         Nobre et al &                 retrocue > precue &      9 &         10 &        experimental task &                                   visual spatial cue \\
+         Nobre et al &                 precue > retrocue &      3 &         10 &        experimental task &                                   visual spatial cue \\
+       Padilla et al &                   2-back > 0-back &     10 &         25 &              n-back task &                                       visual letters \\
+       Padilla et al &                   3-back > 0-back &     13 &         25 &              n-back task &                                       visual letters \\
+        Pierce et al &          2-back > 1-back > 0-back &     19 &         42 &              n-back task &                                  verbal pseudo-words \\
+        Pochon et al & 3-back > 2-back > 1-back > 0-back &     43 &          6 &              n-back task &                                       visual letters \\
+       Reilhac et al &                sub-dif > baseline &     21 &         12 & perceptual matching task &                              visual word recognition \\
+       Reilhac et al &               sub-dif > frame-dif &     14 &         12 & perceptual matching task &                              visual word recognition \\
+       Reilhac et al &                 sub-id > baseline &      4 &         12 & perceptual matching task &                              visual word recognition \\
+        Rodger et al &             n-back > control task &     15 &         22 &              n-back task &                                   visual shape color \\
+       Schmidt et al & 3-back > 2-back > 1-back > 0-back &     14 &         50 &              n-back task &                                       visual letters \\
+           Seo et al &                   2-back > 0-back &     19 &         22 &              n-back task &                                       visual letters \\
+        Taylor et al &                                 - &     23 &         12 &              n-back task &                                         visual shape \\
+\bottomrule
+\end{tabular}

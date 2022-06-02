@@ -2,7 +2,7 @@ importance,+
 author,Di et al
 title,Anterior cingulate cortex differently modulates fronto-parietal functional connectivity between resting-state and working memory tasks
 table_name,Table 1-2 Clusters that showed  increased or decreased activations in the 2-back condition compared with the 1-back condition in the block designed runs  1-back > 2-back
-contrast,2-back > 1-back
+contrast,1-back > 2-back
 keywords,fMRI; working memory; MNI; n-back task; one-back task;visual letters
 p value,NV,X(R),Y(A),Z(S),t,Left/Right,Name,subjects
 0.001,661,-3,-16,32,8.73,,Middle cingulate gyrus,49

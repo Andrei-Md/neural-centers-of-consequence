@@ -3,7 +3,7 @@ author,Abler et al
 title,From uncertainty to reward - BOLD characteristics differentiate signaling pathways
 table_name,Table 1-2: fMRI Results: ANOVA 1 - modeling effects over the whole trial - high > low reward value level
 contrast,high reward > low reward
-keywords,fMRI; MNI; reward magnitude; reward value; money reward; anticipation phase; outcome phase; anova; decision making; performance-dependent; high > low reward value level
+keywords,fMRI; MNI; reward magnitude; reward value; monetary reward; anticipation phase; outcome phase; anova; decision making; performance-dependent
 Name,Left/Right,Broadman Area,NV,t,X(R),Y(A),Z(S),subjects
 ventral striatum,L,,14,5.17,-6,10,2,15
 anterior insula/IFG,R,,13,5.00,40,26,-14,15

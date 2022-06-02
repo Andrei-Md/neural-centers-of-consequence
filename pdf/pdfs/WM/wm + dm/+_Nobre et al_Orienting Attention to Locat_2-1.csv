@@ -3,7 +3,7 @@ author,Nobre et al
 title,Orienting Attention to Locations in Perceptual Versus Mental Representations
 table_name,Table 2-1 Differential Brain Activations to Precues and Retrocues
 contrast,precue > retrocue
-keywords,fMRI; working memory; decision making; talairach; visual spatial; precue
+keywords,fMRI; working memory; decision making; talairach; visual spatial cue; precue;experimental task
 Left/Right,Name,X(R),Y(A),Z(S),z-score,cluster size,subjects
 R,IPTO (posterior angular gyrus),33,-87,15,4.24,62,10
 R,IPTO (posterior angular gyrus),33,-78,15,3.90,62,10

@@ -1,9 +1,0 @@
-importance,+
-author,Smith et al
-title,"Neural substrates of reward magnitude, probability, and risk during a wheel of fortune decision-making task"
-table_name,Table 3-2 - Regions showing greater BOLD for risky vs safe selections
-contrast,risk > safe
-keywords,fMRI; reward magnitude; anticipation phase; decision making; monetary reward; talairach; gambling
-Name,Left/Right,Broadman Area,X(R),Y(A),Z(S),cluster size,p value,subjects
-Cingulate gyrusa,L,32,-4,22,44,278,0.005,25
-Intraparietal lobulea,R,40,-55,-46,40,177,0.005,25

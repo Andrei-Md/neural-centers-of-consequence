@@ -3,7 +3,7 @@ author,Knutson et al
 title,A region of mesial prefrontal cortex tracks monetarily rewarding outcomes - characterization with rapid event-related fMRI
 table_name,Table 1-2 - reward versus nonreward outcomes on MPFC - Anticipation: Potential loss vs no outcome
 contrast,lose > no reward
-keywords,fMRI; reward value; anticipation phase; monetary reward; MID; talairach; performance-dependent; potential loss; no outcome
+keywords,fMRI; reward value; anticipation phase; monetary reward; MID; talairach; performance-dependent; potential loss
 Left/Right,Name,Broadman Area,z-score,X(R),Y(A),Z(S),subjects
 R.,Ant. insula,13,4.26,35,14,1,12
 R.,Caudate,,4.62,11,-3,14,12

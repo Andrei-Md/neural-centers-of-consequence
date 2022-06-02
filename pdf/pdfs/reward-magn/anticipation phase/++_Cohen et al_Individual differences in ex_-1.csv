@@ -3,7 +3,7 @@ author,Cohen et al
 title,Individual differences in extraversion and dopamine genetics predict neural reward responses
 table_name,Table 1 Study 2 reward - no reward
 contrast,reward > no reward
-keywords,fMRI; MNI; extraversion;outcome phase; dopamine; money reward; decision making; performance-dependent; reward magnitude
+keywords,fMRI; MNI; extraversion;outcome phase; dopamine; monetary reward; decision making; performance-dependent; reward magnitude
 Left/Right,Name,Broadman Area,t,X(R),Y(A),Z(S),subjects
 R.,amygdala,,6.58,18,-7,-28,16
 L.,amygdala,,6.47,-17,-3,-14,16

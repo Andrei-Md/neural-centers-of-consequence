@@ -3,7 +3,7 @@ author,Rodger et al
 title,Inhibit  switch  and update - A within-subject fMRI investigation of executive control
 table_name,Table 3 - Brain Regions associated with Inhibition
 contrast,inhibiton task > control task
-keywords,fMRI; MNI; inhibition;visual shape color
+keywords,fMRI; MNI; inhibition;visual shape color;n-back task
 Left/Right,Name,X(R),Y(A),Z(S),NV,t,subjects
 Right,Inferior Frontal Gyrus,51,12,24,59,6.12,22
 Right,Middle Frontal Gyrus,33,0,42,25,4.82,22

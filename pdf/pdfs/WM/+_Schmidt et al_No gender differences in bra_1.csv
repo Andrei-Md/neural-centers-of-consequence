@@ -2,8 +2,8 @@ importance,+
 author,Schmidt et al
 title,No gender differences in brain activation during the N-back task  An fMRI study in healthy individuals
 table_name,TABLE 1 - Distribution of brain activation while performing the N-back in men (n = 25) and women (n = 21) - one-back task + two-back task + three-back task vs 0-back
-contrast,3-back; 2-back; 1-back > 0-back
-keywords,fMRI; working memory; talairach; n-back task;  visual letters
+contrast,3-back > 2-back > 1-back > 0-back
+keywords,fMRI; working memory; talairach; n-back task; visual letters
 Name,Broadman Area,X(R),Y(A),Z(S),cluster size,t,subjects
 Superior frontal gyrus,6,26,12,54,884,8.37,50
 Superior frontal gyrus,,-6,22,46,643,6.93,50

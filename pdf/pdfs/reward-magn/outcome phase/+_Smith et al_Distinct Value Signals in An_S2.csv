@@ -3,7 +3,7 @@ author,Smith et al
 title,Distinct Value Signals in Anterior and Posterior Ventromedial Prefrontal Cortex
 table_name,Table S2 - Regions exhibiting increased activation to monetary rewards - regardless of their value - compared to photographs of faces.
 contrast,monetary reward > faces reward
-keywords,fMRI; reward value; decision making; outcome phase; monetary reward; MNI;
+keywords,fMRI; reward value; decision making; outcome phase; monetary reward; MNI
 X(R),Y(A),Z(S),Name,Broadman Area,z-score,cluster size,subjects
 4,-72,34,Precuneus,7,6.26,11072,23
 40,-40,44,Inferior Parietal Lobule,40,4.92,3306,23

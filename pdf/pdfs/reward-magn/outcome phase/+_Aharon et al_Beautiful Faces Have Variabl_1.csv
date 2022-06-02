@@ -3,7 +3,7 @@ author,Aharon et al
 title,Beautiful Faces Have Variable Reward Value - fMRI and Behavioral Evidence
 table_name,Table 2 A - Post-Hoc Fixed Effects Analysis - Contrast - general effect of beauty - computed for all beautiful face conditions versus all average face conditions
 contrast,beautiful faces > average faces
-keywords,fMRI; outcome phase; viewing; social reward; talairach; passive;
+keywords,fMRI; outcome phase; viewing; social reward; talairach; passive
 Name,X(R),Y(A),Z(S),p value,subjects
 VT,3,-18,-15,4.4E-5,6
 VT,-3,-8,-15,1.4E-5,6

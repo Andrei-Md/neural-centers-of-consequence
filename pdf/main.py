@@ -7,7 +7,7 @@ import logging
 from pdf import Util, Csv
 
 
-def main():
+def process_files():
     logging.basicConfig()
     logging.getLogger().setLevel(logging.DEBUG)
     # logging.basicConfig(filename="main.log",
@@ -35,6 +35,5 @@ def main():
     csv = Csv.Csv(csv_path, create=True)
     csv.create_csv_from_pd(df, header=True, index=False)
 
-
 if __name__ == '__main__':
-    main()
+    process_files()

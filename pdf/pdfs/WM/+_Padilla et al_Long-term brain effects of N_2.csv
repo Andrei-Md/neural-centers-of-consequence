@@ -2,7 +2,7 @@ importance,+
 author,Padilla et al
 title,Long-term brain effects of N-back training- an fMRI study
 table_name,Table 2 - List of brain activations as a result of the post-training session and follow-up session in 3-back load level between groups comparison
-contrast,between sessions contrast
+contrast,3-back > 0-back
 keywords,fMRI; working memory; MNI; n-back task; three-back task; visual letters
 Left/Right,Name,Broadman Area,NV,X(R),Y(A),Z(S),z-score,subjects
 R,Frontal Superior,32/6,1380,6,29,41,5.48,25
