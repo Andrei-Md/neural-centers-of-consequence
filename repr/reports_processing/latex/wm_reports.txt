@@ -2,14 +2,14 @@
 \toprule
               Author &  \#Foci &  \#Subjects &                          Contrast &            Task Modality &                                        Task Stimulus \\
 \midrule
-     Beneventi et al &     24 &         12 &          2-back > 1-back > 0-back &              n-back task &  visual facial expression, visual scrambled drawings \\
+     Beneventi et al &     24 &         12 &          2-back > 1-back > 0-back &              n-back task &  visual scrambled drawings, visual facial expression \\
        Carrion et al &     16 &         13 &                   2-back > 0-back &              n-back task &                                       visual numbers \\
        Carrion et al &     18 &         13 &                   3-back > 0-back &              n-back task &                                       visual numbers \\
           Cruz et al &     27 &         23 &                                 - &   reversal learning task &                              visual identical shapes \\
             Di et al &     13 &         49 &                   1-back > 2-back &              n-back task &                                       visual letters \\
             Di et al &     13 &         49 &                   2-back > 1-back &              n-back task &                                       visual letters \\
   Drobyshevsky et al &     13 &         31 &                   2-back > 0-back &              n-back task &                                       visual letters \\
-     Duggirala et al &     62 &         50 &                   2-back > 0-back &              n-back task & visual object, visual faces, visual word recognition \\
+     Duggirala et al &     62 &         50 &                   2-back > 0-back &              n-back task & visual word recognition, visual object, visual faces \\
 Koppelstaetter et al &     16 &         15 &                   2-back > 0-back &              n-back task &                                               verbal \\
            Lee et al &     58 &         14 &                     1-back > rest &              n-back task &                                       visual numbers \\
          Nobre et al &     30 &         10 &               retrocue and precue &        experimental task &                                   visual spatial cue \\

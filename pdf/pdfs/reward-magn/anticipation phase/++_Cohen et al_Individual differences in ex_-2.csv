@@ -2,7 +2,7 @@ importance,++
 author,Cohen et al
 title,Individual differences in extraversion and dopamine genetics predict neural reward responses
 table_name,Table 1 Study 2 anticipation
-contrast,anticipation phase
+contrast,reward > no reward
 keywords,fMRI; anticipation phase; MNI; extraversion; dopamine; monetary reward; decision making; performance-dependent; reward magnitude
 Left/Right,Name,Broadman Area,t,X(R),Y(A),Z(S),subjects
 R.,parietal,40,10.23,56,-38,49,16

@@ -3,11 +3,11 @@
               Author &  \#Foci &  \#Subjects &                      Reward Phase &    Reward Contingency &                               Reward Type \\
 \midrule
          Abler et al &     17 &         15 &                anticipation phase & performance-dependent &                           monetary reward \\
+         Abler et al &     21 &         15 & anticipation phase, outcome phase & performance-dependent &                           monetary reward \\
          Abler et al &      5 &         15 &                     outcome phase & performance-dependent &                           monetary reward \\
-         Abler et al &     21 &         15 & outcome phase, anticipation phase & performance-dependent &                           monetary reward \\
         Aharon et al &     51 &          6 &                     outcome phase &               passive &                             social reward \\
-      Akitsuki et al &     13 &         36 &                     outcome phase &              gambling & context-dependent reward, monetary reward \\
       Akitsuki et al &     22 &         36 &                     outcome phase &              gambling &                           monetary reward \\
+      Akitsuki et al &     13 &         36 &                     outcome phase &              gambling & monetary reward, context-dependent reward \\
     Christakou et al &     13 &         19 &                     outcome phase &              gambling &                           monetary reward \\
       Cloutier et al &     19 &         48 &                     outcome phase &               passive &                             social reward \\
          Cohen et al &     25 &         16 &                     outcome phase & performance-dependent &                           monetary reward \\
@@ -18,8 +18,8 @@
        Delgado et al &     32 &          9 &                     outcome phase &              gambling &                           monetary reward \\
        Elliott et al &     21 &         12 &                     outcome phase & performance-dependent &                           monetary reward \\
        Elliott et al &     16 &         12 &                     outcome phase & performance-dependent &                           monetary reward \\
-       Elliott et al &     13 &          9 &                     outcome phase &              gambling & context-dependent reward, monetary reward \\
        Elliott et al &      6 &          9 &                     outcome phase &              gambling &                           monetary reward \\
+       Elliott et al &     13 &          9 &                     outcome phase &              gambling & monetary reward, context-dependent reward \\
       Fujiwara et al &     23 &         17 &                     outcome phase & performance-dependent &                           monetary reward \\
       Glascher et al &     20 &         20 &                     outcome phase &     reversal learning &                           monetary reward \\
          Greck et al &     20 &         15 &                     outcome phase &              gambling &                           feedback reward \\
@@ -50,8 +50,8 @@ John O Doherty et al &      5 &          8 &                     outcome phase &
 \midrule
                Lawrence et al &      5 &         15 &     decision phase &              gambling &                           monetary reward \\
                Lawrence et al &     32 &         15 &      outcome phase &              gambling &                           monetary reward \\
-            Nieuwenhuis et al &      8 &         14 &      outcome phase &              gambling & context-dependent reward, monetary reward \\
             Nieuwenhuis et al &      2 &         14 &      outcome phase &              gambling &                           monetary reward \\
+            Nieuwenhuis et al &      8 &         14 &      outcome phase &              gambling & monetary reward, context-dependent reward \\
              Rademacher et al &      6 &         28 &      outcome phase & performance-dependent &                           monetary reward \\
              Rademacher et al &     15 &         28 &      outcome phase & performance-dependent &                             social reward \\
              Rademacher et al &      7 &         28 & anticipation phase & performance-dependent &                             social reward \\
@@ -67,8 +67,8 @@ John O Doherty et al &      5 &          8 &                     outcome phase &
               Sescousse et al &      6 &         18 &      outcome phase & performance-dependent &                           monetary reward \\
 Signe Bray and John O'Doherty &      5 &         23 &      outcome phase &               passive &                             social reward \\
                   Smith et al &     14 &         25 & anticipation phase &              gambling &                           monetary reward \\
-                  Smith et al &     19 &         23 &      outcome phase &               passive &            social reward, monetary reward \\
                   Smith et al &     14 &         23 &      outcome phase &               passive &                             social reward \\
+                  Smith et al &     19 &         23 &      outcome phase &               passive &            monetary reward, social reward \\
                   Smith et al &     21 &         23 &      outcome phase &               passive &                           monetary reward \\
           Spreckelmeyer et al &     29 &         32 & anticipation phase & performance-dependent &                             social reward \\
           Spreckelmeyer et al &     35 &         32 & anticipation phase & performance-dependent &                           monetary reward \\
