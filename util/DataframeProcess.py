@@ -1,3 +1,6 @@
+import json
+import os
+
 import pandas as pd
 import util.Data as data_util
 
@@ -48,22 +51,23 @@ def list_of_sets_to_set(df, column_name):
     len(set_all)
     return set_all
 
-def boolean_df(item_lists, unique_items):# Create empty dict
+
+def boolean_df(item_lists, unique_items):  # Create empty dict
     bool_dict = {}
 
     # Loop through all the tags
     for i, item in enumerate(unique_items):
-
         # Apply boolean mask
         bool_dict[item] = item_lists.apply(lambda x: item in x)
 
     # Return the results as a dataframe
     return pd.DataFrame(bool_dict)
 
+
 def df_report_process(df):
     #### Focis number wm
     df_group_focis = df.groupby(['title', 'author']
-                                      ).size().reset_index(name="Number of Foci")
+                                ).size().reset_index(name="Number of Foci")
 
     #### Subjects number wm
     group_subjects = df.groupby(['title', 'author', 'subjects'])
@@ -79,10 +83,56 @@ def df_report_process(df):
 
     return df_final
 
-def check_column_elem(df,colummn_name,check_set):
+
+def check_column_elem(df, colummn_name, check_set):
     '''
     the column to check must contains sets of elements
     :return: mask for the dataframe
     '''
-    mask = df[colummn_name].apply(lambda x: check_list(x, check_set))
-    return mask
+    if len(check_set) == 0:
+        return df[colummn_name].apply(lambda x: True)
+    else:
+        return df[colummn_name].apply(lambda x: check_list(x, check_set))
+
+
+def check_splits(df, contrast_col_name='contrast_split', keyword_col_name='keywords_split', order=1):
+    list_contrast_reward = list(list_of_sets_to_set(df, contrast_col_name))
+    counter_contrast_reward = data_util.df_counter(df=df.explode(contrast_col_name), column=contrast_col_name,
+                                                   set_keywords=list_contrast_reward, order=order)
+    print("Contrast Splits:")
+    print(json.dumps(counter_contrast_reward, indent=2, default=str))
+
+    # %%
+    list_keywords_reward = list(list_of_sets_to_set(df, keyword_col_name))
+    counter_keywords_reward = data_util.df_counter(df=df.explode(keyword_col_name), column=keyword_col_name,
+                                                   set_keywords=list_keywords_reward, order=order)
+    print("Keywords Splits:")
+    print(json.dumps(counter_keywords_reward, indent=2, default=str))
+
+
+def get_elem_by_substring(df, column_name, lst_substr) -> set:
+    set_keywords = set()
+    for key in lst_substr:
+        set_keywords.update(
+            [el for el in list_of_sets_to_set(df, column_name) if el.find(key) != -1])
+    return set_keywords
+
+
+def dataframe_to_sleuth_txt(df, file_path, file_name, title_max_chars=40):
+    file = os.path.join(os.path.abspath(file_path), file_name)
+    # %%
+    # sort data by author
+    df_wm_select1 = df.sort_values(by=['title'])
+    df_wm_select1.columns.values.tolist()
+    # %%
+    title = ''
+    with open(file, 'w') as f:
+        f.write('// Reference=MNI\n')
+        for index, row in df_wm_select1.iterrows():
+            if row['title'] != title:  # new title write the report metadata
+                title = row['title']
+                f.write('// {author}:{title}\n'.format(author=row['author'],
+                                                       title=(row['title'][:title_max_chars] + '..') if
+                                                       len(row['title']) > title_max_chars else row['title']))
+                f.write('// Subjects={subjects}\n'.format(subjects=row['subjects']))
+            f.write('{mnix} {mniy} {mniz}\n'.format(mnix=row['MNIX'], mniy=row['MNIY'], mniz=row['MNIZ']))

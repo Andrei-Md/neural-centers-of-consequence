@@ -3,7 +3,7 @@ author,Beneventi et al
 title,An fMRI study of working memory for schematic facial expressions
 table_name,Table 1 - Stereotactic locations of areas of significantly greater activation for the n-back main effect (p = 0.05 corrected) and the facial expressions - scrambled drawings interaction effect (p < 0.001 uncorrected; 5 voxel extent threshold)
 contrast,2-back > 1-back > 0-back
-keywords,fMRI; working memory; MNI; n-back task; facial expression; scrambled drawings
+keywords,fMRI; working memory; MNI; n-back task; visual facial expression; visual scrambled drawings
 Left/Right,Name,Broadman Area,X(R),Y(A),Z(S),NV,z-score,p value,subjects
 Left,fusiform gyrus,37,-44,-55,-11,47,7.03,0.001,12
 Right,precuneus,7,24,-52,43,188,6.90,0.001,12

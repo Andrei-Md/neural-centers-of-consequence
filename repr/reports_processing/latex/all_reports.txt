@@ -1,0 +1,67 @@
+\begin{tabular}{lrr}
+\toprule
+                       Author &  \#Foci &  \#Subjects \\
+\midrule
+                  Abler et al &     43 &         15 \\
+                 Aharon et al &     51 &          6 \\
+               Akitsuki et al &     35 &         36 \\
+              Beneventi et al &     24 &         12 \\
+                Carrion et al &     34 &         13 \\
+             Christakou et al &     13 &         19 \\
+               Cloutier et al &     19 &         48 \\
+                  Cohen et al &     39 &         16 \\
+                    Cox et al &     28 &         22 \\
+                Croxson et al &      9 &         19 \\
+                   Cruz et al &     27 &         23 \\
+                Delgado et al &     12 &         18 \\
+                Delgado et al &     32 &          9 \\
+                     Di et al &     26 &         49 \\
+           Drobyshevsky et al &     13 &         31 \\
+              Duggirala et al &     62 &         50 \\
+                Elliott et al &     21 &         12 \\
+                Elliott et al &     16 &         12 \\
+                Elliott et al &     19 &          9 \\
+               Fujiwara et al &     23 &         17 \\
+               Glascher et al &     20 &         20 \\
+                  Greck et al &     20 &         15 \\
+                 Hauser et al &     12 &         20 \\
+                 Jarcho et al &     63 &         26 \\
+               John O Doherty &     48 &         15 \\
+         John O Doherty et al &     18 &          8 \\
+               Killgore et al &     30 &         13 \\
+                 Kirscg et al &     56 &         27 \\
+                Knutson et al &     23 &          9 \\
+                Knutson et al &     24 &          8 \\
+                Knutson et al &     26 &         14 \\
+                Knutson et al &     21 &         12 \\
+                Koeneke et al &     33 &         19 \\
+                  Kohno et al &     14 &         27 \\
+         Koppelstaetter et al &     16 &         15 \\
+               Lawrence et al &     37 &         15 \\
+                    Lee et al &     58 &         14 \\
+            Nieuwenhuis et al &     10 &         14 \\
+                  Nobre et al &     42 &         10 \\
+                Padilla et al &     23 &         25 \\
+                 Pierce et al &     19 &         42 \\
+                 Pochon et al &     43 &          6 \\
+             Rademacher et al &     47 &         28 \\
+                Reilhac et al &     39 &         12 \\
+                 Rodger et al &     43 &         22 \\
+                 Rogers et al &     24 &         14 \\
+           Rosell-Negre et al &     11 &         37 \\
+               Schienle et al &     12 &         19 \\
+                Schmidt et al &     14 &         50 \\
+              Schonberg et al &     28 &         16 \\
+                    Seo et al &     19 &         22 \\
+              Sescousse et al &     46 &         18 \\
+Signe Bray and John O'Doherty &      5 &         23 \\
+                  Smith et al &     54 &         23 \\
+                  Smith et al &     14 &         25 \\
+          Spreckelmeyer et al &     64 &         32 \\
+                 Taylor et al &     41 &         12 \\
+                 Tobler et al &     19 &         16 \\
+                Vassena et al &     78 &         20 \\
+                Winston et al &     15 &         26 \\
+                    Xue et al &     52 &         13 \\
+\bottomrule
+\end{tabular}
