@@ -2,7 +2,7 @@ importance,++
 author,Vassena et al
 title,Dissociating contributions of ACC and vmPFC in reward prediction outcome and choice
 table_name,Table 1-4  Summary of the activations in the whole brain contrasts. Contrast decision phase risky gambles > safe gambles
-contrast,risky gambles > safe gambles
+contrast,risk > safe
 keywords,fMRI; decision phase; decision making; monetary reward; MNI; gambling; risk choice; visual color pies with probabilities
 Left/Right,Name,X(R),Y(A),Z(S),cluster size,t,subjects
 Bilateral,ACC,-10,36,20,235,4.17,20

@@ -7,7 +7,11 @@ import util.Data as data_util
 
 def check_list(row, ch_list):
     for el in ch_list:
-        if el in row: return True
+        if type(row) == str:
+            if row == el:
+                return True
+        elif el in row:
+            return True
     return False
 
 
@@ -40,6 +44,37 @@ def df_process(df):
     df_group_keywords['keywords_split'] = df_group_keywords['keywords_set'].apply(split_keys)
     df_result = df_result.join(df_group_keywords[['title', 'keywords_split']].set_index('title'), on='title')
 
+    return df_result
+
+
+def df_process2(df):
+    # Focis Number
+    df_result = df.groupby(['title', 'author', 'table_name']).size().reset_index(name="Number of Foci")
+
+    ## Subjects number
+    group_subjects = df.groupby(['title', 'author', 'table_name', 'subjects'])
+    dict_keys_subjects = group_subjects.groups.keys()
+    df_group_subjects = pd.DataFrame.from_records([*dict_keys_subjects],
+                                                  columns=['title', 'author', 'table_name', 'Number of Subjects'])
+    # df_result = df_result.join(df_group_subjects[['table_name', 'Number of Subjects']].set_index('table_name'),
+    #                            on='table_name')
+    df_result = pd.merge(left=df_result, right=df_group_subjects[['title', 'author', 'table_name', 'Number of Subjects']],
+                         how='left', left_on=['title', 'author', 'table_name'],
+                         right_on=['title', 'author', 'table_name'])
+
+    ## Contrast
+    df_group_contrast = df.groupby(['title', 'author', 'table_name'])['contrast'].apply(lambda x: set(x)).reset_index(
+        name='contrast_set')
+    df_result = pd.merge(left=df_result, right=df_group_contrast[['title', 'author', 'table_name', 'contrast_set']],
+                         how='left', left_on=['title', 'author', 'table_name'],
+                         right_on=['title', 'author', 'table_name'])
+    ## Keywords
+    df_group_keywords = df.groupby(['title', 'author', 'table_name'])['keywords'].apply(lambda x: set(x)).reset_index(
+        name='keywords_set')
+    df_group_keywords['keywords_split'] = df_group_keywords['keywords_set'].apply(split_keys)
+    df_result = pd.merge(left=df_result, right=df_group_keywords[['title', 'author', 'table_name', 'keywords_split']],
+                         how='left', left_on=['title', 'author', 'table_name'],
+                         right_on=['title', 'author', 'table_name'])
     return df_result
 
 

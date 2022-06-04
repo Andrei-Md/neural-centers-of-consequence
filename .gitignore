@@ -11,3 +11,10 @@ __pycache__/
 
 #others
 .idea/
+
+#cache
+/repr/ale-analysis/nilearn_cache
+
+/util/function_conv_mni.py
+/util/TDdatabase.mat
+
