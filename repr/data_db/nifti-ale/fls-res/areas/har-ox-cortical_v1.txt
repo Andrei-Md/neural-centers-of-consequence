@@ -1,0 +1,19 @@
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/img_combo1_1.nii
+Insular Cortex:42.5455
+Frontal Orbital Cortex:6.0909
+Frontal Operculum Cortex:1.3636
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/img_combo1_2.nii
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/img_combo1_3.nii
+Subcallosal Cortex:0.3043
+Frontal Orbital Cortex:0.5652
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/img_combo1_4.nii
+Insular Cortex:35.6250
+Frontal Orbital Cortex:4.6250
+Frontal Operculum Cortex:0.9375
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/img_combo1_5.nii
+Paracingulate Gyrus:48.2500
+Cingulate Gyrus, anterior division:38.6250

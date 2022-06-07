@@ -1,0 +1,19 @@
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_1.nii
+Caudate:28.0435
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_2.nii
+Frontal Lobe:82.5000
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_3.nii
+Frontal Lobe:83.0000
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_4.nii
+Frontal Lobe:46.9231
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_5.nii
+Frontal Lobe:26.8713
+Insula:19.2396
+Putamen:1.1446
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_6.nii
+Frontal Lobe:83.8333
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_7.nii
+Frontal Lobe:17.8333
+atlasquery -a MNI Structural Atlas -m ../combos/v2/img_combo2_8.nii
+Frontal Lobe:10.7368
+Insula:51.5789

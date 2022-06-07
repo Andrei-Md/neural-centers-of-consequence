@@ -1,0 +1,16 @@
+atlasquery -a MNI Structural Atlas -m ../combos/img_combo1_1.nii
+Frontal Lobe:9.5455
+Insula:36.4545
+atlasquery -a MNI Structural Atlas -m ../combos/img_combo1_2.nii
+Caudate:8.0000
+Thalamus:0.1091
+atlasquery -a MNI Structural Atlas -m ../combos/img_combo1_3.nii
+Caudate:27.9783
+Frontal Lobe:0.2391
+Putamen:32.0217
+atlasquery -a MNI Structural Atlas -m ../combos/img_combo1_4.nii
+Frontal Lobe:7.0000
+Insula:28.4375
+Putamen:0.2500
+atlasquery -a MNI Structural Atlas -m ../combos/img_combo1_5.nii
+Frontal Lobe:84.5000

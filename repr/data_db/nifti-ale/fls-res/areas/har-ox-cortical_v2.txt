@@ -1,0 +1,42 @@
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_1.nii
+Subcallosal Cortex:0.0870
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_2.nii
+Paracingulate Gyrus:45.0000
+Cingulate Gyrus, anterior division:42.0000
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_3.nii
+Frontal Medial Cortex:41.0000
+Paracingulate Gyrus:48.0000
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_4.nii
+Superior Frontal Gyrus:12.3626
+Paracingulate Gyrus:57.2418
+Cingulate Gyrus, anterior division:2.3187
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_5.nii
+Insular Cortex:19.1742
+Middle Frontal Gyrus:7.7752
+Inferior Frontal Gyrus, pars opercularis:2.9788
+Precentral Gyrus:15.0455
+Frontal Orbital Cortex:0.8175
+Frontal Operculum Cortex:1.5370
+Central Opercular Cortex:0.0654
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_6.nii
+Superior Frontal Gyrus:0.7500
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex):0.0833
+Paracingulate Gyrus:64.5833
+Cingulate Gyrus, anterior division:19.7500
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_7.nii
+Paracingulate Gyrus:0.5000
+Cingulate Gyrus, anterior division:73.3333
+
+atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../combos/v2/img_combo2_8.nii
+Frontal Pole:0.0526
+Insular Cortex:36.7368
+Inferior Frontal Gyrus, pars triangularis:0.7895
+Frontal Orbital Cortex:8.7368
+Frontal Operculum Cortex:8.7895
