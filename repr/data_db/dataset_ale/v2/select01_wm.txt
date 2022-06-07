@@ -1,0 +1,451 @@
+// Reference=MNI
+// Drobyshevsky et al:A Rapid fMRI Task Battery for .. Table 2 - Sensitivity of tasks and Talairach coordinates of activated regions
+// Subjects=31
+-29.985 57.338 9.311
+-23.972 -62.004 48.246
+22.014 -66.845 50.354
+-37.941 -52.999 42.075
+43.29 -50.141 44.248
+37.852 4.869 54.195
+2.556 10.916 52.978
+37.301 62.857 5.845
+-32.7 1.989 50.786
+51.35 16.243 7.363
+-48.018 14.676 9.751
+46.138 34.043 31.579
+-41.493 25.773 28.819
+// Taylor et al:A functional neuroimaging stud.. Table 4-1 - Activation foci for the PROBE(decision phase) event - memory load
+// Subjects=12
+24.0 40.0 -20.0
+-36.0 -60.0 40.0
+4.0 36.0 36.0
+-40.0 18.0 -4.0
+42.0 28.0 -2.0
+-40.0 50.0 -6.0
+48.0 26.0 32.0
+// Taylor et al:A functional neuroimaging stud.. Table 3-1 - Activation foci for the DELAY(anticipation phase) event - memory load
+// Subjects=12
+34.0 -80.0 38.0
+34.0 -74.0 52.0
+34.0 -62.0 52.0
+44.0 46.0 16.0
+-42.0 -54.0 52.0
+-34.0 52.0 6.0
+-2.0 12.0 54.0
+36.0 40.0 26.0
+-2.0 28.0 38.0
+-20.0 2.0 54.0
+-26.0 8.0 60.0
+2.0 18.0 46.0
+36.0 0.0 54.0
+34.0 4.0 42.0
+24.0 10.0 46.0
+-54.0 10.0 50.0
+// Lee et al:Abnormal neural activity in pa.. Table 2 - The activation map of one-back working memory task for the non-depressed controls (Task>Rest).
+// Subjects=14
+52.458 -51.451 -14.853
+38.989 -63.626 35.392
+-68.331 -21.796 -5.916
+-44.678 -55.321 -1.146
+52.452 -36.133 -9.446
+-7.878 -67.824 54.125
+8.126 -70.186 49.679
+-35.824 -49.9 40.676
+35.805 -53.529 42.388
+-36.79 -54.337 52.211
+-22.933 -67.799 42.029
+-6.094 21.897 44.35
+-7.139 13.345 43.964
+9.911 21.736 40.834
+-1.809 9.948 40.842
+5.733 5.134 46.735
+8.822 24.816 39.473
+14.343 6.928 55.407
+-34.802 -5.34 52.54
+-48.935 4.152 25.141
+-45.806 13.26 18.766
+-48.876 -68.836 3.382
+29.41 -55.597 43.75
+25.923 -60.729 5.188
+17.264 0.691 15.75
+46.018 -46.288 -16.327
+-38.494 -58.739 -32.156
+7.464 -60.578 -32.529
+-8.51 -20.551 -8.938
+10.709 -18.407 -10.453
+-13.923 -22.412 -18.756
+9.564 -30.187 -25.065
+-14.845 -8.817 5.764
+19.395 -13.642 9.121
+-14.815 -0.815 12.899
+50.421 11.092 23.418
+-17.044 -8.372 -2.055
+24.685 -8.665 4.182
+-25.65 20.641 2.302
+34.13 21.457 -6.259
+1.344 -92.74 -7.458
+2.453 -96.706 -3.792
+-34.953 -77.212 3.924
+3.724 -95.702 22.874
+54.692 -65.814 -8.098
+-28.388 -72.288 25.74
+-43.636 -62.173 -7.274
+-14.636 -69.26 8.6
+-39.706 50.709 -6.749
+49.524 1.882 42.044
+-38.58 49.114 0.063
+-32.657 13.419 60.979
+-42.318 4.131 51.832
+36.464 46.588 29.523
+37.802 -2.247 44.755
+-23.05 4.589 56.033
+16.464 6.77 53.166
+63.286 13.797 29.735
+// Beneventi et al:An fMRI study of working memor.. Table 1 - Stereotactic locations of areas of significantly greater activation for the n-back main effect (p = 0.05 corrected) and the facial expressions - scrambled drawings interaction effect (p < 0.001 uncorrected; 5 voxel extent threshold)
+// Subjects=12
+24.0 -52.0 43.0
+0.0 21.0 43.0
+-28.0 -56.0 51.0
+40.0 40.0 20.0
+-40.0 36.0 17.0
+28.0 7.0 55.0
+-44.0 9.0 25.0
+-44.0 -55.0 -11.0
+40.0 -67.0 -17.0
+-32.0 23.0 -1.0
+28.0 24.0 0.0
+-44.0 6.0 44.0
+-8.0 -79.0 -20.0
+4.0 -79.0 -16.0
+28.0 -92.0 4.0
+4.0 11.0 62.0
+48.0 -59.0 -7.0
+-8.0 3.0 62.0
+-28.0 6.0 44.0
+-32.0 -83.0 -16.0
+-20.0 -86.0 -13.0
+-36.0 -75.0 -16.0
+44.0 -55.0 -14.0
+-40.0 39.0 9.0
+// Di et al:Anterior cingulate cortex diff.. Table 1-1 Clusters that showed  increased or decreased activations in the 2-back condition compared with the 1-back condition in the block designed runs 2-back> 1-back
+// Subjects=49
+24.0 11.0 56.0
+// Di et al:Anterior cingulate cortex diff.. Table 1-2 Clusters that showed  increased or decreased activations in the 2-back condition compared with the 1-back condition in the block designed runs  1-back > 2-back
+// Subjects=49
+12.0 59.0 20.0
+-9.0 53.0 -1.0
+-36.0 -10.0 -4.0
+// Di et al:Anterior cingulate cortex diff.. Table 1-1 Clusters that showed  increased or decreased activations in the 2-back condition compared with the 1-back condition in the block designed runs 2-back> 1-back
+// Subjects=49
+-24.0 8.0 50.0
+-48.0 5.0 32.0
+-6.0 -61.0 44.0
+-18.0 -70.0 50.0
+21.0 -67.0 53.0
+48.0 5.0 23.0
+27.0 -61.0 -37.0
+9.0 -73.0 -31.0
+-18.0 5.0 11.0
+-30.0 26.0 2.0
+-33.0 50.0 2.0
+-42.0 50.0 2.0
+// Di et al:Anterior cingulate cortex diff.. Table 1-2 Clusters that showed  increased or decreased activations in the 2-back condition compared with the 1-back condition in the block designed runs  1-back > 2-back
+// Subjects=49
+0.0 -37.0 20.0
+0.0 -28.0 44.0
+39.0 -19.0 20.0
+36.0 -16.0 2.0
+39.0 2.0 -1.0
+-6.0 62.0 8.0
+-3.0 -16.0 32.0
+-63.0 -25.0 5.0
+21.0 38.0 -1.0
+-39.0 -19.0 17.0
+// Carrion et al:Frontal Hypoactivation on Func.. TABLE 4 - LOCAL MAXIMA OF DIFFERENCES BETWEEN 3-BACK AND 0-BACK BY SUBTRACTION ANALYSES FOR THE TBI AND CONTROL GROUP
+// Subjects=13
+34.0 22.0 4.0
+// Carrion et al:Frontal Hypoactivation on Func.. TABLE 3 - LOCAL MAXIMA OF DIFFERENCES BETWEEN 2-BACK AND 0-BACK BY SUBTRACTION ANALYSES FOR THE TBI AND CONTROL GROUP
+// Subjects=13
+44.0 -46.0 44.0
+40.0 -54.0 52.0
+-32.0 -56.0 48.0
+-22.0 -66.0 42.0
+-42.0 -46.0 46.0
+34.0 22.0 4.0
+-40.0 50.0 8.0
+-36.0 44.0 24.0
+-34.0 24.0 2.0
+-52.0 12.0 26.0
+-4.0 6.0 60.0
+24.0 4.0 62.0
+16.0 -68.0 56.0
+8.0 -76.0 -26.0
+32.0 -56.0 -38.0
+-34.0 -56.0 -38.0
+// Carrion et al:Frontal Hypoactivation on Func.. TABLE 4 - LOCAL MAXIMA OF DIFFERENCES BETWEEN 3-BACK AND 0-BACK BY SUBTRACTION ANALYSES FOR THE TBI AND CONTROL GROUP
+// Subjects=13
+-34.0 42.0 20.0
+52.0 10.0 30.0
+-38.0 -48.0 44.0
+40.0 46.0 20.0
+42.0 32.0 34.0
+-34.0 26.0 6.0
+44.0 -46.0 46.0
+34.0 -74.0 36.0
+14.0 -82.0 -26.0
+38.0 -66.0 -32.0
+4.0 20.0 44.0
+24.0 2.0 62.0
+-32.0 -2.0 56.0
+-30.0 -2.0 46.0
+-52.0 10.0 24.0
+-20.0 -68.0 40.0
+-42.0 50.0 10.0
+// Rodger et al:Inhibit  switch  and update - .. Table 2 - Brain regions associated with working memory
+// Subjects=22
+33.0 3.0 54.0
+-30.0 21.0 3.0
+33.0 3.0 54.0
+-48.0 3.0 45.0
+18.0 3.0 21.0
+36.0 36.0 30.0
+30.0 45.0 9.0
+-36.0 57.0 15.0
+39.0 -60.0 -30.0
+51.0 -39.0 45.0
+51.0 -39.0 45.0
+-42.0 -48.0 51.0
+57.0 -54.0 9.0
+-33.0 -66.0 -27.0
+-12.0 0.0 3.0
+// Padilla et al:Long-term brain effects of N-b.. Table 2 - List of brain activations as a result of the post-training session and follow-up session in 3-back load level between groups comparison
+// Subjects=25
+-39.0 8.0 29.0
+-33.0 1.0 53.0
+36.0 -52.0 47.0
+// Padilla et al:Long-term brain effects of N-b.. Table 1 - List of brain activations as a result of the post-training session and follow-up session in 2-back load level between groups comparison: 2-back vs 0-back
+// Subjects=25
+42.0 53.0 8.0
+// Padilla et al:Long-term brain effects of N-b.. Table 2 - List of brain activations as a result of the post-training session and follow-up session in 3-back load level between groups comparison
+// Subjects=25
+48.0 5.0 29.0
+-33.0 17.0 -7.0
+// Padilla et al:Long-term brain effects of N-b.. Table 1 - List of brain activations as a result of the post-training session and follow-up session in 2-back load level between groups comparison: 2-back vs 0-back
+// Subjects=25
+51.0 -49.0 47.0
+0.0 14.0 53.0
+-42.0 26.0 29.0
+3.0 44.0 44.0
+54.0 -40.0 44.0
+24.0 26.0 59.0
+-54.0 2.0 38.0
+36.0 -70.0 50.0
+// Padilla et al:Long-term brain effects of N-b.. Table 2 - List of brain activations as a result of the post-training session and follow-up session in 3-back load level between groups comparison
+// Subjects=25
+6.0 29.0 41.0
+-36.0 53.0 11.0
+30.0 2.0 53.0
+-39.0 -55.0 47.0
+48.0 -43.0 44.0
+-66.0 -43.0 2.0
+6.0 29.0 38.0
+36.0 11.0 -1.0
+// Padilla et al:Long-term brain effects of N-b.. Table 1 - List of brain activations as a result of the post-training session and follow-up session in 2-back load level between groups comparison: 2-back vs 0-back
+// Subjects=25
+-24.0 -1.0 59.0
+// Schmidt et al:No gender differences in brain.. TABLE 1 - Distribution of brain activation while performing the N-back in men (n = 25) and women (n = 21) - one-back task + two-back task + three-back task vs 0-back
+// Subjects=50
+35.086 69.732 -1.397
+-58.578 24.699 30.22
+48.789 -50.682 64.304
+-42.927 34.057 -15.352
+58.943 27.347 26.418
+-2.806 20.572 54.46
+-49.612 -45.611 56.087
+37.857 10.413 57.075
+16.737 -66.191 59.281
+-35.374 23.871 -10.124
+46.081 42.245 27.547
+-5.041 28.333 44.913
+29.26 18.649 54.253
+-28.364 5.957 60.44
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-1 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-8.0 12.0 48.0
+-54.0 12.0 2.0
+-10.0 -76.0 -32.0
+-26.0 4.0 50.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 4 - Common and stimulus-specific activations during two-back WM with words and faces as stimuli
+// Subjects=50
+-38.0 20.0 26.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-1 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+8.0 22.0 40.0
+38.0 48.0 12.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-2 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+32.0 24.0 0.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-1 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-44.0 16.0 4.0
+8.0 16.0 46.0
+-30.0 24.0 -2.0
+-46.0 -48.0 -28.0
+-48.0 22.0 26.0
+-44.0 2.0 28.0
+-36.0 -44.0 38.0
+-36.0 -44.0 38.0
+-36.0 -50.0 44.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-2 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+46.0 16.0 4.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-1 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-42.0 -70.0 -20.0
+-30.0 -58.0 -34.0
+32.0 24.0 2.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 4 - Common and stimulus-specific activations during two-back WM with words and faces as stimuli
+// Subjects=50
+-12.0 -70.0 -30.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-1 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-38.0 20.0 26.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 4 - Common and stimulus-specific activations during two-back WM with words and faces as stimuli
+// Subjects=50
+38.0 48.0 12.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-2 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-30.0 -56.0 -34.0
+-34.0 -72.0 -26.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-3 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+10.0 22.0 38.0
+-30.0 -82.0 20.0
+-40.0 -78.0 -18.0
+-40.0 -66.0 -14.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 4 - Common and stimulus-specific activations during two-back WM with words and faces as stimuli
+// Subjects=50
+-26.0 -64.0 -32.0
+-36.0 -48.0 38.0
+-50.0 -40.0 42.0
+-34.0 -62.0 38.0
+-44.0 6.0 30.0
+32.0 26.0 2.0
+-30.0 28.0 2.0
+32.0 20.0 -6.0
+32.0 18.0 4.0
+-54.0 12.0 2.0
+-46.0 -48.0 -28.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-3 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-2.0 -60.0 -30.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-2 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-42.0 -50.0 -26.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-3 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-30.0 28.0 2.0
+32.0 26.0 2.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-2 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-34.0 -50.0 42.0
+-44.0 -48.0 46.0
+-30.0 -72.0 24.0
+-32.0 20.0 4.0
+-12.0 -74.0 -32.0
+-42.0 2.0 30.0
+-46.0 20.0 30.0
+-44.0 30.0 36.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-3 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+-44.0 6.0 30.0
+-26.0 -64.0 -32.0
+-10.0 -76.0 -32.0
+-14.0 -68.0 -32.0
+-42.0 -48.0 54.0
+-36.0 -48.0 38.0
+-52.0 -36.0 46.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 4 - Common and stimulus-specific activations during two-back WM with words and faces as stimuli
+// Subjects=50
+-30.0 -82.0 20.0
+// Duggirala et al:Stimulus-dependent modulation .. Table 2-3 - Brain activations during two-back WM with words; objects and faces as stimuli; contrasted with their respective zero-back baseline task.
+// Subjects=50
+42.0 20.0 8.0
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - negative reward
+// Subjects=6
+-34.165 57.198 21.638
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - positive reward
+// Subjects=6
+39.387 3.029 -24.848
+30.265 8.111 41.743
+0.943 9.657 -18.271
+-27.919 25.859 -12.607
+-27.919 25.859 -12.607
+36.754 -53.665 26.775
+-18.409 47.865 -17.907
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - negative reward
+// Subjects=6
+-66.109 -7.724 10.722
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - positive reward
+// Subjects=6
+26.683 -28.77 -22.035
+-11.85 42.844 -0.833
+45.688 5.212 -38.486
+-28.028 41.206 -20.584
+-8.768 41.579 -17.491
+-50.461 4.892 -34.009
+-50.437 5.149 -30.685
+7.299 45.361 -11.301
+39.72 -3.404 15.835
+-11.973 48.161 -14.66
+-27.803 -25.667 -18.324
+49.309 -30.009 1.228
+-21.112 23.408 37.705
+55.49 -2.705 -17.861
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - negative reward
+// Subjects=6
+4.73 -76.576 22.373
+-1.95 29.354 30.295
+-50.405 51.616 -7.817
+36.3 -28.712 -22.15
+-1.962 32.526 30.029
+-17.994 12.626 21.845
+-62.862 15.786 25.441
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - positive reward
+// Subjects=6
+14.021 51.912 31.565
+// Pochon et al:The neural system that bridges.. Table 1-1 Activation and deactivation associated with reward - negative reward
+// Subjects=6
+-50.257 46.557 9.333
+62.056 -43.906 -14.481
+17.294 6.492 21.954
+17.58 -63.039 31.127
+26.535 52.077 -8.74
+0.852 61.44 -9.23
+24.102 -65.145 44.612
+-40.712 59.046 4.831
+52.399 -54.251 -23.539
+-56.549 -60.992 -18.377
+-56.513 -63.907 -14.787
+-15.126 68.46 0.402
+// Seo et al:Working Memory Impairment in F.. Table 2 - 2-back minus 0-back activation one sample t-test (FDR corrected for multiple comparison; P<0.01 and minimum cluster size of 64)
+// Subjects=22
+-12.0 9.0 0.0
+42.0 -45.0 42.0
+-39.0 -60.0 48.0
+39.0 -66.0 51.0
+-27.0 -66.0 45.0
+-54.0 -51.0 -15.0
+15.0 9.0 6.0
+15.0 3.0 0.0
+-9.0 -78.0 -34.0
+6.0 18.0 54.0
+-3.0 15.0 54.0
+9.0 27.0 45.0
+-6.0 24.0 45.0
+33.0 26.0 -6.0
+-33.0 24.0 -6.0
+30.0 9.0 57.0
+-42.0 9.0 30.0
+-15.0 3.0 0.0
+35.0 -63.0 -39.0

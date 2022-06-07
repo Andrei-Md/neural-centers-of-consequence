@@ -58,7 +58,8 @@ def df_process2(df):
                                                   columns=['title', 'author', 'table_name', 'Number of Subjects'])
     # df_result = df_result.join(df_group_subjects[['table_name', 'Number of Subjects']].set_index('table_name'),
     #                            on='table_name')
-    df_result = pd.merge(left=df_result, right=df_group_subjects[['title', 'author', 'table_name', 'Number of Subjects']],
+    df_result = pd.merge(left=df_result,
+                         right=df_group_subjects[['title', 'author', 'table_name', 'Number of Subjects']],
                          how='left', left_on=['title', 'author', 'table_name'],
                          right_on=['title', 'author', 'table_name'])
 
@@ -169,5 +170,26 @@ def dataframe_to_sleuth_txt(df, file_path, file_name, title_max_chars=40):
                 f.write('// {author}:{title}\n'.format(author=row['author'],
                                                        title=(row['title'][:title_max_chars] + '..') if
                                                        len(row['title']) > title_max_chars else row['title']))
+                f.write('// Subjects={subjects}\n'.format(subjects=row['subjects']))
+            f.write('{mnix} {mniy} {mniz}\n'.format(mnix=row['MNIX'], mniy=row['MNIY'], mniz=row['MNIZ']))
+
+
+def dataframe_to_sleuth_txt_v2(df, file_path, file_name, title_max_chars=30, table_max_chars=25):
+    file = os.path.join(os.path.abspath(file_path), file_name)
+    # %%
+    # sort data by author
+    df_wm_select1 = df.sort_values(by=['title'])
+    df_wm_select1.columns.values.tolist()
+    # %%
+    table = ''
+    with open(file, 'w') as f:
+        f.write('// Reference=MNI\n')
+        for index, row in df_wm_select1.iterrows():
+            if row['table_name'] != table:  # new title write the report metadata
+                table = row['table_name']
+                f.write('// {author}:{title} {table}\n'.format(author=row['author'],
+                                                               title=(row['title'][:title_max_chars] + '..') if
+                                                               len(row['title']) > title_max_chars else row['title'],
+                                                               table=(row['table_name'])))
                 f.write('// Subjects={subjects}\n'.format(subjects=row['subjects']))
             f.write('{mnix} {mniy} {mniz}\n'.format(mnix=row['MNIX'], mniy=row['MNIY'], mniz=row['MNIZ']))

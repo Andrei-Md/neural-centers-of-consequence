@@ -1,0 +1,55 @@
+// Reference=MNI
+// Lawrence et al:Distinct Roles of Prefrontal C.. Table 2 - Brain regions showing significant activation during choices from risky (A/B) versus safe (C/D) decks and showing a correlation with task performance
+// Subjects=15
+-30.0 -93.0 12.0
+-36.0 15.0 -6.0
+-42.0 21.0 -9.0
+-54.0 -9.0 9.0
+-6.0 18.0 66.0
+-6.0 9.0 60.0
+-3.0 21.0 51.0
+0.0 60.0 -6.0
+6.0 66.0 9.0
+-3.0 66.0 15.0
+51.0 18.0 3.0
+-30.0 12.0 -12.0
+-36.0 6.0 -6.0
+-27.0 21.0 -18.0
+-48.0 21.0 -9.0
+-9.0 48.0 18.0
+-3.0 51.0 3.0
+-3.0 42.0 12.0
+36.0 27.0 3.0
+// Abler et al:From uncertainty to reward - B.. Table 1-4: fMRI Results: ANOVA 1 - modeling effects over the whole trial - increasing reward uncertainty
+// Subjects=15
+-18.0 -12.0 -16.0
+-54.0 -2.0 32.0
+36.0 -96.0 -4.0
+-36.0 -92.0 -4.0
+-52.0 10.0 22.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+26.0 28.0 38.0
+-44.0 -66.0 18.0
+-40.0 -60.0 40.0
+-46.0 -74.0 32.0
+-14.0 50.0 -2.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+66.0 -32.0 -4.0
+-22.0 -78.0 -20.0
+-10.0 -84.0 -38.0
+2.0 -12.0 10.0
+-4.0 -2.0 2.0
+6.0 50.0 48.0
+4.0 52.0 28.0
+6.0 40.0 38.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-56.0 -54.0 46.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+4.0 -90.0 -4.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-50.0 -54.0 56.0

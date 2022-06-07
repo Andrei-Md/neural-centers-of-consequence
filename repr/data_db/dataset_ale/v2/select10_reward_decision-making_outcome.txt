@@ -1,0 +1,927 @@
+// Reference=MNI
+// Nieuwenhuis et al:Activity in human reward-sensi.. Table 1-2 -List of reward-sensitive brain areas revealed by contrasting the highest outcome and lowest outcome - Context dependent
+// Subjects=14
+-39.624 -56.087 -39.056
+// Nieuwenhuis et al:Activity in human reward-sensi.. Table 1-1 -List of reward-sensitive brain areas revealed by contrasting the highest outcome and lowest outcome - Context dependent and independent
+// Subjects=14
+21.362 8.777 -3.934
+-13.936 1.622 -10.735
+// Nieuwenhuis et al:Activity in human reward-sensi.. Table 1-2 -List of reward-sensitive brain areas revealed by contrasting the highest outcome and lowest outcome - Context dependent
+// Subjects=14
+-7.462 5.604 -1.106
+-49.637 -50.269 50.902
+-0.681 -33.37 31.079
+0.52 -27.592 50.655
+-4.923 13.072 53.998
+-18.754 10.33 61.078
+11.907 -59.897 -10.333
+// Winston et al:Brain systems for assessing fa.. Table 1 - Brain regions showing significant differences in BOLD activation in a task-dependent manner (attractiveness judgment > age judgment;
+// Subjects=26
+-60.0 -45.0 9.0
+-9.0 27.0 60.0
+-48.0 -42.0 3.0
+54.0 -48.0 27.0
+51.0 -21.0 -6.0
+-36.0 21.0 -24.0
+-51.0 24.0 -6.0
+0.0 51.0 18.0
+-6.0 60.0 15.0
+3.0 54.0 30.0
+-18.0 54.0 39.0
+-18.0 45.0 42.0
+54.0 0.0 -36.0
+3.0 36.0 9.0
+0.0 -18.0 39.0
+// Akitsuki et al:Context-dependent cortical act.. Table 3 - Brain acitivities for all wins versus all losses
+// Subjects=36
+-24.683 4.216 -17.52
+// Akitsuki et al:Context-dependent cortical act.. Table 4 - modulation by the subjects arousal in the events of win
+// Subjects=36
+-4.917 27.418 60.601
+1.487 -20.954 40.05
+-3.296 50.64 2.875
+// Akitsuki et al:Context-dependent cortical act.. Table 4 - modulation by the subjects arousal in the events of loss
+// Subjects=36
+5.345 58.235 17.752
+62.931 -15.149 -28.055
+-61.01 -15.72 -24.353
+7.686 -64.867 -5.407
+// Akitsuki et al:Context-dependent cortical act.. Table 5 - Brain activities for a win following four losses in a row
+// Subjects=36
+37.753 29.103 51.048
+29.009 49.001 33.867
+// Akitsuki et al:Context-dependent cortical act.. Table 5 - Brain activities for a loss following four wins in a row
+// Subjects=36
+39.726 36.205 32.587
+29.244 22.879 53.898
+// Akitsuki et al:Context-dependent cortical act.. Table 4 - modulation by the subjects arousal in the events of win
+// Subjects=36
+-7.486 64.674 19.59
+// Akitsuki et al:Context-dependent cortical act.. Table 1 - Brain activities for four wins in a row
+// Subjects=36
+10.019 29.451 58.029
+13.853 64.459 14.902
+-1.206 63.342 1.786
+-0.837 47.392 43.267
+// Akitsuki et al:Context-dependent cortical act.. Table 1 - Brain activities for four losses in a row
+// Subjects=36
+9.587 62.319 15.13
+// Akitsuki et al:Context-dependent cortical act.. Table 3 - Brain acitivities for all wins versus all losses
+// Subjects=36
+28.771 2.593 -15.768
+// Akitsuki et al:Context-dependent cortical act.. Table 2 - Brain activities for Win 1 versus Lose 1
+// Subjects=36
+-35.265 -69.465 -33.524
+-9.488 -76.742 -19.827
+// Akitsuki et al:Context-dependent cortical act.. Table 3 - Brain acitivities for all wins versus all losses
+// Subjects=36
+-28.699 -83.202 -19.064
+// Akitsuki et al:Context-dependent cortical act.. Table 2 - Brain activities for Win 1 versus Lose 1
+// Subjects=36
+44.032 -82.081 -11.072
+-15.695 -90.043 1.433
+// Akitsuki et al:Context-dependent cortical act.. Table 3 - Brain acitivities for all wins versus all losses
+// Subjects=36
+41.755 -81.35 -28.951
+// Akitsuki et al:Context-dependent cortical act.. Table 2 - Brain activities for Win 1 versus Lose 1
+// Subjects=36
+18.346 -71.661 -11.651
+// Akitsuki et al:Context-dependent cortical act.. Table 3 - Brain acitivities for all wins versus all losses
+// Subjects=36
+-22.116 -96.768 -2.39
+// Akitsuki et al:Context-dependent cortical act.. Table 2 - Brain activities for Win 1 versus Lose 1
+// Subjects=36
+26.658 0.637 -13.349
+// Akitsuki et al:Context-dependent cortical act.. Table 1 - Brain activities for four losses in a row
+// Subjects=36
+65.143 -12.164 -17.178
+-3.229 55.726 13.6
+-7.079 29.348 58.234
+12.188 25.405 60.574
+// Akitsuki et al:Context-dependent cortical act.. Table 2 - Brain activities for Win 1 versus Lose 1
+// Subjects=36
+-26.797 -2.141 -16.963
+-43.657 -65.688 -11.44
+// Akitsuki et al:Context-dependent cortical act.. Table 4 - modulation by the subjects arousal in the events of win
+// Subjects=36
+5.329 62.465 17.397
+// Schonberg et al:Decreasing ventromedial prefro.. Table 2-3 Peaks of significant clusters of activation - explosion > control
+// Subjects=16
+0.0 -14.0 34.0
+36.0 10.0 0.0
+-12.0 -64.0 -42.0
+24.0 -56.0 50.0
+-26.0 -86.0 -12.0
+48.0 6.0 24.0
+-48.0 0.0 38.0
+-30.0 16.0 -8.0
+-6.0 38.0 -12.0
+4.0 -80.0 -12.0
+0.0 24.0 28.0
+// Glascher et al:Determining a Role for Ventrom.. Table 1-1 Coordinates and significance levels for contrasts - Conjunction of Vchosen for AR and SR (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+// Subjects=20
+21.0 -66.0 -18.0
+6.0 30.0 -9.0
+9.0 27.0 -12.0
+3.0 54.0 -3.0
+-27.0 -18.0 -18.0
+24.0 -9.0 -18.0
+9.0 -30.0 51.0
+-3.0 -9.0 51.0
+-21.0 -63.0 -18.0
+3.0 -6.0 51.0
+// Glascher et al:Determining a Role for Ventrom.. Table 1-2 Coordinates and significance levels for contrasts - Conjunction of AR Switch > Stay and SR Switch > Stay  (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+// Subjects=20
+-33.0 48.0 21.0
+24.0 48.0 -6.0
+27.0 27.0 -3.0
+// Glascher et al:Determining a Role for Ventrom.. Table 1-1 Coordinates and significance levels for contrasts - Conjunction of Vchosen for AR and SR (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+// Subjects=20
+63.0 -15.0 3.0
+-36.0 -60.0 24.0
+51.0 -15.0 54.0
+-51.0 -18.0 54.0
+// Glascher et al:Determining a Role for Ventrom.. Table 1-2 Coordinates and significance levels for contrasts - Conjunction of AR Switch > Stay and SR Switch > Stay  (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+// Subjects=20
+36.0 45.0 30.0
+// Glascher et al:Determining a Role for Ventrom.. Table 1-1 Coordinates and significance levels for contrasts - Conjunction of Vchosen for AR and SR (AR = action-based reversal learning; SR = stimulus-based reversal learning)
+// Subjects=20
+-57.0 -3.0 -15.0
+-6.0 24.0 -21.0
+// Jarcho et al:Developmental effects of decis.. Table 6-2 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+-43.0 1.0 34.0
+// Jarcho et al:Developmental effects of decis.. Table 8-1 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+10.0 -15.0 10.0
+49.0 -56.0 -11.0
+-35.0 26.0 10.0
+10.0 13.0 53.0
+33.0 21.0 5.0
+37.0 1.0 66.0
+-27.0 -8.0 58.0
+// Jarcho et al:Developmental effects of decis.. Table 8-2 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+42.0 -59.0 50.0
+42.0 13.0 30.0
+-35.0 -91.0 -2.0
+-27.0 -63.0 42.0
+-43.0 5.0 34.0
+37.0 -43.0 -18.0
+33.0 26.0 2.0
+26.0 -88.0 -6.0
+10.0 17.0 53.0
+33.0 13.0 62.0
+// Jarcho et al:Developmental effects of decis.. Table 8-1 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+-40.0 13.0 30.0
+// Jarcho et al:Developmental effects of decis.. Table 6-2 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+41.0 -63.0 -6.0
+// Jarcho et al:Developmental effects of decis.. Table 8-1 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+-31.0 -56.0 50.0
+// Jarcho et al:Developmental effects of decis.. Table 6-1 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+-51.0 -35.0 30.0
+// Jarcho et al:Developmental effects of decis.. Table 6-2 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+-39.0 -55.0 46.0
+-27.0 -91.0 2.0
+5.0 -39.0 38.0
+// Jarcho et al:Developmental effects of decis.. Table 8-2 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+1.0 -31.0 30.0
+// Jarcho et al:Developmental effects of decis.. Table 6-2 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+9.0 21.0 50.0
+13.0 17.0 6.0
+-31.0 21.0 2.0
+-49.0 -35.0 -10.0
+9.0 -27.0 -10.0
+// Jarcho et al:Developmental effects of decis.. Table 8-1 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+42.0 -79.0 -6.0
+-35.0 -88.0 -2.0
+42.0 10.0 34.0
+// Jarcho et al:Developmental effects of decis.. Table 6-2 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+33.0 25.0 2.0
+33.0 -63.0 42.0
+// Jarcho et al:Developmental effects of decis.. Table 6-1 Receipt for Adolescents during Choice trials compared with Baseline
+// Subjects=26
+29.0 74.0 42.0
+33.0 93.0 2.0
+-27.0 90.0 -6.0
+-31.0 69.0 50.0
+// Jarcho et al:Developmental effects of decis.. Table 8-2 Receipt for Adults during Choice trials compared with Baseline
+// Subjects=26
+-31.0 21.0 2.0
+// Elliott et al:Dissociable Neural Responses i.. Table 1 -2 - Maximally activated voxels in areas where significant evoked activity was related to reward level - Negative correlation with reward level(increase penalty)
+// Subjects=9
+-14.931 -31.678 -14.622
+// Elliott et al:Dissociable Neural Responses i.. Table 22 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Penalty during run of failure
+// Subjects=9
+-31.056 -12.998 -19.349
+// Elliott et al:Dissociable Neural Responses i.. Table 23 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success and penalty during run of failure
+// Subjects=9
+23.424 26.68 -6.574
+45.874 10.44 -12.161
+-37.318 -4.893 3.462
+55.418 16.328 -19.456
+-34.344 15.79 -18.38
+// Elliott et al:Dissociable Neural Responses i.. Table 22 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Penalty during run of failure
+// Subjects=9
+36.301 -22.111 -19.358
+// Elliott et al:Dissociable Neural Responses i.. Table 21 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success
+// Subjects=9
+10.578 39.55 -4.16
+-8.707 38.92 -10.577
+-14.889 -1.586 2.928
+17.169 -1.394 2.543
+// Elliott et al:Dissociable Neural Responses i.. Table 23 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success and penalty during run of failure
+// Subjects=9
+-8.488 14.827 8.169
+// Elliott et al:Dissociable Neural Responses i.. Table 21 - Maximally activated voxels in areas where significant evoked activity to reward level was context-dependent - Reward during run of success
+// Subjects=9
+7.537 -11.482 -3.191
+// Elliott et al:Dissociable Neural Responses i.. Table 1 -2 - Maximally activated voxels in areas where significant evoked activity was related to reward level - Negative correlation with reward level(increase penalty)
+// Subjects=9
+36.266 -12.594 -20.156
+-24.646 -19.561 -22.218
+// Elliott et al:Dissociable Neural Responses i.. Table 1-1 - Maximally activated voxels in areas where significant evoked activity was related to reward level - Positive correlation with reward level(increase reward)
+// Subjects=9
+20.492 13.027 23.6
+10.933 -9.493 22.252
+// Elliott et al:Dissociable Neural Responses i.. Table 1 -2 - Maximally activated voxels in areas where significant evoked activity was related to reward level - Negative correlation with reward level(increase penalty)
+// Subjects=9
+13.933 -34.677 -14.702
+// John O Doherty:Dissociating Valence of Outcom.. Table 1-2-a - Effects of valence of outcome - Choice task - punishment > reward
+// Subjects=15
+51.0 24.0 0.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 3-1-a - Comparison between choice and imperative tasks - Choice-imperative: effects of valence of outcome (reward>punishment)
+// Subjects=15
+9.0 39.0 -18.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 1-2-a - Effects of valence of outcome - Choice task - punishment > reward
+// Subjects=15
+42.0 27.0 0.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 1-1-a - Effects of valence of outcome - Choice task - reward > punishment
+// Subjects=15
+-9.0 -42.0 45.0
+-9.0 -33.0 45.0
+-39.0 42.0 -15.0
+3.0 15.0 -12.0
+12.0 36.0 -18.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 3-1-a - Comparison between choice and imperative tasks - Choice-imperative: effects of valence of outcome (reward>punishment)
+// Subjects=15
+-42.0 42.0 -15.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 3-1-c - Comparison between choice and imperative tasks - Choice-imperative: effects of response switching
+// Subjects=15
+15.0 18.0 3.0
+21.0 0.0 -3.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 3-1-b - Comparison between choice and imperative tasks - Choice-imperative: effects of response maintenance
+// Subjects=15
+3.0 27.0 -12.0
+24.0 36.0 -6.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 3-1-c - Comparison between choice and imperative tasks - Choice-imperative: effects of response switching
+// Subjects=15
+-3.0 21.0 39.0
+6.0 27.0 33.0
+9.0 21.0 39.0
+-6.0 3.0 0.0
+21.0 0.0 18.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 3-1-a - Comparison between choice and imperative tasks - Choice-imperative: effects of valence of outcome (reward>punishment)
+// Subjects=15
+18.0 39.0 -9.0
+// John O Doherty:Dissociating Valence of Outcom.. Table 1-1-a - Effects of valence of outcome - Choice task - reward > punishment
+// Subjects=15
+9.0 66.0 6.0
+9.0 42.0 -12.0
+// Vassena et al:Dissociating contributions of .. Table 1-1  Summary of the activations in the whole brain contrasts. Contrast outcome phase win > lose
+// Subjects=20
+-42.0 -44.0 38.0
+// Vassena et al:Dissociating contributions of .. Table 1-2  Summary of the activations in the whole brain contrasts. Contrast outcome phase low probability > high probability
+// Subjects=20
+-28.0 18.0 -4.0
+8.0 -8.0 2.0
+8.0 36.0 14.0
+6.0 32.0 24.0
+48.0 10.0 50.0
+48.0 10.0 34.0
+-4.0 -28.0 28.0
+28.0 56.0 0.0
+-30.0 -50.0 44.0
+22.0 48.0 34.0
+32.0 -70.0 30.0
+30.0 -56.0 44.0
+-46.0 2.0 54.0
+46.0 -44.0 30.0
+-44.0 -58.0 -10.0
+34.0 20.0 30.0
+46.0 26.0 28.0
+// Vassena et al:Dissociating contributions of .. Table 1-1  Summary of the activations in the whole brain contrasts. Contrast outcome phase win > lose
+// Subjects=20
+44.0 10.0 26.0
+0.0 38.0 -2.0
+8.0 28.0 14.0
+-6.0 34.0 6.0
+-46.0 44.0 14.0
+-38.0 34.0 10.0
+-44.0 6.0 26.0
+18.0 4.0 -8.0
+12.0 10.0 -2.0
+-12.0 6.0 -2.0
+// Vassena et al:Dissociating contributions of .. Table 1-2  Summary of the activations in the whole brain contrasts. Contrast outcome phase low probability > high probability
+// Subjects=20
+30.0 24.0 -6.0
+// Vassena et al:Dissociating contributions of .. Table 1-1  Summary of the activations in the whole brain contrasts. Contrast outcome phase win > lose
+// Subjects=20
+-18.0 -96.0 -2.0
+// Vassena et al:Dissociating contributions of .. Table 1-2  Summary of the activations in the whole brain contrasts. Contrast outcome phase low probability > high probability
+// Subjects=20
+30.0 -88.0 2.0
+-36.0 -64.0 -8.0
+// Vassena et al:Dissociating contributions of .. Table 1-1  Summary of the activations in the whole brain contrasts. Contrast outcome phase win > lose
+// Subjects=20
+-52.0 -54.0 -10.0
+28.0 -92.0 -4.0
+40.0 -82.0 -10.0
+56.0 -52.0 -12.0
+8.0 -36.0 32.0
+32.0 -58.0 42.0
+36.0 -70.0 34.0
+46.0 -36.0 48.0
+-50.0 -38.0 44.0
+44.0 36.0 16.0
+8.0 -56.0 18.0
+-8.0 -50.0 14.0
+-6.0 -6.0 32.0
+6.0 0.0 30.0
+6.0 10.0 2.0
+-26.0 22.0 56.0
+-26.0 12.0 62.0
+-28.0 34.0 48.0
+32.0 -10.0 -10.0
+-18.0 -96.0 -2.0
+// Vassena et al:Dissociating contributions of .. Table 1-2  Summary of the activations in the whole brain contrasts. Contrast outcome phase low probability > high probability
+// Subjects=20
+30.0 24.0 -6.0
+-28.0 18.0 -4.0
+8.0 36.0 14.0
+-30.0 -50.0 44.0
+30.0 -60.0 30.0
+46.0 -44.0 30.0
+-44.0 -58.0 -10.0
+-18.0 -98.0 -6.0
+// Vassena et al:Dissociating contributions of .. Table 1-1  Summary of the activations in the whole brain contrasts. Contrast outcome phase win > lose
+// Subjects=20
+-52.0 -54.0 10.0
+// Vassena et al:Dissociating contributions of .. Table 1-2  Summary of the activations in the whole brain contrasts. Contrast outcome phase low probability > high probability
+// Subjects=20
+-6.0 34.0 14.0
+// Vassena et al:Dissociating contributions of .. Table 1-1  Summary of the activations in the whole brain contrasts. Contrast outcome phase win > lose
+// Subjects=20
+12.0 10.0 -2.0
+-12.0 6.0 -2.0
+18.0 4.0 -8.0
+// Lawrence et al:Distinct Roles of Prefrontal C.. Table 3 - Brain regions showing significant activation in response to wins versus losses (all decks)
+// Subjects=15
+27.0 -12.0 30.0
+-24.0 -48.0 24.0
+12.0 -42.0 -48.0
+-18.0 18.0 12.0
+-21.0 -21.0 27.0
+36.0 -75.0 -45.0
+3.0 -12.0 15.0
+24.0 -48.0 21.0
+// Lawrence et al:Distinct Roles of Prefrontal C.. Table 2 - Brain regions showing significant activation during choices from risky (A/B) versus safe (C/D) decks and showing a correlation with task performance
+// Subjects=15
+-36.0 15.0 -6.0
+-42.0 21.0 -9.0
+-54.0 -9.0 9.0
+-6.0 18.0 66.0
+-6.0 9.0 60.0
+-3.0 21.0 51.0
+0.0 60.0 -6.0
+6.0 66.0 9.0
+-3.0 66.0 15.0
+36.0 27.0 3.0
+51.0 18.0 3.0
+-30.0 12.0 -12.0
+-36.0 6.0 -6.0
+-27.0 21.0 -18.0
+-48.0 21.0 -9.0
+-3.0 51.0 3.0
+-3.0 42.0 12.0
+-30.0 -93.0 12.0
+// Lawrence et al:Distinct Roles of Prefrontal C.. Table 3 - Brain regions showing significant activation in response to wins versus losses (all decks)
+// Subjects=15
+54.0 -39.0 51.0
+-27.0 -63.0 -42.0
+// Lawrence et al:Distinct Roles of Prefrontal C.. Table 2 - Brain regions showing significant activation during choices from risky (A/B) versus safe (C/D) decks and showing a correlation with task performance
+// Subjects=15
+-9.0 48.0 18.0
+// Lawrence et al:Distinct Roles of Prefrontal C.. Table 3 - Brain regions showing significant activation in response to wins versus losses (all decks)
+// Subjects=15
+18.0 30.0 3.0
+-21.0 18.0 63.0
+-27.0 -63.0 54.0
+// Smith et al:Distinct Value Signals in Ante.. Table S5 - Regions whose activation increases with increasing monetary reward size
+// Subjects=23
+4.0 52.0 -10.0
+// Smith et al:Distinct Value Signals in Ante.. Table S6 - Regions exhibiting sensitivity to social value - defined as increased activation to attractive faces (those from the 4-star category) compared to unattractive faces (those from the 1-star category).
+// Subjects=23
+0.0 48.0 -8.0
+-8.0 18.0 -6.0
+0.0 38.0 -12.0
+0.0 42.0 -6.0
+-18.0 18.0 0.0
+50.0 -76.0 -2.0
+34.0 -92.0 -6.0
+// Smith et al:Distinct Value Signals in Ante.. Table S2 - Regions exhibiting increased activation to monetary rewards - regardless of their value - compared to photographs of faces.
+// Subjects=23
+32.0 4.0 64.0
+// Smith et al:Distinct Value Signals in Ante.. Table S6 - Regions exhibiting sensitivity to social value - defined as increased activation to attractive faces (those from the 4-star category) compared to unattractive faces (those from the 1-star category).
+// Subjects=23
+54.0 -72.0 10.0
+48.0 -74.0 6.0
+40.0 -84.0 -2.0
+// Smith et al:Distinct Value Signals in Ante.. Table S7 - Regions whose activation increases with increasing social reward size
+// Subjects=23
+50.0 -76.0 -2.0
+36.0 -84.0 16.0
+40.0 -82.0 6.0
+4.0 -80.0 16.0
+12.0 -86.0 10.0
+// Smith et al:Distinct Value Signals in Ante.. Table S5 - Regions whose activation increases with increasing monetary reward size
+// Subjects=23
+-6.0 72.0 -4.0
+// Smith et al:Distinct Value Signals in Ante.. Table S6 - Regions exhibiting sensitivity to social value - defined as increased activation to attractive faces (those from the 4-star category) compared to unattractive faces (those from the 1-star category).
+// Subjects=23
+40.0 -82.0 8.0
+// Smith et al:Distinct Value Signals in Ante.. Table S5 - Regions whose activation increases with increasing monetary reward size
+// Subjects=23
+8.0 68.0 0.0
+0.0 68.0 -2.0
+// Smith et al:Distinct Value Signals in Ante.. Table S2 - Regions exhibiting increased activation to monetary rewards - regardless of their value - compared to photographs of faces.
+// Subjects=23
+62.0 -46.0 -8.0
+-24.0 6.0 62.0
+-52.0 -56.0 -14.0
+// Smith et al:Distinct Value Signals in Ante.. Table S3 - Regions exhibiting increased activation to photographs of their faces; regardless of their attractiveness; compared to monetary rewards.
+// Subjects=23
+48.0 -62.0 6.0
+-42.0 -78.0 0.0
+6.0 40.0 -22.0
+// Smith et al:Distinct Value Signals in Ante.. Table S4 - Regions exhibiting sensitivity to monetary value defined as increased activation to large gains (+$5 & +$2) compared to large losses (-$5 & -$2).
+// Subjects=23
+12.0 58.0 2.0
+// Smith et al:Distinct Value Signals in Ante.. Table S7 - Regions whose activation increases with increasing social reward size
+// Subjects=23
+34.0 28.0 -6.0
+// Smith et al:Distinct Value Signals in Ante.. Table S4 - Regions exhibiting sensitivity to monetary value defined as increased activation to large gains (+$5 & +$2) compared to large losses (-$5 & -$2).
+// Subjects=23
+-2.0 68.0 -2.0
+0.0 44.0 -10.0
+-2.0 62.0 -2.0
+-18.0 32.0 34.0
+-14.0 40.0 6.0
+-26.0 20.0 44.0
+-24.0 24.0 52.0
+-18.0 46.0 10.0
+10.0 64.0 0.0
+// Smith et al:Distinct Value Signals in Ante.. Table S5 - Regions whose activation increases with increasing monetary reward size
+// Subjects=23
+12.0 60.0 0.0
+// Smith et al:Distinct Value Signals in Ante.. Table S7 - Regions whose activation increases with increasing social reward size
+// Subjects=23
+0.0 48.0 -8.0
+14.0 -16.0 -2.0
+// Smith et al:Distinct Value Signals in Ante.. Table S2 - Regions exhibiting increased activation to monetary rewards - regardless of their value - compared to photographs of faces.
+// Subjects=23
+40.0 -40.0 44.0
+// Smith et al:Distinct Value Signals in Ante.. Table S7 - Regions whose activation increases with increasing social reward size
+// Subjects=23
+-8.0 16.0 -6.0
+-34.0 -86.0 24.0
+-28.0 -70.0 20.0
+-26.0 -68.0 24.0
+-26.0 -82.0 36.0
+// Smith et al:Distinct Value Signals in Ante.. Table S2 - Regions exhibiting increased activation to monetary rewards - regardless of their value - compared to photographs of faces.
+// Subjects=23
+4.0 -72.0 34.0
+// Smith et al:Distinct Value Signals in Ante.. Table S7 - Regions whose activation increases with increasing social reward size
+// Subjects=23
+-20.0 -54.0 34.0
+-10.0 -64.0 60.0
+-26.0 -50.0 48.0
+-16.0 16.0 2.0
+-18.0 -62.0 48.0
+-20.0 -90.0 24.0
+// Abler et al:From uncertainty to reward - B.. Table 1-1: fMRI Results: ANOVA 1 - modeling effects over the whole trial - increasing reward magnitude
+// Subjects=15
+44.0 18.0 24.0
+-58.0 -36.0 -16.0
+54.0 -38.0 -6.0
+10.0 28.0 34.0
+-30.0 54.0 -4.0
+-40.0 20.0 -12.0
+32.0 26.0 -8.0
+-8.0 8.0 2.0
+10.0 6.0 2.0
+-10.0 26.0 32.0
+40.0 36.0 16.0
+-40.0 -90.0 -8.0
+42.0 -90.0 -6.0
+// Abler et al:From uncertainty to reward - B.. Table 1-2: fMRI Results: ANOVA 1 - modeling effects over the whole trial - high > low reward value level
+// Subjects=15
+-6.0 10.0 2.0
+40.0 26.0 -14.0
+// Abler et al:From uncertainty to reward - B.. Table 1-4: fMRI Results: ANOVA 1 - modeling effects over the whole trial - increasing reward uncertainty
+// Subjects=15
+36.0 -96.0 -4.0
+-52.0 10.0 22.0
+-54.0 -2.0 32.0
+-18.0 -12.0 -16.0
+// Abler et al:From uncertainty to reward - B.. Table 3-1: fMRI results: ANOVA 3 - modeling effects over outcome phase - modelling prediction error
+// Subjects=15
+-10.0 10.0 -6.0
+10.0 12.0 -2.0
+-8.0 36.0 -12.0
+32.0 -96.0 -2.0
+-32.0 -98.0 -2.0
+// Abler et al:From uncertainty to reward - B.. Table 1-1: fMRI Results: ANOVA 1 - modeling effects over the whole trial - increasing reward magnitude
+// Subjects=15
+-46.0 6.0 38.0
+// Abler et al:From uncertainty to reward - B.. Table 1-4: fMRI Results: ANOVA 1 - modeling effects over the whole trial - increasing reward uncertainty
+// Subjects=15
+-36.0 -92.0 -4.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-46.0 -74.0 32.0
+26.0 28.0 38.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+66.0 -32.0 -4.0
+// Xue et al:Functional Dissociations of Ri.. Table S4 - Foci of activation for Win minus Loss domains across both Risky and Safe choices
+// Subjects=13
+-2.0 40.0 8.0
+0.0 48.0 -14.0
+0.0 58.0 -4.0
+-52.0 42.0 -4.0
+-22.0 32.0 44.0
+-16.0 54.0 34.0
+-14.0 20.0 54.0
+-20.0 12.0 -12.0
+-10.0 16.0 -6.0
+8.0 18.0 -4.0
+20.0 12.0 -10.0
+-44.0 -78.0 34.0
+-46.0 -66.0 24.0
+-18.0 -54.0 68.0
+-46.0 -56.0 58.0
+-76.0 32.0 44.0
+32.0 -62.0 36.0
+-6.0 -46.0 30.0
+6.0 -46.0 68.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-14.0 50.0 -2.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+-22.0 -78.0 -20.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-40.0 -60.0 40.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+-10.0 -84.0 -38.0
+2.0 -12.0 10.0
+// Xue et al:Functional Dissociations of Ri.. Table S1 - Foci of regions modulated by the experienced risk in the parametric analysis
+// Subjects=13
+4.0 48.0 26.0
+2.0 52.0 30.0
+4.0 50.0 12.0
+-2.0 -2.0 4.0
+54.0 -42.0 34.0
+54.0 -50.0 46.0
+// Xue et al:Functional Dissociations of Ri.. Table S2 - Foci of regions modulated by the experienced reward in the parametric analysis
+// Subjects=13
+0.0 58.0 -6.0
+-34.0 56.0 -14.0
+-2.0 42.0 8.0
+0.0 -36.0 26.0
+-20.0 12.0 -12.0
+-16.0 6.0 -18.0
+-52.0 -64.0 20.0
+-30.0 -78.0 44.0
+-26.0 32.0 48.0
+-18.0 28.0 58.0
+8.0 18.0 -4.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+6.0 40.0 38.0
+4.0 52.0 28.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-44.0 -66.0 18.0
+// Xue et al:Functional Dissociations of Ri.. Table S3 - Foci of activation for Risky minus Safe choices across both Gain and Loss domains
+// Subjects=13
+-4.0 -2.0 2.0
+4.0 -90.0 -4.0
+6.0 50.0 48.0
+// Xue et al:Functional Dissociations of Ri.. Table S6 - Foci of regions showing significant positive correlation between individual risk preference and activation in Win vs. Loss contrast
+// Subjects=13
+-50.0 -54.0 56.0
+-56.0 -54.0 46.0
+// Cohen et al:Individual differences in extr.. Table 1 Study 1 reward - no reward
+// Subjects=16
+39.0 -21.0 -14.0
+14.0 -45.0 -14.0
+-28.0 -45.0 -28.0
+7.0 -87.0 0.0
+-38.0 -24.0 -17.0
+28.0 -35.0 -3.0
+-21.0 14.0 -10.0
+14.0 14.0 -10.0
+-23.0 0.0 -16.0
+// Cohen et al:Individual differences in extr.. Table 1 Study 2 reward - no reward
+// Subjects=16
+18.0 -7.0 -28.0
+-17.0 -3.0 -14.0
+-28.0 -24.0 -14.0
+-21.0 21.0 -25.0
+4.0 -56.0 35.0
+25.0 25.0 -21.0
+39.0 -21.0 14.0
+11.0 0.0 -14.0
+14.0 11.0 -14.0
+53.0 -17.0 46.0
+-31.0 -14.0 -21.0
+-7.0 4.0 8.0
+// Cohen et al:Individual differences in extr.. Table 1 Study 1 reward - no reward
+// Subjects=16
+21.0 39.0 -21.0
+25.0 -10.0 67.0
+-10.0 42.0 -24.0
+27.0 -1.0 -21.0
+// Koeneke et al:Individual preferences modulat.. Table 3 - Clusters showing preference-dependent activation during the outcome phase
+// Subjects=19
+-2.0 -42.0 8.0
+18.0 28.0 40.0
+28.0 16.0 20.0
+38.0 -30.0 54.0
+-42.0 -52.0 22.0
+-38.0 -56.0 16.0
+46.0 -28.0 28.0
+42.0 -42.0 22.0
+52.0 -26.0 16.0
+-22.0 -66.0 -34.0
+6.0 -20.0 -22.0
+16.0 -82.0 -28.0
+0.0 -54.0 -4.0
+14.0 -50.0 -4.0
+34.0 -22.0 -16.0
+22.0 -90.0 -16.0
+-6.0 -66.0 4.0
+-14.0 -56.0 0.0
+-14.0 -96.0 20.0
+-12.0 -80.0 -2.0
+-14.0 -82.0 -12.0
+-20.0 -72.0 -4.0
+18.0 8.0 18.0
+16.0 2.0 26.0
+24.0 2.0 -8.0
+16.0 -60.0 40.0
+22.0 -52.0 -2.0
+6.0 -46.0 6.0
+// Elliott et al:Instrumental responding for re.. Table 2 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of reward
+// Subjects=12
+-45.0 51.0 -9.0
+-57.0 18.0 -3.0
+// Elliott et al:Instrumental responding for re.. Table 1 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of movement
+// Subjects=12
+48.0 -27.0 45.0
+-51.0 -30.0 54.0
+// Elliott et al:Instrumental responding for re.. Table 3 - Maximally activated voxels in areas where there was a significant modulation of responses to reward by the requirement to make an instrumental response
+// Subjects=12
+3.0 -15.0 -21.0
+24.0 -3.0 3.0
+27.0 6.0 9.0
+30.0 -6.0 -21.0
+// Elliott et al:Instrumental responding for re.. Table 2 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of reward
+// Subjects=12
+3.0 -18.0 9.0
+54.0 24.0 -9.0
+45.0 36.0 30.0
+33.0 3.0 0.0
+0.0 51.0 -6.0
+3.0 33.0 30.0
+// Elliott et al:Instrumental responding for re.. Table 1 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of movement
+// Subjects=12
+18.0 6.0 72.0
+-57.0 12.0 -3.0
+-6.0 -96.0 21.0
+// Elliott et al:Instrumental responding for re.. Table 2 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of reward
+// Subjects=12
+27.0 0.0 -21.0
+// Elliott et al:Instrumental responding for re.. Table 1 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of movement
+// Subjects=12
+21.0 -54.0 -21.0
+-27.0 -72.0 -21.0
+// Elliott et al:Instrumental responding for re.. Table 2 - Maximally activated voxels in areas where significant evoked activity was related to a main effect of reward
+// Subjects=12
+9.0 57.0 36.0
+// Greck et al:Is our self based on reward - .. Table 1 - Activations for the contrast [reward win] vs [reward lose] - in fMRI the contrast was bigger for the won trials than those lost
+// Subjects=15
+-22.0 26.0 8.0
+-24.0 12.0 -12.0
+-2.0 54.0 14.0
+14.0 -18.0 -16.0
+10.0 18.0 8.0
+42.0 2.0 6.0
+16.0 14.0 -8.0
+54.0 -24.0 6.0
+-30.0 -30.0 14.0
+-38.0 -30.0 38.0
+42.0 -72.0 -46.0
+-14.0 -28.0 12.0
+34.0 -18.0 48.0
+-6.0 -26.0 46.0
+6.0 -32.0 60.0
+-54.0 -40.0 20.0
+56.0 -40.0 26.0
+-60.0 -6.0 -4.0
+60.0 4.0 -12.0
+62.0 -34.0 28.0
+// Cox et al:Learning to Like  A Role for H.. Table 1 - activated regions during the presentation of reward versus negative feedback in the conditioning task
+// Subjects=22
+-28.811 -57.996 -23.407
+3.545 -50.319 17.955
+-13.637 -68.882 -0.365
+63.354 4.623 34.964
+27.274 -17.144 59.508
+35.831 -74.134 37.424
+31.215 -97.476 -16.325
+-39.052 -11.71 53.123
+0.956 -44.041 -38.302
+-26.05 -82.279 47.74
+-56.546 -66.45 -20.149
+3.595 5.122 46.761
+-62.974 -11.733 -0.13
+-9.42 -7.928 16.779
+30.916 0.491 -15.616
+-16.15 8.497 -17.977
+-2.795 -14.464 41.785
+29.164 35.225 48.403
+-22.05 9.369 48.93
+-45.968 35.752 6.844
+-18.472 39.521 -29.474
+-16.334 43.935 -27.638
+0.838 47.009 -16.941
+67.29 3.337 -9.581
+-47.766 -9.074 32.928
+-26.477 40.723 41.89
+-21.847 -58.819 47.954
+3.787 -32.431 56.599
+// Christakou et al:Right Ventromedial and Dorsola.. Table 1 - Conjunction of whole-brain correlations of choice and EV-modulated outcome contrasts with net score
+// Subjects=19
+-7.432 13.605 6.029
+-40.453 -0.883 14.314
+60.17 -42.406 18.871
+-2.798 14.056 52.776
+1.375 27.314 44.925
+-51.867 -7.301 56.246
+-61.481 -40.28 43.509
+5.439 0.993 6.939
+8.569 41.965 13.503
+43.983 29.458 27.528
+23.322 37.712 -15.305
+33.606 -2.559 54.866
+-2.762 6.74 54.504
+// Hauser et al:Role of the Medial Prefrontal .. Table 2 - Group Differences Between Patients With ADHD and Healthy Adolescents for reward prediction error (RPE) outcome - healthy>adhd
+// Subjects=20
+-57.0 -28.0 21.0
+24.0 33.0 15.0
+20.0 -55.0 -9.0
+-8.0 54.0 18.0
+-8.0 48.0 42.0
+51.0 -39.0 2.0
+-65.0 -54.0 18.0
+57.0 -7.0 45.0
+26.0 15.0 21.0
+-56.0 -24.0 -5.0
+71.0 -30.0 30.0
+-36.0 -6.0 -11.0
+// Sescousse et al:The Architecture of Reward Val.. Table S2 - Brain regions specific of erotic reward outcomes
+// Subjects=18
+54.0 -66.0 6.0
+54.0 36.0 9.0
+-39.0 18.0 -24.0
+48.0 -6.0 54.0
+-18.0 -51.0 -9.0
+-48.0 -81.0 12.0
+42.0 -45.0 -21.0
+21.0 -54.0 -6.0
+-3.0 57.0 30.0
+24.0 0.0 -27.0
+-21.0 -6.0 -27.0
+-6.0 45.0 -15.0
+30.0 33.0 -15.0
+-30.0 33.0 -15.0
+// Sescousse et al:The Architecture of Reward Val.. Table S1 - Brain regions specific of monetary reward outcomes
+// Subjects=18
+3.0 -66.0 48.0
+45.0 -48.0 45.0
+-51.0 -48.0 57.0
+36.0 12.0 54.0
+30.0 54.0 -3.0
+-30.0 51.0 0.0
+// Sescousse et al:The Architecture of Reward Val.. Table S2 - Brain regions specific of erotic reward outcomes
+// Subjects=18
+-12.0 -84.0 33.0
+12.0 -84.0 24.0
+-42.0 -42.0 -24.0
+-21.0 -72.0 -3.0
+0.0 -84.0 12.0
+// Sescousse et al:The Architecture of Reward Val.. Table S3 - Brain regions activated by both monetary and erotic reward outcomes
+// Subjects=18
+33.0 -69.0 -27.0
+-33.0 -54.0 -33.0
+39.0 -81.0 12.0
+-9.0 -18.0 9.0
+-27.0 -12.0 57.0
+-9.0 15.0 45.0
+30.0 -6.0 54.0
+-27.0 -6.0 48.0
+3.0 -3.0 30.0
+-15.0 -66.0 54.0
+3.0 6.0 27.0
+-3.0 -18.0 27.0
+-12.0 9.0 -9.0
+// Sescousse et al:The Architecture of Reward Val.. Table S2 - Brain regions specific of erotic reward outcomes
+// Subjects=18
+24.0 -60.0 12.0
+// Sescousse et al:The Architecture of Reward Val.. Table S3 - Brain regions activated by both monetary and erotic reward outcomes
+// Subjects=18
+-3.0 -24.0 -24.0
+9.0 6.0 -9.0
+-27.0 21.0 -6.0
+33.0 24.0 3.0
+-6.0 27.0 39.0
+9.0 18.0 39.0
+6.0 -24.0 -9.0
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 2- Interaction of condition by time
+// Subjects=9
+34.266 21.771 11.556
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 1 - Main effect of time - Increasing activation
+// Subjects=9
+-4.247 10.109 1.824
+12.876 14.87 6.805
+-7.337 -16.174 6.295
+-33.05 10.451 8.818
+-18.177 31.603 5.758
+-53.09 2.068 39.862
+-45.812 3.315 14.024
+-41.41 -21.695 20.531
+73.022 -17.867 32.278
+-45.515 -23.265 41.899
+5.672 12.194 41.683
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 2- Interaction of condition by time
+// Subjects=9
+-33.96 20.874 33.604
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 1 - Main effect of time - Increasing activation
+// Subjects=9
+51.264 20.845 -1.944
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 2- Interaction of condition by time
+// Subjects=9
+-21.365 -14.37 -10.424
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 1 - Main effect of time - Decreasing activation
+// Subjects=9
+11.875 54.014 31.413
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 2- Interaction of condition by time
+// Subjects=9
+43.94 43.29 27.484
+12.827 18.757 2.018
+-11.747 17.552 2.402
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 1 - Main effect of time - Decreasing activation
+// Subjects=9
+-57.623 -16.017 -0.947
+41.834 -22.309 5.129
+41.873 -12.022 14.303
+-1.638 -56.382 36.366
+-4.877 -31.481 42.121
+-10.561 52.822 31.771
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 1 - Main effect of time - Increasing activation
+// Subjects=9
+-43.709 -58.543 -15.384
+43.912 -56.961 -16.523
+36.659 -83.213 2.49
+-21.915 -74.908 32.576
+-11.786 5.064 -7.703
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 2- Interaction of condition by time
+// Subjects=9
+-13.948 0.393 -12.862
+// Delgado et al:Tracking the Hemodynamic Respo.. Table 1 - Main effect of time - Increasing activation
+// Subjects=9
+50.429 11.178 24.526

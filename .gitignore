@@ -14,7 +14,3 @@ __pycache__/
 
 #cache
 /repr/ale-analysis/nilearn_cache
-
-/util/function_conv_mni.py
-/util/TDdatabase.mat
-
