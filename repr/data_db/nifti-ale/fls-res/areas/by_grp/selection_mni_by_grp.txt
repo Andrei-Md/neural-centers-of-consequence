@@ -1,0 +1,53 @@
+atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select01_wm-ths.nii.gz
+Caudate:0.0004
+Frontal Lobe:31.9498
+Insula:3.4172
+Occipital Lobe:0.2449
+Parietal Lobe:18.9642
+Putamen:0.1174
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select02_wm_decision-making-ths.nii.gz
+Parietal Lobe:58.0079
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select03_reward_anticipation_rw-norw-ths.nii.gz
+Caudate:6.8515
+Frontal Lobe:15.4287
+Insula:8.1842
+Putamen:11.8000
+Temporal Lobe:0.0762
+Thalamus:8.5901
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select04_reward_anticipation_high_low_rew-ths.nii.gz
+Caudate:22.6134
+Frontal Lobe:0.5258
+Putamen:18.0438
+Thalamus:0.3015
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select05_reward_anticipation_exp_recv_rew-ths.nii.gz
+Parietal Lobe:1.3590
+Temporal Lobe:0.0897
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select06_reward_outcome_rw-norw-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select07_reward_outcome_risk-safe-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select08_reward_outcome_high-low-ths.nii.gz
+Frontal Lobe:48.0105
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select09_reward_outcome_win-lose-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select10_reward_decision-making_outcome-ths.nii.gz
+Caudate:14.8690
+Frontal Lobe:18.7103
+Insula:0.0108
+Putamen:9.4639
+Temporal Lobe:0.1983
+Thalamus:1.9002
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select11_reward_decision-making_anticipation-ths.nii.gz
+Caudate:13.0248
+Frontal Lobe:23.0891
+Thalamus:0.0446
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/select12_reward_decision-making_decision-ths.nii.gz
+Occipital Lobe:91.9815
