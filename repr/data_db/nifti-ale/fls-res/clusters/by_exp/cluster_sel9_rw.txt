@@ -1,2 +1,2 @@
 Cluster Index	Voxels	MAX	MAX X (mm)	MAX Y (mm)	MAX Z (mm)	COG X (mm)	COG Y (mm)	COG Z (mm)
-1	99	1.64	20	10	-12	16.1	11.6	-7.21
+1	99	1.75	20	10	-12	16.1	11.6	-7.21

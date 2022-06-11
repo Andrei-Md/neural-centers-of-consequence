@@ -1,0 +1,73 @@
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_1-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_1-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_1-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_2-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_2-ths.nii.gz
+Left Cerebral White Matter:45.7685
+Left Cerebral Cortex:5.1172
+Left Lateral Ventricle:13.1465
+Left Thalamus:0.5598
+Left Caudate:20.3984
+Left Putamen:0.0489
+Left Pallidum:7.0920
+Left Accumbens:5.3974
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_2-ths.nii.gz
+Caudate:8.0000
+Thalamus:0.1091
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_3-ths.nii.gz
+Subcallosal Cortex:0.3043
+Frontal Orbital Cortex:0.5652
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_3-ths.nii.gz
+Right Cerebral White Matter:26.0770
+Right Cerebral Cortex:1.1149
+Right Lateral Ventricle:0.0052
+Right Caudate:11.1999
+Right Putamen:37.3327
+Right Pallidum:1.2240
+Right Accumbens:23.0463
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_3-ths.nii.gz
+Caudate:27.9783
+Frontal Lobe:0.2391
+Putamen:32.0217
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_4-ths.nii.gz
+Frontal Pole:0.0879
+Insular Cortex:32.0769
+Inferior Frontal Gyrus, pars triangularis:0.5275
+Inferior Frontal Gyrus, pars opercularis:0.0110
+Frontal Orbital Cortex:19.6923
+Frontal Operculum Cortex:5.0879
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_4-ths.nii.gz
+Left Cerebral White Matter:6.9411
+Left Cerebral Cortex:11.6584
+Left Putamen:0.0786
+Right Cerebral White Matter:11.2264
+Right Cerebral Cortex:69.9483
+Right Putamen:0.0023
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_4-ths.nii.gz
+Frontal Lobe:16.2637
+Insula:31.7912
+Putamen:0.5604
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
+Paracingulate Gyrus:48.2500
+Cingulate Gyrus, anterior division:38.6250
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
+Left Cerebral Cortex:0.0503
+Right Cerebral White Matter:9.5538
+Right Cerebral Cortex:89.3450
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
+Frontal Lobe:84.5000

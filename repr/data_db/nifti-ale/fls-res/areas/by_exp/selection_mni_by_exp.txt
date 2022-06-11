@@ -1,0 +1,61 @@
+atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select01_wm-ths.nii.gz
+Caudate:0.0004
+Frontal Lobe:33.5886
+Insula:4.9708
+Occipital Lobe:0.0738
+Parietal Lobe:16.2064
+Putamen:0.1184
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select02_wm_decision-making-ths.nii.gz
+Parietal Lobe:56.4321
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select03_reward_anticipation_rw-norw-ths.nii.gz
+Caudate:10.1169
+Frontal Lobe:7.5235
+Insula:5.0782
+Putamen:14.0403
+Temporal Lobe:0.0255
+Thalamus:13.2494
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select04_reward_anticipation_high_low_rew-ths.nii.gz
+Caudate:16.2233
+Frontal Lobe:8.9681
+Putamen:13.0319
+Temporal Lobe:2.5525
+Thalamus:1.1728
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select05_reward_anticipation_exp_recv_rew-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select06_reward_outcome_rw-norw-ths.nii.gz
+Temporal Lobe:87.1027
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select07_reward_outcome_risk-safe-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select08_reward_outcome_high-low-ths.nii.gz
+Frontal Lobe:26.0111
+Parietal Lobe:32.8889
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select09_reward_outcome_win-lose-ths.nii.gz
+Caudate:16.7778
+Frontal Lobe:0.2828
+Putamen:42.8586
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select10_reward_decision-making_outcome-ths.nii.gz
+Caudate:17.7590
+Frontal Lobe:21.3638
+Insula:3.8098
+Putamen:7.4469
+Temporal Lobe:0.1422
+Thalamus:0.2031
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select11_reward_decision-making_anticipation-ths.nii.gz
+Caudate:11.9885
+Putamen:0.9192
+Temporal Lobe:12.7500
+Thalamus:0.0731
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select12_reward_decision-making_decision-ths.nii.gz
+Frontal Lobe:10.1243
+Insula:17.9645
+Occipital Lobe:42.9704
+Putamen:0.1183
