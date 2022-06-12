@@ -1,0 +1,73 @@
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_1-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_1-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_1-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_2-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_2-ths.nii.gz
+Left Cerebral White Matter
+Left Cerebral Cortex
+Left Lateral Ventricle
+Left Thalamus
+Left Caudate
+Left Putamen
+Left Pallidum
+Left Accumbens
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_2-ths.nii.gz
+Caudate
+Thalamus
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_3-ths.nii.gz
+Subcallosal Cortex
+Frontal Orbital Cortex
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_3-ths.nii.gz
+Right Cerebral White Matter
+Right Cerebral Cortex
+Right Lateral Ventricle
+Right Caudate
+Right Putamen
+Right Pallidum
+Right Accumbens
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_3-ths.nii.gz
+Caudate
+Frontal Lobe
+Putamen
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_4-ths.nii.gz
+Frontal Pole
+Insular Cortex
+Inferior Frontal Gyrus, pars triangularis
+Inferior Frontal Gyrus, pars opercularis
+Frontal Orbital Cortex
+Frontal Operculum Cortex
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_4-ths.nii.gz
+Left Cerebral White Matter
+Left Cerebral Cortex
+Left Putamen
+Right Cerebral White Matter
+Right Cerebral Cortex
+Right Putamen
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_4-ths.nii.gz
+Frontal Lobe
+Insula
+Putamen
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
+Paracingulate Gyrus
+Cingulate Gyrus, anterior division
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
+Left Cerebral Cortex
+Right Cerebral White Matter
+Right Cerebral Cortex
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
+Frontal Lobe

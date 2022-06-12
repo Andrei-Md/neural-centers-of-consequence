@@ -1,0 +1,61 @@
+atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select01_wm-ths.nii.gz
+Caudate
+Frontal Lobe
+Insula
+Occipital Lobe
+Parietal Lobe
+Putamen
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select02_wm_decision-making-ths.nii.gz
+Parietal Lobe
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select03_reward_anticipation_rw-norw-ths.nii.gz
+Caudate
+Frontal Lobe
+Insula
+Putamen
+Temporal Lobe
+Thalamus
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select04_reward_anticipation_high_low_rew-ths.nii.gz
+Caudate
+Frontal Lobe
+Putamen
+Temporal Lobe
+Thalamus
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select05_reward_anticipation_exp_recv_rew-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select06_reward_outcome_rw-norw-ths.nii.gz
+Temporal Lobe
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select07_reward_outcome_risk-safe-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select08_reward_outcome_high-low-ths.nii.gz
+Frontal Lobe
+Parietal Lobe
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select09_reward_outcome_win-lose-ths.nii.gz
+Caudate
+Frontal Lobe
+Putamen
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select10_reward_decision-making_outcome-ths.nii.gz
+Caudate
+Frontal Lobe
+Insula
+Putamen
+Temporal Lobe
+Thalamus
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select11_reward_decision-making_anticipation-ths.nii.gz
+Caudate
+Putamen
+Temporal Lobe
+Thalamus
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/select12_reward_decision-making_decision-ths.nii.gz
+Frontal Lobe
+Insula
+Occipital Lobe
+Putamen
