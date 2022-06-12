@@ -71,3 +71,20 @@ Right Cerebral Cortex:89.3450
 
  atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_5-ths.nii.gz
 Frontal Lobe:84.5000
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_6-ths.nii.gz
+Frontal Pole:0.1311
+Insular Cortex:31.6066
+Inferior Frontal Gyrus, pars triangularis:0.8525
+Frontal Orbital Cortex:12.2787
+Frontal Operculum Cortex:7.5738
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_6-ths.nii.gz
+Right Cerebral White Matter:22.3914
+Right Cerebral Cortex:77.4440
+Right Putamen:0.0323
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_exp/img_combo1_6-ths.nii.gz
+Frontal Lobe:18.2459
+Insula:36.1311
+Putamen:0.0984
