@@ -1,0 +1,53 @@
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_1-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_1-ths.nii.gz
+Left Cerebral White Matter
+Left Cerebral Cortex
+Left Lateral Ventricle
+Left Caudate
+Left Pallidum
+Left Accumbens
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_1-ths.nii.gz
+Caudate
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_2-ths.nii.gz
+Superior Frontal Gyrus
+Paracingulate Gyrus
+Cingulate Gyrus, anterior division
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_2-ths.nii.gz
+Left Cerebral White Matter
+Left Cerebral Cortex
+Right Cerebral White Matter
+Right Cerebral Cortex
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_2-ths.nii.gz
+Frontal Lobe
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_3-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_3-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_3-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_4-ths.nii.gz
+Superior Frontal Gyrus
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+Paracingulate Gyrus
+Cingulate Gyrus, anterior division
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_4-ths.nii.gz
+Left Cerebral Cortex
+Right Cerebral White Matter
+Right Cerebral Cortex
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_4-ths.nii.gz
+Frontal Lobe
+
+ atlasquery -a Harvard-Oxford Cortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_5-ths.nii.gz
+
+ atlasquery -a Harvard-Oxford Subcortical Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_5-ths.nii.gz
+
+ atlasquery -a MNI Structural Atlas -m ../../clusters/nii_ths/by_grp/img_combo2_5-ths.nii.gz
